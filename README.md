@@ -18,12 +18,14 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 ### Open Worldwide Application Security Project ([OWASP](https://owasp.org/))
 * [OWASP Software Component Verification Standard](https://owasp.org/www-project-software-component-verification-standard/)
 ### Open Source Security Foundation ([OpenSSF](https://openssf.org/))
-
+* [The Open Source Software Security Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/)
+* [OpenSSF Working Groups](https://openssf.org/community/openssf-working-groups/)
+* [Securing Your Software Supply Chain with Sigstore Course](https://openssf.org/training/securing-your-software-supply-chain-with-sigstore-course/)
 ### Cloud Native Computing Foundation ([CNCF](https://www.cncf.io/))
 
 ## Initiatives
 * [Supply-chain Levels for Software Artifacts (SLSA)](https://slsa.dev/)
-* [sigstore](https://www.sigstore.dev/)
+* [OpenSSF sigstore](https://www.sigstore.dev/)
 
 ## Standards, Frameworks, Best Practices
 * [OWASP Software Component Verification Standard (SCVS)](https://owasp.org/www-project-software-component-verification-standard/)
@@ -32,6 +34,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Securing the Software Supply Chain - Recommended Practices Guide for Developers](https://media.defense.gov/2022/Sep/01/2003068942/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_DEVELOPERS.PDF), Enduring Security Framework (ESF) Software Supply Chain Working Panel, [Critical Infrastructure Partnership Advisory Council (CIPAC)](https://www.cisa.gov/resources-tools/groups/critical-infrastructure-partnership-advisory-council-cipac), August 2022
 
 ## Regulations
+* [The European Cyber Resilience Act (CRA)](https://www.european-cyber-resilience-act.com/), September 2022
 
 ## Vulnerability Management
 ##### EPSS
@@ -85,15 +88,18 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Software Transparency - Supply Chain Security in an Era of Software-Driven Society](https://www.amazon.com/Software-Transparency-Security-Software-Driven-Society/dp/1394158483) by [Chris Huges](https://www.linkedin.com/in/resilientcyber/) & [Tony Turner](https://www.linkedin.com/in/tonyturnercissp/) 
 
 ## Industry Reports
-* [Synopsis Open Source Security and Risk Analysis Report](https://www.synopsys.com/software-integrity/resources/analyst-reports/open-source-security-risk-analysis.html), 2023
+* [Synopsis Open Source Security and Risk Analysis Report](https://www.synopsys.com/software-integrity/resources/analyst-reports/open-source-security-risk-analysis.html), Synopsis, 2023
+* [The State of Dependency Management](https://www.endorlabs.com/state-of-dependency-management), Endor Labs, 2023
 * [Software Bill of Materials (SBOM) and Cybersecurity Readiness](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/LF%20Research/State%20of%20Software%20Bill%20of%20Materials%20-%20Report.pdf), The Linux Foundation, January 2022
 
 ## Guides / Documentation
 * [Authoritative Guide to SBOM](https://cyclonedx.org/guides/sbom/OWASP_CycloneDX-SBOM-Guide-en.pdf), OWASP CycloneDX, June 2023
 
 ## Articles / White Papers
+* [Tragedy of the Digital Commons](https://ssrn.com/abstract=4245266), Sharma, Chinmayi, Written: August 2022, Last Revised: May 2023
 * [Principles and Practices for Software Bill of Materials for Medical Device Cybersecurity](https://www.imdrf.org/sites/default/files/2023-04/Principles%20and%20Practices%20for%20Software%20Bill%20of%20Materials%20for%20Medical%20Device%20Cybersecurity%20%28N73%29.pdf),  Medical Device Cybersecurity Working Group, International Medical Device Regulators Forum, April 2023
 * [An Empirical Study on Software Bill of Materials: Where We Stand and the Road Ahead](https://arxiv.org/pdf/2301.05362.pdf), February 2023
+* [Taxonomy of Attacks on Open-Source Software Supply Chains](https://arxiv.org/pdf/2204.04008.pdf), April 2022
 * [Using the Software Bill of Materials for Enhancing Cybersecurity](https://english.ncsc.nl/binaries/ncsc-en/documenten/publications/2021/february/4/using-the-software-bill-of-materials-for-enhancing-cybersecurity/Final+Report+SBoM+for+Cybersecurity+v1.0.pdf), Capgemini, January 2021
 * [Software Supply Chain Attacks](https://www.dni.gov/files/NCSC/documents/supplychain/20190327-Software-Supply-Chain-Attacks02.pdf), Office of the Director of  National Intelligence (DNI), 2017
 
@@ -105,6 +111,9 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Tom Alrich's Blog](http://tomalrichblog.blogspot.com/) by Tom Alrich
 
 ## Podcasts
+
+## Events
+* [OpenSSF Day Europe, Bilbao, Spain – 18 September 2023](https://openssf.org/event/openssf-day-europe-september-18-in-bilbao-spain/)
 
 ## Related Github Repos
 * [bureado / awesome-software-supply-chain-security](https://github.com/bureado/awesome-software-supply-chain-security)
