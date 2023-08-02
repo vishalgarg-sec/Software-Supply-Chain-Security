@@ -13,8 +13,8 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [SBOM-a-rama 2023 Recordings](https://www.cisa.gov/news-events/events/sbom-rama)
 * [SBOM-a-rama 2021 Recordings](https://www.cisa.gov/resources-tools/resources/cisa-sbom-rama)
 ### National Institute of Standards and Technology ([NIST](https://www.nist.gov/))
+* [Improving the Nation's Cybersecurity: NIST’s Responsibilities Under the May 2021 Executive Order](https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity)
 * [NIST SP 800-161 Rev.1 - Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/161/r1/final), May 2022
-* [Software Supply Chain Security Guidance](https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity/software-supply-chain-security-guidance)
 * [Secure Software Development Framework (SSDF)](https://csrc.nist.gov/Projects/ssdf)
 ### Open Worldwide Application Security Project ([OWASP](https://owasp.org/))
 * [OWASP Software Component Verification Standard](https://owasp.org/www-project-software-component-verification-standard/)
@@ -24,22 +24,31 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [The Open Source Software Security Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/)
 * [OpenSSF Working Groups](https://openssf.org/community/openssf-working-groups/)
 * [Securing Your Software Supply Chain with Sigstore Course](https://openssf.org/training/securing-your-software-supply-chain-with-sigstore-course/)
+* [OpenSSF Scorecard](https://securityscorecards.dev/)
 ### Cloud Native Computing Foundation ([CNCF](https://www.cncf.io/))
 ### [Software Transparency Foundation](https://st.foundation/)
 * [OSSKB.org](https://osskb.org/)
 
-## Initiatives
-* [OpenSSF sigstore](https://www.sigstore.dev/)
+## Regulations
+* [EO-14028 - Executive Order on Improving the Nation’s Cybersecurity](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/), May 12, 2021
+* [The European Cyber Resilience Act (CRA)](https://www.european-cyber-resilience-act.com/), September 2022
 
 ## Standards, Frameworks, Best Practices
 * [Supply-chain Levels for Software Artifacts (SLSA)](https://slsa.dev/), [[GitHub]](https://github.com/slsa-framework/slsa)
+* [Introducing SLSA, an End-to-End Framework for Supply Chain Integrity](https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html)
 * [OWASP Software Component Verification Standard (SCVS)](https://owasp.org/www-project-software-component-verification-standard/)
 * [OASIS Common Security Advisory Framework (CSAF)](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=csaf)
 * [NIST Secure Software Development Framework (SSDF)](https://csrc.nist.gov/Projects/ssdf)
+* [CIS Software Supply Chain Security Guide v1.0](https://www.cisecurity.org/insights/white-papers/cis-software-supply-chain-security-guide), June 2022
 * [Securing the Software Supply Chain - Recommended Practices Guide for Developers](https://media.defense.gov/2022/Sep/01/2003068942/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_DEVELOPERS.PDF), Enduring Security Framework (ESF) Software Supply Chain Working Panel, [Critical Infrastructure Partnership Advisory Council (CIPAC)](https://www.cisa.gov/resources-tools/groups/critical-infrastructure-partnership-advisory-council-cipac), August 2022
 
-## Regulations
-* [The European Cyber Resilience Act (CRA)](https://www.european-cyber-resilience-act.com/), September 2022
+## Initiatives
+* [OpenSSF sigstore](https://www.sigstore.dev/)
+
+## Software Supply Chain Threats
+* [SLSA Threats & Mitigations](https://slsa.dev/spec/v1.0/threats)
+* [Taxonomy of Attacks on Open-Source Software Supply Chains](https://arxiv.org/abs/2204.04008)
+* [Open-Source Software Supply Chain Attack Vectors](https://sap.github.io/risk-explorer-for-software-supply-chains/#/attackvectors)
 
 ## Vulnerability Management
 ##### EPSS
@@ -65,9 +74,6 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [SWID](https://csrc.nist.gov/projects/Software-Identification-SWID)
 * [Package URL (purl)](https://github.com/package-url/purl-spec)
 * 
-## Software Supply Chain Threats
-* [SLSA Threats & Mitigations](https://slsa.dev/spec/v1.0/threats)
-
 ## Bill of Materials
 * [Software Bill of Materials (SBOM)](https://cyclonedx.org/capabilities/sbom)
 * [Software as a Service Bill of Materials (SaaSBOM)](https://cyclonedx.org/capabilities/saasbom)
@@ -94,17 +100,22 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 ### SBOM Generation
 #### Native
 #### Open-Source
+* [spdx-sbom-generator](https://github.com/opensbom-generator/spdx-sbom-generator)
+* [syft](https://github.com/anchore/syft)
+* [kubernetes bom tool](https://github.com/kubernetes-sigs/bom)
 #### Commercial
 
-### SBOM Scanning / Analysis
+### SBOM Scanning & Analysis
 #### Native
 #### Open-Source
 * [OWASP Dependency-Track](https://dependencytrack.org/)
+* [Graph for Understanding Artifact Composition (GUAC)](https://guac.sh/), [[GitHub](https://github.com/guacsec/guac)], [[Google Article](https://security.googleblog.com/2022/10/announcing-guac-great-pairing-with-slsa.html)]
 #### Commercial
 
 ### SBOM Governance
 #### Native
 #### Open-Source
+* [Aqua Chain-bench](https://github.com/aquasecurity/chain-bench/tree/main)
 #### Commercial
 
 ### Other / Unsorted
@@ -134,18 +145,24 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Tom Alrich's blog](http://tomalrichblog.blogspot.com/) by Tom Alrich
 * [Endor Labs resources](https://www.endorlabs.com/resources-overview)
 * [Chainguard blog](https://www.chainguard.dev/unchained)
+* [snyk blog](https://snyk.io/blog/?tag=open-source-security)
 * [TestifySec blog](https://www.testifysec.com/blog/)
+
 
 ## Webinars
 * [Endor Labs webinars](https://www.endorlabs.com/resources-overview)
 
 ## Podcasts
-
+* [daBOM](https://dabom.captivate.fm/)
 ## Events
 * [OpenSSF Day Europe, Bilbao, Spain – 18 September 2023](https://openssf.org/event/openssf-day-europe-september-18-in-bilbao-spain/)
 
 ## From the Web
+### Readings
 * [“SBOM” should not exist! Long live the SBOM.](https://medium.com/@steve_springett/sbom-should-not-exist-long-live-the-sbom-4554d5c31ff9)
+* [SLSA dip — At the Source of the problem!](https://medium.com/boostsecurity/slsa-dip-source-of-the-problem-a1dac46a976)
+### Videos
+* [Why you need an XBOM – the eXtended Software Bill of Materials](https://www.youtube.com/watch?v=KPa-v5KndIY)
 
 ## Related Github Repos
 * [bureado / awesome-software-supply-chain-security](https://github.com/bureado/awesome-software-supply-chain-security)
