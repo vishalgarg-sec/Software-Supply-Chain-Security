@@ -60,6 +60,11 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Open Source Vulnerability Database (OSV)](https://osv.dev/)
 * [Global Security Database (GSD)](https://gsd.id/)
 
+## Software Identification
+* [Common Platform Enumeration (CPE)](https://csrc.nist.gov/pubs/ir/7697/final)
+* [SWID](https://csrc.nist.gov/projects/Software-Identification-SWID)
+* [Package URL (purl)](https://github.com/package-url/purl-spec)
+* 
 ## Software Supply Chain Threats
 * [SLSA Threats & Mitigations](https://slsa.dev/spec/v1.0/threats)
 
@@ -123,10 +128,6 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Taxonomy of Attacks on Open-Source Software Supply Chains](https://arxiv.org/pdf/2204.04008.pdf), April 2022
 * [Using the Software Bill of Materials for Enhancing Cybersecurity](https://english.ncsc.nl/binaries/ncsc-en/documenten/publications/2021/february/4/using-the-software-bill-of-materials-for-enhancing-cybersecurity/Final+Report+SBoM+for+Cybersecurity+v1.0.pdf), Capgemini, January 2021
 * [Software Supply Chain Attacks](https://www.dni.gov/files/NCSC/documents/supplychain/20190327-Software-Supply-Chain-Attacks02.pdf), Office of the Director of  National Intelligence (DNI), 2017
-* [“SBOM” should not exist! Long live the SBOM.](https://medium.com/@steve_springett/sbom-should-not-exist-long-live-the-sbom-4554d5c31ff9)
-
-## Webinars
-* [Endor Labs webinars](https://www.endorlabs.com/resources-overview)
 
 ## Blogs
 * [Resilient Cyber](https://resilientcyber.substack.com/) by Chris Huges
@@ -135,10 +136,16 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Chainguard blog](https://www.chainguard.dev/unchained)
 * [TestifySec blog](https://www.testifysec.com/blog/)
 
+## Webinars
+* [Endor Labs webinars](https://www.endorlabs.com/resources-overview)
+
 ## Podcasts
 
 ## Events
 * [OpenSSF Day Europe, Bilbao, Spain – 18 September 2023](https://openssf.org/event/openssf-day-europe-september-18-in-bilbao-spain/)
+
+## From the Web
+* [“SBOM” should not exist! Long live the SBOM.](https://medium.com/@steve_springett/sbom-should-not-exist-long-live-the-sbom-4554d5c31ff9)
 
 ## Related Github Repos
 * [bureado / awesome-software-supply-chain-security](https://github.com/bureado/awesome-software-supply-chain-security)
@@ -147,5 +154,5 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [AevaOnline / supply-chain-synthesis](https://github.com/AevaOnline/supply-chain-synthesis/)
 
 ## Miscellaneous / Unsorted
-* [Package URL (purl)](https://github.com/package-url/purl-spec)
+
 
