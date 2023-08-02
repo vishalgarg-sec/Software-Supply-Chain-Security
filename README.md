@@ -6,6 +6,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 ## Organizations, Foundations, Working Groups
 ### National Telecommunications and Information Administration ([NTIA](https://www.ntia.gov/))
 * [NTIA SBOM Resources](https://www.ntia.gov/page/software-bill-materials)
+* [SBOM FAQ](https://www.ntia.doc.gov/files/ntia/publications/sbom_faq_-_fork_for_october_22_meeting.pdf)
 ### Cybersecurity and Infrastructure Security Agency ([CISA](https://www.cisa.gov/))
 * [CISA SBOM Resources](https://www.cisa.gov/sbom)
 * [Software Bill of Materials (SBOM) Sharing Lifecycle Report](https://www.cisa.gov/sites/default/files/2023-04/sbom-sharing-lifecycle-report_508.pdf), April 2023
@@ -64,23 +65,26 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [SPDX](https://spdx.dev/)
 * [SWID](https://csrc.nist.gov/projects/Software-Identification-SWID)
 
-### Tooling
+## Tooling
+### Vendors
+* [Chainguard](https://www.chainguard.dev/)
+* [Endor Labs](https://www.endorlabs.com/)
+* [TestifySec](https://www.testifysec.com/)
+### SBOM Generation
+#### Native
+#### Open-Source
+#### Commercial
 
-#### SBOM Generation
-##### Native
-##### Open-Source
-##### Commercial
-
-#### SBOM Scanning / Analysis
-##### Native
-##### Open-Source
+### SBOM Scanning / Analysis
+#### Native
+#### Open-Source
 * [OWASP Dependency-Track](https://dependencytrack.org/)
-##### Commercial
+#### Commercial
 
-#### SBOM Governance
-##### Native
-##### Open-Source
-##### Commercial
+### SBOM Governance
+#### Native
+#### Open-Source
+#### Commercial
 
 
 
