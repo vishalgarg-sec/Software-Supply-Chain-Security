@@ -1,7 +1,7 @@
 # Software Supply Chain Security
 
 ## Introduction
-A knowledge base comprising **Software Supply Chain Security** initiatives, standards, regulations, organizations, commercial vendors, tooling, books, articles and other resources from the web.
+A knowledge base comprising **Software Supply Chain Security** initiatives, standards, regulations, organizations, vendors, tooling, books, articles and other learning resources from the web. The list was initially compiled to help me with my research for my upcoming book on Software Supply Chain Security. I have now decided to make the list public for the benefit of everyone working in this domain.
 
 ## Organizations, Foundations, Working Groups
 ### National Telecommunications and Information Administration ([NTIA](https://www.ntia.gov/))
@@ -23,12 +23,14 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [OpenSSF Working Groups](https://openssf.org/community/openssf-working-groups/)
 * [Securing Your Software Supply Chain with Sigstore Course](https://openssf.org/training/securing-your-software-supply-chain-with-sigstore-course/)
 ### Cloud Native Computing Foundation ([CNCF](https://www.cncf.io/))
+### [Software Transparency Foundation](https://st.foundation/)
+* [OSSKB.org](https://osskb.org/)
 
 ## Initiatives
-* [Supply-chain Levels for Software Artifacts (SLSA)](https://slsa.dev/)
 * [OpenSSF sigstore](https://www.sigstore.dev/)
 
 ## Standards, Frameworks, Best Practices
+* [Supply-chain Levels for Software Artifacts (SLSA)](https://slsa.dev/), [[GitHub]](https://github.com/slsa-framework/slsa)
 * [OWASP Software Component Verification Standard (SCVS)](https://owasp.org/www-project-software-component-verification-standard/)
 * [OASIS Common Security Advisory Framework (CSAF)](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=csaf)
 * [NIST Secure Software Development Framework (SSDF)](https://csrc.nist.gov/Projects/ssdf)
@@ -59,16 +61,28 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 ## Software Supply Chain Threats
 * [SLSA Threats & Mitigations](https://slsa.dev/spec/v1.0/threats)
 
+## Bill of Materials
+* [Software Bill of Materials (SBOM)](https://cyclonedx.org/capabilities/sbom)
+* [Software as a Service Bill of Materials (SaaSBOM)](https://cyclonedx.org/capabilities/saasbom)
+* [Hardware Bill of Materials (HBOM)](https://cyclonedx.org/capabilities/hbom)
+* [Machine Learning Bill of Materials (MLBOM)](https://cyclonedx.org/capabilities/mlbom)
+* [Manufacturing Bill of Materials (MBOM)](https://cyclonedx.org/capabilities/mbom)
+* [Operations Bill of Materials (OBOM)](https://cyclonedx.org/capabilities/obom)
+* [Cryptography Bill of Materials (CBOM)](https://github.com/IBM/CBOM)
+
 ## SBOM
 ### Formats and Specifications
 * [CycloneDX](https://cyclonedx.org/)
 * [SPDX](https://spdx.dev/)
 * [SWID](https://csrc.nist.gov/projects/Software-Identification-SWID)
+### SBOM Lifecycle / Implementation Practices
+* [GitLab Software Supply Chain Security Direction](https://about.gitlab.com/direction/supply-chain/)
 
 ## Tooling
 ### Vendors
 * [Chainguard](https://www.chainguard.dev/)
 * [Endor Labs](https://www.endorlabs.com/)
+* [FOSSA](https://fossa.com/)
 * [TestifySec](https://www.testifysec.com/)
 ### SBOM Generation
 #### Native
@@ -86,7 +100,8 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 #### Open-Source
 #### Commercial
 
-
+### Other / Unsorted
+* [GUAC: Graph for Understanding Artifact Composition](https://guac.sh/), [[GitHub]](https://github.com/guacsec/guac)
 
 ## Books
 * [Software Transparency - Supply Chain Security in an Era of Software-Driven Society](https://www.amazon.com/Software-Transparency-Security-Software-Driven-Society/dp/1394158483) by [Chris Huges](https://www.linkedin.com/in/resilientcyber/) & [Tony Turner](https://www.linkedin.com/in/tonyturnercissp/) 
@@ -108,11 +123,14 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Software Supply Chain Attacks](https://www.dni.gov/files/NCSC/documents/supplychain/20190327-Software-Supply-Chain-Attacks02.pdf), Office of the Director of  National Intelligence (DNI), 2017
 
 ## Webinars
-
+* [Endor Labs webinars](https://www.endorlabs.com/resources-overview)
 
 ## Blogs
 * [Resilient Cyber](https://resilientcyber.substack.com/) by Chris Huges
-* [Tom Alrich's Blog](http://tomalrichblog.blogspot.com/) by Tom Alrich
+* [Tom Alrich's blog](http://tomalrichblog.blogspot.com/) by Tom Alrich
+* [Endor Labs resources](https://www.endorlabs.com/resources-overview)
+* [Chainguard blog](https://www.chainguard.dev/unchained)
+* [TestifySec blog](https://www.testifysec.com/blog/)
 
 ## Podcasts
 
