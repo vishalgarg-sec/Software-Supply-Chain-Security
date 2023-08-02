@@ -1,7 +1,7 @@
 # Software Supply Chain Security
 
 ## Introduction
-A knowledge base comprising **Software Supply Chain Security** initiatives, standards, regulations, organizations, vendors, tooling, books, articles and other learning resources from the web. The list was initially compiled to help me with my research for my upcoming book on Software Supply Chain Security. I have now decided to make the list public for the benefit of everyone working in this domain.
+A knowledge base comprising **Software Supply Chain Security** initiatives, standards, regulations, organizations, vendors, tooling, books, articles and a plethora of other learning resources from the web. The list was initially compiled to help me with my research for my upcoming book on Software Supply Chain Security. However, I have decided to make the list public for the benefit of everyone else working in this domain. I will endeavour to keep the list up to date as best as I can.
 
 ## Organizations, Foundations, Working Groups
 ### National Telecommunications and Information Administration ([NTIA](https://www.ntia.gov/))
@@ -18,6 +18,8 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Secure Software Development Framework (SSDF)](https://csrc.nist.gov/Projects/ssdf)
 ### Open Worldwide Application Security Project ([OWASP](https://owasp.org/))
 * [OWASP Software Component Verification Standard](https://owasp.org/www-project-software-component-verification-standard/)
+* [OWASP CycloneDX](https://owasp.org/www-project-cyclonedx/)
+* [Article on Component Analysis](https://owasp.org/www-community/Component_Analysis)
 ### Open Source Security Foundation ([OpenSSF](https://openssf.org/))
 * [The Open Source Software Security Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/)
 * [OpenSSF Working Groups](https://openssf.org/community/openssf-working-groups/)
