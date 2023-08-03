@@ -54,6 +54,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [SLSA Threats & Mitigations](https://slsa.dev/spec/v1.0/threats)
 * [Taxonomy of Attacks on Open-Source Software Supply Chains](https://arxiv.org/abs/2204.04008)
 * [Open-Source Software Supply Chain Attack Vectors](https://sap.github.io/risk-explorer-for-software-supply-chains/#/attackvectors)
+* [Software Supply Chain Compromises](https://github.com/IQTLabs/software-supply-chain-compromises)
 
 ## Vulnerability Management
 ##### EPSS
@@ -128,7 +129,8 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 ## Software Supply Chain Security in Cloud Environments
 
 ## Books
-* [Software Transparency - Supply Chain Security in an Era of Software-Driven Society](https://www.amazon.com/Software-Transparency-Security-Software-Driven-Society/dp/1394158483) by [Chris Huges](https://www.linkedin.com/in/resilientcyber/) & [Tony Turner](https://www.linkedin.com/in/tonyturnercissp/) 
+* [Software Transparency - Supply Chain Security in an Era of Software-Driven Society](https://www.amazon.com/Software-Transparency-Security-Software-Driven-Society/dp/1394158483) by [Chris Huges](https://www.linkedin.com/in/resilientcyber/) & [Tony Turner](https://www.linkedin.com/in/tonyturnercissp/)
+* [Software Supply Chain Security: Securing the End-to-End Supply Chain for Software, Firmware, and Hardware](https://www.amazon.com/Software-Supply-Chain-Security-End/dp/1098133706/) by [Cassie Crossley](https://www.linkedin.com/in/cassiecrossley/), Release date 31 January 2024
 
 ## Industry Reports
 * [Synopsis Open Source Security and Risk Analysis Report](https://www.synopsys.com/software-integrity/resources/analyst-reports/open-source-security-risk-analysis.html), Synopsis, 2023
@@ -176,6 +178,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [meta-fun / awesome-software-supply-chain-security](https://github.com/meta-fun/awesome-software-supply-chain-security)
 * [awesomeSBOM / awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
 * [AevaOnline / supply-chain-synthesis](https://github.com/AevaOnline/supply-chain-synthesis/)
+* [IQTLabs / software-supply-chain-compromises](https://github.com/IQTLabs/software-supply-chain-compromises)
 
 ## Miscellaneous / Unsorted
 
