@@ -19,13 +19,16 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 ### Open Worldwide Application Security Project ([OWASP](https://owasp.org/))
 * [OWASP Software Component Verification Standard](https://owasp.org/www-project-software-component-verification-standard/)
 * [OWASP CycloneDX](https://owasp.org/www-project-cyclonedx/)
-* [Article on Component Analysis](https://owasp.org/www-community/Component_Analysis)
+* [OWASP Top 10 CI/CD Security Risks](https://owasp.org/www-project-top-10-ci-cd-security-risks/)
+* [Article on Component Analysis](https://owasp.org/www-community/Component_Analysis) by [Steve Springett](https://www.linkedin.com/in/stevespringett/)
 ### Open Source Security Foundation ([OpenSSF](https://openssf.org/))
 * [The Open Source Software Security Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/)
 * [OpenSSF Working Groups](https://openssf.org/community/openssf-working-groups/)
 * [Securing Your Software Supply Chain with Sigstore Course](https://openssf.org/training/securing-your-software-supply-chain-with-sigstore-course/)
 * [OpenSSF Scorecard](https://securityscorecards.dev/)
 ### Cloud Native Computing Foundation ([CNCF](https://www.cncf.io/))
+* [CNCF Software Supply Chain Best Practices](https://project.linuxfoundation.org/hubfs/CNCF_SSCP_v1.pdf), [[GitHub](https://github.com/cncf/tag-security/blob/main/supply-chain-security/supply-chain-security-paper/CNCF_SSCP_v1.pdf)]
+* [Secure Software Factory Reference Architecture](https://github.com/cncf/tag-security/blob/main/supply-chain-security/secure-software-factory/Secure_Software_Factory_Whitepaper.pdf)
 ### [Software Transparency Foundation](https://st.foundation/)
 * [OSSKB.org](https://osskb.org/)
 
@@ -41,11 +44,13 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [NIST Secure Software Development Framework (SSDF)](https://csrc.nist.gov/Projects/ssdf)
 * [CIS Software Supply Chain Security Guide v1.0](https://www.cisecurity.org/insights/white-papers/cis-software-supply-chain-security-guide), June 2022
 * [Securing the Software Supply Chain - Recommended Practices Guide for Developers](https://media.defense.gov/2022/Sep/01/2003068942/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_DEVELOPERS.PDF), Enduring Security Framework (ESF) Software Supply Chain Working Panel, [Critical Infrastructure Partnership Advisory Council (CIPAC)](https://www.cisa.gov/resources-tools/groups/critical-infrastructure-partnership-advisory-council-cipac), August 2022
+* [Microsoft Secure Supply Chain Consumption Framework (S2C2F)](https://www.microsoft.com/en-us/security/blog/2022/11/16/microsoft-contributes-s2c2f-to-openssf-to-improve-supply-chain-security/)[[GitHub]](https://github.com/ossf/s2c2f)
 
 ## Initiatives
 * [OpenSSF sigstore](https://www.sigstore.dev/)
 
 ## Software Supply Chain Threats
+* [Catalog of Supply Chain Compromises](https://github.com/cncf/tag-security/tree/main/supply-chain-security/compromises)
 * [SLSA Threats & Mitigations](https://slsa.dev/spec/v1.0/threats)
 * [Taxonomy of Attacks on Open-Source Software Supply Chains](https://arxiv.org/abs/2204.04008)
 * [Open-Source Software Supply Chain Attack Vectors](https://sap.github.io/risk-explorer-for-software-supply-chains/#/attackvectors)
@@ -71,9 +76,9 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 
 ## Software Identification
 * [Common Platform Enumeration (CPE)](https://csrc.nist.gov/pubs/ir/7697/final)
-* [SWID](https://csrc.nist.gov/projects/Software-Identification-SWID)
+* [Software Identification (SWID)](https://csrc.nist.gov/projects/Software-Identification-SWID)
 * [Package URL (purl)](https://github.com/package-url/purl-spec)
-* 
+
 ## Bill of Materials
 * [Software Bill of Materials (SBOM)](https://cyclonedx.org/capabilities/sbom)
 * [Software as a Service Bill of Materials (SaaSBOM)](https://cyclonedx.org/capabilities/saasbom)
@@ -86,8 +91,8 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 ## SBOM
 ### Formats and Specifications
 * [CycloneDX](https://cyclonedx.org/)
-* [SPDX](https://spdx.dev/)
-* [SWID](https://csrc.nist.gov/projects/Software-Identification-SWID)
+* [Software Package Data Exchange (SPDX)](https://spdx.dev/)
+* [Software Identification (SWID)](https://csrc.nist.gov/projects/Software-Identification-SWID)
 ### SBOM Lifecycle / Implementation Practices
 * [GitLab Software Supply Chain Security Direction](https://about.gitlab.com/direction/supply-chain/)
 
@@ -100,9 +105,9 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 ### SBOM Generation
 #### Native
 #### Open-Source
+* [kubernetes bom tool](https://github.com/kubernetes-sigs/bom)
 * [spdx-sbom-generator](https://github.com/opensbom-generator/spdx-sbom-generator)
 * [syft](https://github.com/anchore/syft)
-* [kubernetes bom tool](https://github.com/kubernetes-sigs/bom)
 #### Commercial
 
 ### SBOM Scanning & Analysis
@@ -119,7 +124,8 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 #### Commercial
 
 ### Other / Unsorted
-* [GUAC: Graph for Understanding Artifact Composition](https://guac.sh/), [[GitHub]](https://github.com/guacsec/guac)
+
+## Software Supply Chain Security in Cloud Environments
 
 ## Books
 * [Software Transparency - Supply Chain Security in an Era of Software-Driven Society](https://www.amazon.com/Software-Transparency-Security-Software-Driven-Society/dp/1394158483) by [Chris Huges](https://www.linkedin.com/in/resilientcyber/) & [Tony Turner](https://www.linkedin.com/in/tonyturnercissp/) 
@@ -138,6 +144,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [An Empirical Study on Software Bill of Materials: Where We Stand and the Road Ahead](https://arxiv.org/pdf/2301.05362.pdf), February 2023
 * [Taxonomy of Attacks on Open-Source Software Supply Chains](https://arxiv.org/pdf/2204.04008.pdf), April 2022
 * [Using the Software Bill of Materials for Enhancing Cybersecurity](https://english.ncsc.nl/binaries/ncsc-en/documenten/publications/2021/february/4/using-the-software-bill-of-materials-for-enhancing-cybersecurity/Final+Report+SBoM+for+Cybersecurity+v1.0.pdf), Capgemini, January 2021
+* [BREAKING TRUST: Shades of Crisis Across an Insecure Software Supply Chain](https://www.atlanticcouncil.org/wp-content/uploads/2020/07/Breaking-trust-Shades-of-crisis-across-an-insecure-software-supply-chain.pdf), July 2020
 * [Software Supply Chain Attacks](https://www.dni.gov/files/NCSC/documents/supplychain/20190327-Software-Supply-Chain-Attacks02.pdf), Office of the Director of  National Intelligence (DNI), 2017
 
 ## Blogs
@@ -164,7 +171,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 ### Videos
 * [Why you need an XBOM – the eXtended Software Bill of Materials](https://www.youtube.com/watch?v=KPa-v5KndIY)
 
-## Related Github Repos
+## Related GitHub Repos
 * [bureado / awesome-software-supply-chain-security](https://github.com/bureado/awesome-software-supply-chain-security)
 * [meta-fun / awesome-software-supply-chain-security](https://github.com/meta-fun/awesome-software-supply-chain-security)
 * [awesomeSBOM / awesome-sbom](https://github.com/awesomeSBOM/awesome-sbom)
