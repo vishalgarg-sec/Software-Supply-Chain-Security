@@ -7,6 +7,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 ### National Telecommunications and Information Administration ([NTIA](https://www.ntia.gov/))
 * [NTIA SBOM Resources](https://www.ntia.gov/page/software-bill-materials)
 * [SBOM FAQ](https://www.ntia.doc.gov/files/ntia/publications/sbom_faq_-_fork_for_october_22_meeting.pdf)
+* [How-To Guide for SBOM Generation](https://www.ntia.gov/files/ntia/publications/howto_guide_for_sbom_generation_v1.pdf)
 ### Cybersecurity and Infrastructure Security Agency ([CISA](https://www.cisa.gov/))
 * [CISA SBOM Resources](https://www.cisa.gov/sbom)
 * [Software Bill of Materials (SBOM) Sharing Lifecycle Report](https://www.cisa.gov/sites/default/files/2023-04/sbom-sharing-lifecycle-report_508.pdf), April 2023
@@ -99,14 +100,20 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 
 ## Tooling
 ### Vendors
+* [Anchore](https://anchore.com/)
 * [Chainguard](https://www.chainguard.dev/)
+* [Codenotary](https://codenotary.com/)
+* [Cybeats](https://www.cybeats.com/)
 * [Endor Labs](https://www.endorlabs.com/)
 * [FOSSA](https://fossa.com/)
+* [Rezilion](https://www.rezilion.com/)
 * [TestifySec](https://www.testifysec.com/)
+
 ### SBOM Generation
 #### Native
 #### Open-Source
 * [kubernetes bom tool](https://github.com/kubernetes-sigs/bom)
+* [Microsoft’s SBOM Tool](https://github.com/microsoft/sbom-tool)
 * [spdx-sbom-generator](https://github.com/opensbom-generator/spdx-sbom-generator)
 * [syft](https://github.com/anchore/syft)
 #### Commercial
@@ -168,6 +175,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 
 ## From the Web
 ### Readings
+* [Lessons Not Learned From Software Supply Chain Attacks](https://www.darkreading.com/attacks-breaches/lessons-not-learned-from-software-supply-chain-attacks)
 * [“SBOM” should not exist! Long live the SBOM.](https://medium.com/@steve_springett/sbom-should-not-exist-long-live-the-sbom-4554d5c31ff9)
 * [SLSA dip — At the Source of the problem!](https://medium.com/boostsecurity/slsa-dip-source-of-the-problem-a1dac46a976)
 ### Videos
