@@ -26,7 +26,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [The Open Source Software Security Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/)
 * [OpenSSF Working Groups](https://openssf.org/community/openssf-working-groups/)
 * [Securing Your Software Supply Chain with Sigstore Course](https://openssf.org/training/securing-your-software-supply-chain-with-sigstore-course/)
-* [OpenSSF Scorecard](https://securityscorecards.dev/)
+* [OpenSSF Scorecard](https://securityscorecards.dev/), [[GitHub](https://github.com/ossf/scorecard)]
 ### Cloud Native Computing Foundation ([CNCF](https://www.cncf.io/))
 * [CNCF Software Supply Chain Best Practices](https://project.linuxfoundation.org/hubfs/CNCF_SSCP_v1.pdf), [[GitHub](https://github.com/cncf/tag-security/blob/main/supply-chain-security/supply-chain-security-paper/CNCF_SSCP_v1.pdf)]
 * [Secure Software Factory Reference Architecture](https://github.com/cncf/tag-security/blob/main/supply-chain-security/secure-software-factory/Secure_Software_Factory_Whitepaper.pdf)
@@ -38,7 +38,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [The European Cyber Resilience Act (CRA)](https://www.european-cyber-resilience-act.com/), September 2022
 
 ## Standards, Frameworks, Best Practices
-* [Supply-chain Levels for Software Artifacts (SLSA)](https://slsa.dev/), [[GitHub]](https://github.com/slsa-framework/slsa)
+* [Supply-chain Levels for Software Artifacts (SLSA)](https://slsa.dev/), [[GitHub](https://github.com/slsa-framework/slsa)], [[Google](https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html)]
 * [Introducing SLSA, an End-to-End Framework for Supply Chain Integrity](https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html)
 * [OWASP Software Component Verification Standard (SCVS)](https://owasp.org/www-project-software-component-verification-standard/)
 * [OASIS Common Security Advisory Framework (CSAF)](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=csaf)
@@ -56,6 +56,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Taxonomy of Attacks on Open-Source Software Supply Chains](https://arxiv.org/abs/2204.04008)
 * [Open-Source Software Supply Chain Attack Vectors](https://sap.github.io/risk-explorer-for-software-supply-chains/#/attackvectors)
 * [Software Supply Chain Compromises](https://github.com/IQTLabs/software-supply-chain-compromises)
+* [Google article on Software Supply Chain Threats](https://cloud.google.com/software-supply-chain-security/docs/attack-vectors)
 
 ## Vulnerability Management
 ##### EPSS
@@ -134,6 +135,12 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 ### Other / Unsorted
 
 ## Software Supply Chain Security in Cloud Environments
+### AWS
+
+### Azure
+
+### GCP
+* [Google's Software Supply Chain Security documentation](https://cloud.google.com/software-supply-chain-security/docs)
 
 ## Books
 * [Software Transparency - Supply Chain Security in an Era of Software-Driven Society](https://www.amazon.com/Software-Transparency-Security-Software-Driven-Society/dp/1394158483) by [Chris Huges](https://www.linkedin.com/in/resilientcyber/) & [Tony Turner](https://www.linkedin.com/in/tonyturnercissp/)
