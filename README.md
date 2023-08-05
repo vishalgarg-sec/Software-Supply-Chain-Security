@@ -58,6 +58,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Open-Source Software Supply Chain Attack Vectors](https://sap.github.io/risk-explorer-for-software-supply-chains/#/attackvectors)
 * [Software Supply Chain Compromises](https://github.com/IQTLabs/software-supply-chain-compromises)
 * [Google article on Software Supply Chain Threats](https://cloud.google.com/software-supply-chain-security/docs/attack-vectors)
+* [Software Supply Chain Attacks](https://www.dni.gov/files/NCSC/documents/supplychain/Software_Supply_Chain_Attacks.pdf)
 
 ## Vulnerability Management
 ##### EPSS
@@ -150,10 +151,12 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 
 
 ## Industry Reports
+* [Sonatype 8th Annual State of the Software Supply Chain report](https://www.sonatype.com/state-of-the-software-supply-chain/introduction), Sonatype
 * [Synopsis Open Source Security and Risk Analysis Report](https://www.synopsys.com/software-integrity/resources/analyst-reports/open-source-security-risk-analysis.html), Synopsis, 2023
 * [The State of Dependency Management](https://www.endorlabs.com/state-of-dependency-management), Endor Labs, 2023
 * [OpenSSF Annual Report](https://openssf.org/wp-content/uploads/sites/132/2022/12/OpenSSF-Annual-Report-2022.pdf), OpenSSF, 2022
 * [Software Bill of Materials (SBOM) and Cybersecurity Readiness](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/LF%20Research/State%20of%20Software%20Bill%20of%20Materials%20-%20Report.pdf), The Linux Foundation, January 2022
+* [The State of Enterprise Open Source](https://www.redhat.com/en/enterprise-open-source-report/2022), RedHat, 2022
 * [Threat Landscape for Supply Chain Attacks](https://www.enisa.europa.eu/publications/threat-landscape-for-supply-chain-attacks), ENISA, July 2021
 * [The State of Open Source Security Vulnerabilities](https://www.mend.io/wp-content/media/2021/03/The-state-of-open-source-vulnerabilities-2021-annual-report.pdf), Mend, 2021
 * [GSMA Open Source Software Security Research Summary](https://www.gsma.com/security/wp-content/uploads/2020/12/Open-Source-Software-Security-Research-Summary-v1.1.pdf), GSMA, December 2020
