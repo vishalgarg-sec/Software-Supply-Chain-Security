@@ -154,6 +154,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [The State of Dependency Management](https://www.endorlabs.com/state-of-dependency-management), Endor Labs, 2023
 * [OpenSSF Annual Report](https://openssf.org/wp-content/uploads/sites/132/2022/12/OpenSSF-Annual-Report-2022.pdf), OpenSSF, 2022
 * [Software Bill of Materials (SBOM) and Cybersecurity Readiness](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/LF%20Research/State%20of%20Software%20Bill%20of%20Materials%20-%20Report.pdf), The Linux Foundation, January 2022
+* [Threat Landscape for Supply Chain Attacks](https://www.enisa.europa.eu/publications/threat-landscape-for-supply-chain-attacks), ENISA, July 2021
 * [The State of Open Source Security Vulnerabilities](https://www.mend.io/wp-content/media/2021/03/The-state-of-open-source-vulnerabilities-2021-annual-report.pdf), Mend, 2021
 * [GSMA Open Source Software Security Research Summary](https://www.gsma.com/security/wp-content/uploads/2020/12/Open-Source-Software-Security-Research-Summary-v1.1.pdf), GSMA, December 2020
 * [Snyk State of Open Source Security Report](https://go.snyk.io/rs/677-THP-415/images/State%20Of%20Open%20Source%20Security%20Report%202020.pdf), Snyk, 2020
