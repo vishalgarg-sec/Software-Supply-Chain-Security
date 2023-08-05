@@ -161,8 +161,9 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [State of Software Security - Open Source Edition](https://www.veracode.com/sites/default/files/pdf/resources/reports/state-of-software-security-open-source-edition-veracode-report.pdf), Veracode, 2020
 
 
-## Guides / Documentation
+## Guides / Best Practices
 * [Authoritative Guide to SBOM](https://cyclonedx.org/guides/sbom/OWASP_CycloneDX-SBOM-Guide-en.pdf), OWASP CycloneDX, June 2023
+* [Cybersecurity Information Sheet (CSI) on Defending Continuous Integration/Continuous Delivery (CI/CD) Environments](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3441780/nsa-and-cisa-best-practices-to-secure-cloud-continuous-integrationcontinuous-de/), National Security Agency (NSA) and Cybersecurity and Infrastructure Security Agency (CISA) joint report, June 2023
 
 ## Articles / White Papers
 * [Tragedy of the Digital Commons](https://ssrn.com/abstract=4245266), Sharma, Chinmayi, Written: August 2022, Last Revised: May 2023
