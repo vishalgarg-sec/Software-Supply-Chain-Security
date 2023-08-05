@@ -22,6 +22,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [OWASP CycloneDX](https://owasp.org/www-project-cyclonedx/)
 * [OWASP Top 10 CI/CD Security Risks](https://owasp.org/www-project-top-10-ci-cd-security-risks/)
 * [Article on Component Analysis](https://owasp.org/www-community/Component_Analysis) by [Steve Springett](https://www.linkedin.com/in/stevespringett/)
+* [OWASP BOM Maturity Model](https://scvs.owasp.org/bom-maturity-model/)
 ### Open Source Security Foundation ([OpenSSF](https://openssf.org/))
 * [The Open Source Software Security Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/)
 * [OpenSSF Working Groups](https://openssf.org/community/openssf-working-groups/)
@@ -124,6 +125,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 #### Open-Source
 * [OWASP Dependency-Track](https://dependencytrack.org/)
 * [Graph for Understanding Artifact Composition (GUAC)](https://guac.sh/), [[GitHub](https://github.com/guacsec/guac)], [[Google Article](https://security.googleblog.com/2022/10/announcing-guac-great-pairing-with-slsa.html)]
+* [NTIA Conformance Checker](https://github.com/spdx/ntia-conformance-checker)
 #### Commercial
 
 ### SBOM Governance
@@ -134,7 +136,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 
 ### Other / Unsorted
 
-## Software Supply Chain Security in Cloud Environments
+## Software Supply Chain Security in the Cloud
 ### AWS
 
 ### Azure
@@ -143,8 +145,9 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Google's Software Supply Chain Security documentation](https://cloud.google.com/software-supply-chain-security/docs)
 
 ## Books
-* [Software Transparency - Supply Chain Security in an Era of Software-Driven Society](https://www.amazon.com/Software-Transparency-Security-Software-Driven-Society/dp/1394158483) by [Chris Huges](https://www.linkedin.com/in/resilientcyber/) & [Tony Turner](https://www.linkedin.com/in/tonyturnercissp/)
-* [Software Supply Chain Security: Securing the End-to-End Supply Chain for Software, Firmware, and Hardware](https://www.amazon.com/Software-Supply-Chain-Security-End/dp/1098133706/) by [Cassie Crossley](https://www.linkedin.com/in/cassiecrossley/), Release date 31 January 2024
+* [Software Supply Chain Security: Securing the End-to-End Supply Chain for Software, Firmware, and Hardware](https://www.amazon.com/Software-Supply-Chain-Security-End/dp/1098133706/) by [Cassie Crossley](https://www.linkedin.com/in/cassiecrossley/), Release date: January 2024
+* [Software Transparency - Supply Chain Security in an Era of Software-Driven Society](https://www.amazon.com/Software-Transparency-Security-Software-Driven-Society/dp/1394158483) by [Chris Huges](https://www.linkedin.com/in/resilientcyber/) & [Tony Turner](https://www.linkedin.com/in/tonyturnercissp/), Release date: June 2023
+
 
 ## Industry Reports
 * [Synopsis Open Source Security and Risk Analysis Report](https://www.synopsys.com/software-integrity/resources/analyst-reports/open-source-security-risk-analysis.html), Synopsis, 2023
@@ -185,6 +188,8 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Lessons Not Learned From Software Supply Chain Attacks](https://www.darkreading.com/attacks-breaches/lessons-not-learned-from-software-supply-chain-attacks)
 * [“SBOM” should not exist! Long live the SBOM.](https://medium.com/@steve_springett/sbom-should-not-exist-long-live-the-sbom-4554d5c31ff9)
 * [SLSA dip — At the Source of the problem!](https://medium.com/boostsecurity/slsa-dip-source-of-the-problem-a1dac46a976)
+* [Are SBOMs any good? Preliminary measurement of the quality of open source project SBOMs](https://www.chainguard.dev/unchained/are-sboms-any-good-preliminary-measurement-of-the-quality-of-open-source-project-sboms)
+* [I am not a supplier](https://www.softwaremaxims.com/blog/not-a-supplier)
 ### Videos
 * [Why you need an XBOM – the eXtended Software Bill of Materials](https://www.youtube.com/watch?v=KPa-v5KndIY)
 
