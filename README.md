@@ -29,6 +29,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Securing Your Software Supply Chain with Sigstore Course](https://openssf.org/training/securing-your-software-supply-chain-with-sigstore-course/)
 * [OpenSSF Scorecard](https://securityscorecards.dev/), [[GitHub](https://github.com/ossf/scorecard)]
 ### Cloud Native Computing Foundation ([CNCF](https://www.cncf.io/))
+* [Software Supply Chain Security](https://github.com/cncf/tag-security/tree/main/supply-chain-security)
 * [CNCF Software Supply Chain Best Practices](https://project.linuxfoundation.org/hubfs/CNCF_SSCP_v1.pdf), [[GitHub](https://github.com/cncf/tag-security/blob/main/supply-chain-security/supply-chain-security-paper/CNCF_SSCP_v1.pdf)]
 * [Secure Software Factory Reference Architecture](https://github.com/cncf/tag-security/blob/main/supply-chain-security/secure-software-factory/Secure_Software_Factory_Whitepaper.pdf)
 ### [Software Transparency Foundation](https://st.foundation/)
