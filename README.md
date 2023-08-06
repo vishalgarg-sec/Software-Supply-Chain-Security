@@ -48,7 +48,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [CIS Software Supply Chain Security Guide v1.0](https://www.cisecurity.org/insights/white-papers/cis-software-supply-chain-security-guide), June 2022
 * [Securing the Software Supply Chain - Recommended Practices Guide for Developers](https://media.defense.gov/2022/Sep/01/2003068942/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_DEVELOPERS.PDF), Enduring Security Framework (ESF) Software Supply Chain Working Panel, [Critical Infrastructure Partnership Advisory Council (CIPAC)](https://www.cisa.gov/resources-tools/groups/critical-infrastructure-partnership-advisory-council-cipac), August 2022
 * [Microsoft Secure Supply Chain Consumption Framework (S2C2F)](https://www.microsoft.com/en-us/security/blog/2022/11/16/microsoft-contributes-s2c2f-to-openssf-to-improve-supply-chain-security/)[[GitHub]](https://github.com/ossf/s2c2f)
-* [CISA recommendations on Defending Against Software Supply Chain Attacks](https://www.cisa.gov/sites/default/files/publications/defending_against_software_supply_chain_attacks_508_1.pdf), CISA, April 2021
+* [NIST recommendations on Defending Against Software Supply Chain Attacks](https://www.cisa.gov/sites/default/files/publications/defending_against_software_supply_chain_attacks_508_1.pdf), NIST, April 2021
 
 ## Initiatives
 * [OpenSSF sigstore](https://www.sigstore.dev/)
@@ -62,8 +62,10 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [ODNI Software Supply Chain Attacks - 2017 Edition](https://www.dni.gov/files/NCSC/documents/supplychain/20190327-Software-Supply-Chain-Attacks02.pdf)
 * [CNCF Catalog of Types of Supply Chain Compromises](https://github.com/cncf/tag-security/blob/main/supply-chain-security/compromises/compromise-definitions.md)
 * [MITRE Supply Chain Compromise Techniques](https://attack.mitre.org/techniques/T1195/)
-* [Open-Source Software Supply Chain Attack Vectors](https://sap.github.io/risk-explorer-for-software-supply-chains/#/attackvectors)
 * [CAPEC Supply-Chain Attack Vectors](https://capec.mitre.org/data/definitions/437.html)
+* [ENISA Threat Landscape for Supply Chain Attacks](https://www.enisa.europa.eu/publications/threat-landscape-for-supply-chain-attacks)
+* [Atlantic Council's BREAKING TRUST: Shades of Crisis Across an Insecure Software Supply Chain](https://atlanticcouncil.org/wp-content/uploads/2020/07/Breaking-trust-Shades-of-crisis-across-an-insecure-software-supply-chain.pdf)
+* [Open-Source Software Supply Chain Attack Vectors](https://sap.github.io/risk-explorer-for-software-supply-chains/#/attackvectors)
 * [Taxonomy of Attacks on Open-Source Software Supply Chains](https://arxiv.org/abs/2204.04008)
 * [Microsoft Open Source Software Supply Chain Threats catalogue](https://www.microsoft.com/en-us/securityengineering/opensource/ossthreats)
 #### Attacks / Compromises
@@ -167,7 +169,6 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [OpenSSF Annual Report](https://openssf.org/wp-content/uploads/sites/132/2022/12/OpenSSF-Annual-Report-2022.pdf), OpenSSF, 2022
 * [Software Bill of Materials (SBOM) and Cybersecurity Readiness](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/LF%20Research/State%20of%20Software%20Bill%20of%20Materials%20-%20Report.pdf), The Linux Foundation, January 2022
 * [The State of Enterprise Open Source](https://www.redhat.com/en/enterprise-open-source-report/2022), RedHat, 2022
-* [Threat Landscape for Supply Chain Attacks](https://www.enisa.europa.eu/publications/threat-landscape-for-supply-chain-attacks), ENISA, July 2021
 * [The State of Open Source Security Vulnerabilities](https://www.mend.io/wp-content/media/2021/03/The-state-of-open-source-vulnerabilities-2021-annual-report.pdf), Mend, 2021
 * [GSMA Open Source Software Security Research Summary](https://www.gsma.com/security/wp-content/uploads/2020/12/Open-Source-Software-Security-Research-Summary-v1.1.pdf), GSMA, December 2020
 * [Snyk State of Open Source Security Report](https://go.snyk.io/rs/677-THP-415/images/State%20Of%20Open%20Source%20Security%20Report%202020.pdf), Snyk, 2020
