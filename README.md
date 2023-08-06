@@ -54,7 +54,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [OpenSSF sigstore](https://www.sigstore.dev/)
 
 ## Software Supply Chain Threats
-*[Worldwide software supply chain attacks tracker (updated daily)](https://www.comparitech.com/software-supply-chain-attacks/)
+* [Worldwide software supply chain attacks tracker (updated daily)](https://www.comparitech.com/software-supply-chain-attacks/)
 * [Catalog of Supply Chain Compromises](https://github.com/cncf/tag-security/tree/main/supply-chain-security/compromises)
 * [SLSA Threats & Mitigations](https://slsa.dev/spec/v1.0/threats)
 * [Taxonomy of Attacks on Open-Source Software Supply Chains](https://arxiv.org/abs/2204.04008)
