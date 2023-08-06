@@ -221,6 +221,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Making the Cyber Resilience Act work for open source software developers](https://github.blog/wp-content/uploads/2023/03/GitHub_Position_Paper-Cyber_Resilience_Act.pdf)
 * [A (Partial) History of Software Supply Chain Attacks](https://www.reversinglabs.com/blog/a-partial-history-of-software-supply-chain-attacks)
 * [A History of Software Supply Chain Attacks - July 2017–Present](https://www.sonatype.com/resources/vulnerability-timeline)
+* [Introducing The Top 10 Open Source Software (OSS) Risks](https://www.endorlabs.com/blog/introducing-the-top-10-open-source-software-oss-risks)
 ### Videos
 * [Why you need an XBOM – the eXtended Software Bill of Materials](https://www.youtube.com/watch?v=KPa-v5KndIY)
 
