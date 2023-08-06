@@ -65,6 +65,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Open-Source Software Supply Chain Attack Vectors](https://sap.github.io/risk-explorer-for-software-supply-chains/#/attackvectors)
 * [CAPEC Supply-Chain Attack Vectors](https://capec.mitre.org/data/definitions/437.html)
 * [Taxonomy of Attacks on Open-Source Software Supply Chains](https://arxiv.org/abs/2204.04008)
+* [Microsoft Open Source Software Supply Chain Threats catalogue](https://www.microsoft.com/en-us/securityengineering/opensource/ossthreats)
 #### Attacks / Compromises
 * [Worldwide software supply chain attacks tracker (updated daily)](https://www.comparitech.com/software-supply-chain-attacks/)
 * [Catalog of Supply Chain Compromises](https://github.com/cncf/tag-security/tree/main/supply-chain-security/compromises)
