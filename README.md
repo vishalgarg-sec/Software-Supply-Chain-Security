@@ -60,6 +60,8 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Software Supply Chain Compromises](https://github.com/IQTLabs/software-supply-chain-compromises)
 * [Google article on Software Supply Chain Threats](https://cloud.google.com/software-supply-chain-security/docs/attack-vectors)
 * [Software Supply Chain Attacks](https://www.dni.gov/files/NCSC/documents/supplychain/Software_Supply_Chain_Attacks.pdf)
+* [CNCF Catalog of Types of Supply Chain Compromises](https://github.com/cncf/tag-security/blob/main/supply-chain-security/compromises/compromise-definitions.md)
+* [MITRE Supply Chain Compromise Techniques](https://attack.mitre.org/techniques/T1195/) 
 
 ## Vulnerability Management
 ##### EPSS
