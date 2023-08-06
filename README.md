@@ -216,6 +216,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Are SBOMs any good? Preliminary measurement of the quality of open source project SBOMs](https://www.chainguard.dev/unchained/are-sboms-any-good-preliminary-measurement-of-the-quality-of-open-source-project-sboms)
 * [I am not a supplier](https://www.softwaremaxims.com/blog/not-a-supplier)
 * [Making the Cyber Resilience Act work for open source software developers](https://github.blog/wp-content/uploads/2023/03/GitHub_Position_Paper-Cyber_Resilience_Act.pdf)
+* [A (Partial) History of Software Supply Chain Attacks](https://www.reversinglabs.com/blog/a-partial-history-of-software-supply-chain-attacks)
 ### Videos
 * [Why you need an XBOM – the eXtended Software Bill of Materials](https://www.youtube.com/watch?v=KPa-v5KndIY)
 
