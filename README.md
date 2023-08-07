@@ -217,6 +217,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 
 ## From the Web
 ### Readings
+* [The history of cybersecurity](https://blog.avast.com/history-of-cybersecurity-avast)
 * [Lessons Not Learned From Software Supply Chain Attacks](https://www.darkreading.com/attacks-breaches/lessons-not-learned-from-software-supply-chain-attacks)
 * [“SBOM” should not exist! Long live the SBOM.](https://medium.com/@steve_springett/sbom-should-not-exist-long-live-the-sbom-4554d5c31ff9)
 * [SLSA dip — At the Source of the problem!](https://medium.com/boostsecurity/slsa-dip-source-of-the-problem-a1dac46a976)
