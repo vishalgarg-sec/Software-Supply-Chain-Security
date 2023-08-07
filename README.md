@@ -88,7 +88,9 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [CISA Known Exploited Vulnerabilities Catalog (KEV)](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 
 #### Vulnerability Databases
+* [CVE (New)](https://www.cve.org/), [CVE (Old)](https://cve.mitre.org/)
 * [National Vulnerability Database (NVD)](https://nvd.nist.gov/)
+* [The Exploit Database](https://www.exploit-db.com/)
 * [Sonatype OSS Index](https://ossindex.sonatype.org/)
 * [Open Source Vulnerability Database (OSV)](https://osv.dev/)
 * [Global Security Database (GSD)](https://gsd.id/)
@@ -184,6 +186,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 ## Articles / White Papers
 #### Supply Chain Security
 * [Fostering Open Source Software Security - Blueprint for a Government Cybersecurity Open Source Program Office](https://www.stiftung-nv.de/sites/default/files/snv_fostering_open_source_software_security.pdf), Stiftung Neue Verantwortung (SNV), May 2023* [Tragedy of the Digital Commons](https://ssrn.com/abstract=4245266), Sharma, Chinmayi, Written: August 2022, Last Revised: May 2023
+* [“Always Contribute Back”: A Qualitative Study on Security Challenges of the Open Source Supply Chain](https://saschafahl.de/static/paper/ossc2023.pdf), April 2023
 * [Software Supply Chain Attacks An Illustrated Typological Review](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/584947/2/Cyber-Reports-2023-01-Software-Supply-Chain-Attacks.pdf), January 2023
 * [Taxonomy of Attacks on Open-Source Software Supply Chains](https://arxiv.org/pdf/2204.04008.pdf), April 2022
 * [On Systematics of the Information Security of Software Supply Chains](https://link.springer.com/chapter/10.1007/978-3-030-63322-6_9), December 2020
@@ -223,7 +226,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Introducing The Top 10 Open Source Software (OSS) Risks](https://www.endorlabs.com/blog/introducing-the-top-10-open-source-software-oss-risks)
 * [Software supply chain attacks – everything you need to know](https://portswigger.net/daily-swig/software-supply-chain-attacks-everything-you-need-to-know)
 ### Presentations
-
+* [Flaming Hot SLSA!](https://speakerdeck.com/abhaybhargav/flaming-hot-slsa) by [Abhay Bhargav](https://www.linkedin.com/in/abhaybhargav/)
 ### Videos
 * [Why you need an XBOM – the eXtended Software Bill of Materials](https://www.youtube.com/watch?v=KPa-v5KndIY)
 
