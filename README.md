@@ -13,6 +13,9 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Software Bill of Materials (SBOM) Sharing Lifecycle Report](https://www.cisa.gov/sites/default/files/2023-04/sbom-sharing-lifecycle-report_508.pdf), April 2023
 * [SBOM-a-rama 2023 Recordings](https://www.cisa.gov/news-events/events/sbom-rama)
 * [SBOM-a-rama 2021 Recordings](https://www.cisa.gov/resources-tools/resources/cisa-sbom-rama)
+### The White House - Office of the National Cyber Director ([ONCD](https://www.whitehouse.gov/oncd/))
+* [Request for Information: Open-Source Software Security: Areas of Long-Term Focus and Prioritization](https://www.regulations.gov/document/ONCD-2023-0002-0001), RFI comments submission deadline: October 9, 2023
+* [National Cybersecurity Strategy 2023](https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf)
 ### National Institute of Standards and Technology ([NIST](https://www.nist.gov/))
 * [Improving the Nation's Cybersecurity: NIST’s Responsibilities Under the May 2021 Executive Order](https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity)
 * [NIST SP 800-161 Rev.1 - Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/161/r1/final), May 2022
@@ -139,6 +142,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 #### Native
 #### Open-Source
 * [Aqua Chain-bench](https://github.com/aquasecurity/chain-bench/tree/main)
+* [SBOM Benchmark](https://sbombenchmark.dev/)
 #### Commercial
 
 ### Other / Unsorted
@@ -219,6 +223,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 ### Readings
 * [The history of cybersecurity](https://blog.avast.com/history-of-cybersecurity-avast)
 * [Lessons Not Learned From Software Supply Chain Attacks](https://www.darkreading.com/attacks-breaches/lessons-not-learned-from-software-supply-chain-attacks)
+* [SBOM 101 - Answering the questions I was afraid to ask](https://sysdig.com/blog/sbom-101-software-bill-of-materials/)
 * [“SBOM” should not exist! Long live the SBOM.](https://medium.com/@steve_springett/sbom-should-not-exist-long-live-the-sbom-4554d5c31ff9)
 * [SLSA dip — At the Source of the problem!](https://medium.com/boostsecurity/slsa-dip-source-of-the-problem-a1dac46a976)
 * [Are SBOMs any good? Preliminary measurement of the quality of open source project SBOMs](https://www.chainguard.dev/unchained/are-sboms-any-good-preliminary-measurement-of-the-quality-of-open-source-project-sboms)
@@ -226,8 +231,15 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Making the Cyber Resilience Act work for open source software developers](https://github.blog/wp-content/uploads/2023/03/GitHub_Position_Paper-Cyber_Resilience_Act.pdf)
 * [Introducing The Top 10 Open Source Software (OSS) Risks](https://www.endorlabs.com/blog/introducing-the-top-10-open-source-software-oss-risks)
 * [Software supply chain attacks – everything you need to know](https://portswigger.net/daily-swig/software-supply-chain-attacks-everything-you-need-to-know)
+* [What is an SBOM, and why should you Care??](https://boxboat.com/2021/05/12/what-is-sbom-and-why-should-you-care/)
+* [Software Bill Of Materials (SBOM) Formats, Use Cases, and Specifications](https://fossa.com/blog/software-bill-of-materials-formats-use-cases-tools/)
+* [Are you ready with your SBOM ? Think again !](https://nadgowdas.github.io/blog/2021/trust-sbom/)
+* [What an SBOM can do for you](https://www.chainguard.dev/unchained/what-an-sbom-can-do-for-you)
+* [Comparing SBOM Standards: SPDX vs. CycloneDX](https://blog.sonatype.com/comparing-sbom-standards-spdx-vs.-cyclonedx-vs.-swid)
 ### Presentations
-* [Flaming Hot SLSA!](https://speakerdeck.com/abhaybhargav/flaming-hot-slsa) by [Abhay Bhargav](https://www.linkedin.com/in/abhaybhargav/)
+* [Flaming Hot SLSA!](https://speakerdeck.com/abhaybhargav/flaming-hot-slsa) by [Abhay Bhargav](https://www.linkedin.com/in/abhaybhargav/), 2022
+* [MITRE Software Bill of Materials (SBOM) Presentation](https://csrc.nist.gov/CSRC/media/Projects/cyber-supply-chain-risk-management/documents/SSCA/Spring_2019/8MayAM2.3_Software_Bill_of_Materials_Robert_Martin_05_08_19_clean.pdf), 2019
+
 ### Videos
 * [Why you need an XBOM – the eXtended Software Bill of Materials](https://www.youtube.com/watch?v=KPa-v5KndIY)
 
