@@ -147,16 +147,6 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 
 ### Other / Unsorted
 
-### Vendors
-* [Anchore](https://anchore.com/)
-* [Chainguard](https://www.chainguard.dev/)
-* [Codenotary](https://codenotary.com/)
-* [Cybeats](https://www.cybeats.com/)
-* [Endor Labs](https://www.endorlabs.com/)
-* [FOSSA](https://fossa.com/)
-* [Rezilion](https://www.rezilion.com/)
-* [TestifySec](https://www.testifysec.com/)
-
 ## Software Supply Chain Security in the Cloud
 ### AWS
 
@@ -165,12 +155,25 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 ### GCP
 * [Google's Software Supply Chain Security documentation](https://cloud.google.com/software-supply-chain-security/docs)
 
+## Vendors
+* [Anchore](https://anchore.com/)
+* [Binarly](https://www.binarly.io/) - Binarly is the world’s most advanced automated firmware supply chain security platform. Using cutting-edge machine-learning techniques, Binary identifies both known and unknown vulnerabilities, misconfigurations, and malicious code in firmware and hardware components.* [Chainguard](https://www.chainguard.dev/)
+* [Codenotary](https://codenotary.com/)
+* [Cybeats](https://www.cybeats.com/)
+* [Endor Labs](https://www.endorlabs.com/) - At Endor Labs, we've created the first open source dependency lifecycle management platform to help OSS consumers select, secure and maintain dependencies effectively.
+* [FOSSA](https://fossa.com/)
+* [NetRise](https://www.netrise.io/) - The NetRise Platform is a next-generation product security solution for XIoT devices. Through ML-driven binary analysis, our platform generates industry-best Software Bills of Material (SBOMs), identifies and prioritizes vulnerabilities, and uncovers non-CVE risk that would otherwise go undetected.
+* [Rezilion](https://www.rezilion.com/)
+* [TestifySec](https://www.testifysec.com/)
+
+
 ## Books
 * [Software Supply Chain Security: Securing the End-to-End Supply Chain for Software, Firmware, and Hardware](https://www.amazon.com/Software-Supply-Chain-Security-End/dp/1098133706/) by [Cassie Crossley](https://www.linkedin.com/in/cassiecrossley/), Release date: January 2024
 * [Software Transparency - Supply Chain Security in an Era of Software-Driven Society](https://www.amazon.com/Software-Transparency-Security-Software-Driven-Society/dp/1394158483) by [Chris Huges](https://www.linkedin.com/in/resilientcyber/) & [Tony Turner](https://www.linkedin.com/in/tonyturnercissp/), Release date: June 2023
 
 
 ## Industry Reports
+* [Snyk State of Open Source Security 2023 Report](https://snyk.io/reports/open-source-security/), Snyk, 2023
 * [Sonatype 8th Annual State of the Software Supply Chain report](https://www.sonatype.com/state-of-the-software-supply-chain/introduction), Sonatype
 * [Synopsis Open Source Security and Risk Analysis Report](https://www.synopsys.com/software-integrity/resources/analyst-reports/open-source-security-risk-analysis.html), Synopsis, 2023
 * [The State of Dependency Management](https://www.endorlabs.com/state-of-dependency-management), Endor Labs, 2023
@@ -201,6 +204,9 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [An Empirical Study on Software Bill of Materials: Where We Stand and the Road Ahead](https://arxiv.org/pdf/2301.05362.pdf), February 2023
 * [Using the Software Bill of Materials for Enhancing Cybersecurity](https://english.ncsc.nl/binaries/ncsc-en/documenten/publications/2021/february/4/using-the-software-bill-of-materials-for-enhancing-cybersecurity/Final+Report+SBoM+for+Cybersecurity+v1.0.pdf), Capgemini, January 2021
 #### Unsorted
+
+## Git Projects
+* [Malicious Dependencies](https://github.com/jeremylong/malicious-dependencies)
 
 ## Blogs
 * [Resilient Cyber](https://resilientcyber.substack.com/) by Chris Huges
@@ -236,7 +242,9 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Are you ready with your SBOM ? Think again !](https://nadgowdas.github.io/blog/2021/trust-sbom/)
 * [What an SBOM can do for you](https://www.chainguard.dev/unchained/what-an-sbom-can-do-for-you)
 * [Comparing SBOM Standards: SPDX vs. CycloneDX](https://blog.sonatype.com/comparing-sbom-standards-spdx-vs.-cyclonedx-vs.-swid)
+* [GitHub blog post on Introducing npm package provenance](https://github.blog/2023-04-19-introducing-npm-package-provenance/)
 ### Presentations
+* [BlackHat Presentation - Reflections on Trust in the Software Supply Chain](https://i.blackhat.com/BH-US-23/Presentations/US-23-Long-Reflections-On-Trust.pdf) by [Jeremy Long](https://www.blackhat.com/us-23/briefings/schedule/speakers.html#jeremy-long-31926), August 2023
 * [Flaming Hot SLSA!](https://speakerdeck.com/abhaybhargav/flaming-hot-slsa) by [Abhay Bhargav](https://www.linkedin.com/in/abhaybhargav/), 2022
 * [MITRE Software Bill of Materials (SBOM) Presentation](https://csrc.nist.gov/CSRC/media/Projects/cyber-supply-chain-risk-management/documents/SSCA/Spring_2019/8MayAM2.3_Software_Bill_of_Materials_Robert_Martin_05_08_19_clean.pdf), 2019
 
