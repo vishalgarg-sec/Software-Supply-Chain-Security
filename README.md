@@ -14,7 +14,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [SBOM-a-rama 2023 Recordings](https://www.cisa.gov/news-events/events/sbom-rama)
 * [SBOM-a-rama 2021 Recordings](https://www.cisa.gov/resources-tools/resources/cisa-sbom-rama)
 ### The White House - Office of the National Cyber Director ([ONCD](https://www.whitehouse.gov/oncd/))
-* [Request for Information: Open-Source Software Security: Areas of Long-Term Focus and Prioritization](https://www.regulations.gov/document/ONCD-2023-0002-0001), RFI comments submission deadline: October 9, 2023
+* [Request for Information: Open-Source Software Security: Areas of Long-Term Focus and Prioritization](https://www.regulations.gov/document/ONCD-2023-0002-0001), **RFI comments submission deadline: October 9, 2023**
 * [National Cybersecurity Strategy 2023](https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf)
 ### National Institute of Standards and Technology ([NIST](https://www.nist.gov/))
 * [Improving the Nation's Cybersecurity: NIST’s Responsibilities Under the May 2021 Executive Order](https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity)
@@ -36,6 +36,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Software Supply Chain Security](https://github.com/cncf/tag-security/tree/main/supply-chain-security)
 * [CNCF Software Supply Chain Best Practices](https://project.linuxfoundation.org/hubfs/CNCF_SSCP_v1.pdf), [[GitHub](https://github.com/cncf/tag-security/blob/main/supply-chain-security/supply-chain-security-paper/CNCF_SSCP_v1.pdf)]
 * [Secure Software Factory Reference Architecture](https://github.com/cncf/tag-security/blob/main/supply-chain-security/secure-software-factory/Secure_Software_Factory_Whitepaper.pdf)
+* [Factory for Repeatable Secure Creation of Artifacts (aka FRSCA pronounced Fresca)](https://github.com/buildsec/frsca)
 ### [Software Transparency Foundation](https://st.foundation/)
 * [OSSKB.org](https://osskb.org/)
 
@@ -134,7 +135,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 #### Native
 #### Open-Source
 * [OWASP Dependency-Track](https://dependencytrack.org/)
-* [Graph for Understanding Artifact Composition (GUAC)](https://guac.sh/), [[GitHub](https://github.com/guacsec/guac)], [[Google Article](https://security.googleblog.com/2022/10/announcing-guac-great-pairing-with-slsa.html)]
+* [Graph for Understanding Artifact Composition (GUAC)](https://guac.sh/), [[GitHub](https://github.com/guacsec/guac)], [[Google Article](https://security.googleblog.com/2022/10/announcing-guac-great-pairing-with-slsa.html)], [[YouTube](https://www.youtube.com/watch?v=U7jRTZUDHYM)]
 * [NTIA Conformance Checker](https://github.com/spdx/ntia-conformance-checker)
 #### Commercial
 
@@ -197,6 +198,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Software Supply Chain Attacks An Illustrated Typological Review](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/584947/2/Cyber-Reports-2023-01-Software-Supply-Chain-Attacks.pdf), January 2023
 * [Taxonomy of Attacks on Open-Source Software Supply Chains](https://arxiv.org/pdf/2204.04008.pdf), April 2022
 * [On Systematics of the Information Security of Software Supply Chains](https://link.springer.com/chapter/10.1007/978-3-030-63322-6_9), December 2020
+* [For Good Measure-Counting Broken Links: A Quant’s View of Software Supply Chain Security](https://www.usenix.org/system/files/login/articles/login_winter20_17_geer.pdf), December 2020
 * [BREAKING TRUST: Shades of Crisis Across an Insecure Software Supply Chain](https://www.atlanticcouncil.org/wp-content/uploads/2020/07/Breaking-trust-Shades-of-crisis-across-an-insecure-software-supply-chain.pdf), July 2020
 * [Supply Chain Integrity: An overview of the ICT supply chain risks and challenges, and vision for the way forward](https://www.enisa.europa.eu/publications/sci-2015), CISA, September 2015
 #### SBOM
@@ -243,6 +245,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [What an SBOM can do for you](https://www.chainguard.dev/unchained/what-an-sbom-can-do-for-you)
 * [Comparing SBOM Standards: SPDX vs. CycloneDX](https://blog.sonatype.com/comparing-sbom-standards-spdx-vs.-cyclonedx-vs.-swid)
 * [GitHub blog post on Introducing npm package provenance](https://github.blog/2023-04-19-introducing-npm-package-provenance/)
+* [pypi-scan: A Tool for Scanning the Python Package Index for Typosquatters](https://www.iqt.org/pypi-scan/)
 ### Presentations
 * [BlackHat Presentation - Reflections on Trust in the Software Supply Chain](https://i.blackhat.com/BH-US-23/Presentations/US-23-Long-Reflections-On-Trust.pdf) by [Jeremy Long](https://www.blackhat.com/us-23/briefings/schedule/speakers.html#jeremy-long-31926), August 2023
 * [Flaming Hot SLSA!](https://speakerdeck.com/abhaybhargav/flaming-hot-slsa) by [Abhay Bhargav](https://www.linkedin.com/in/abhaybhargav/), 2022
