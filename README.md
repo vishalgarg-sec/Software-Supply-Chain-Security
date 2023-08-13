@@ -54,6 +54,8 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [CIS Software Supply Chain Security Guide v1.0](https://www.cisecurity.org/insights/white-papers/cis-software-supply-chain-security-guide), June 2022
 * [NIST recommendations on Defending Against Software Supply Chain Attacks](https://www.cisa.gov/sites/default/files/publications/defending_against_software_supply_chain_attacks_508_1.pdf), NIST, April 2021
 * [Microsoft Secure Supply Chain Consumption Framework (S2C2F)](https://www.microsoft.com/en-us/security/blog/2022/11/16/microsoft-contributes-s2c2f-to-openssf-to-improve-supply-chain-security/)[[GitHub]](https://github.com/ossf/s2c2f)
+* [in-toto](https://in-toto.io/) [[GitHub](https://github.com/in-toto/community)] - A framework to secure the integrity of software supply chains. It does so by verifying that each task in the chain is carried out as planned, by authorized personnel only, and that the product is not tampered with in transit.
+* [Blueprint for building modern, secure software development pipelines](https://github.com/Venafi/blueprint-securesoftwarepipeline)
 
 
 ## Software Supply Chain Threats
@@ -95,9 +97,10 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [CVE (New)](https://www.cve.org/), [CVE (Old)](https://cve.mitre.org/)
 * [National Vulnerability Database (NVD)](https://nvd.nist.gov/)
 * [The Exploit Database](https://www.exploit-db.com/)
-* [Sonatype OSS Index](https://ossindex.sonatype.org/)
 * [Open Source Vulnerability Database (OSV)](https://osv.dev/)
 * [Global Security Database (GSD)](https://gsd.id/)
+* [Sonatype OSS Index](https://ossindex.sonatype.org/)
+* [Snyk Vulnerability DB](https://security.snyk.io/vuln)
 
 ## Software Identification
 * [Common Platform Enumeration (CPE)](https://csrc.nist.gov/pubs/ir/7697/final)
@@ -129,6 +132,8 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Microsoft’s SBOM Tool](https://github.com/microsoft/sbom-tool)
 * [spdx-sbom-generator](https://github.com/opensbom-generator/spdx-sbom-generator)
 * [syft](https://github.com/anchore/syft)
+* [Tern](https://github.com/tern-tools/tern) - A software package inspection tool to generate Software Bill of Materials (SBOM) for containers.
+* [Trivy](https://github.com/aquasecurity/trivy)
 #### Commercial
 
 ### SBOM Scanning & Analysis
@@ -136,6 +141,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 #### Open-Source
 * [OWASP Dependency-Track](https://dependencytrack.org/)
 * [Graph for Understanding Artifact Composition (GUAC)](https://guac.sh/), [[GitHub](https://github.com/guacsec/guac)], [[Google Article](https://security.googleblog.com/2022/10/announcing-guac-great-pairing-with-slsa.html)], [[YouTube](https://www.youtube.com/watch?v=U7jRTZUDHYM)]
+* [Grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems. Grype Works with Syft, the SBOM generation tool for container images and filesystems.
 * [NTIA Conformance Checker](https://github.com/spdx/ntia-conformance-checker)
 #### Commercial
 
