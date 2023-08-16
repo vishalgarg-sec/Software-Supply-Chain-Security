@@ -15,6 +15,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [SBOM-a-rama 2021 Recordings](https://www.cisa.gov/resources-tools/resources/cisa-sbom-rama)
 * [CISA Security-by-Design and -Default guidance](https://www.cisa.gov/resources-tools/resources/secure-by-design-and-default)
 * [2022 Top Routinely Exploited Vulnerabilities](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-215a), [[PDF](https://www.cisa.gov/sites/default/files/2023-08/aa23-215a_joint_csa_2022_top_routinely_exploited_vulnerabilities.pdf)]
+* [Transforming the Vulnerability Management Landscape](https://www.cisa.gov/news-events/news/transforming-vulnerability-management-landscape) - CISA blog on outlining three critical steps to advance the vulnerability management ecosystem.
 ### The White House - Office of the National Cyber Director ([ONCD](https://www.whitehouse.gov/oncd/))
 * [Request for Information: Open-Source Software Security: Areas of Long-Term Focus and Prioritization](https://www.regulations.gov/document/ONCD-2023-0002-0001), **RFI comments submission deadline: October 9, 2023**
 * [National Cybersecurity Strategy 2023](https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf)
@@ -57,6 +58,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [NIST recommendations on Defending Against Software Supply Chain Attacks](https://www.cisa.gov/sites/default/files/publications/defending_against_software_supply_chain_attacks_508_1.pdf), NIST, April 2021
 * [Microsoft Secure Supply Chain Consumption Framework (S2C2F)](https://www.microsoft.com/en-us/security/blog/2022/11/16/microsoft-contributes-s2c2f-to-openssf-to-improve-supply-chain-security/)[[GitHub]](https://github.com/ossf/s2c2f)
 * [in-toto](https://in-toto.io/) [[GitHub](https://github.com/in-toto/community)] - A framework to secure the integrity of software supply chains. It does so by verifying that each task in the chain is carried out as planned, by authorized personnel only, and that the product is not tampered with in transit.
+* [Trusted Attestation and Compliance for Open Source (TACOS) Framework](https://github.com/tacosframework) - TACOS is a framework for attesting to the secure software development practices of open source packages.
 * [Blueprint for building modern, secure software development pipelines](https://github.com/Venafi/blueprint-securesoftwarepipeline)
 * [The Update Framework](https://theupdateframework.io/) - A framework for securing software update systems
 * [OASIS Common Security Advisory Framework  (CSAF)](https://oasis-open.github.io/csaf-documentation/index.html) - Common Security Advisory Framework (CSAF) is a language to exchange Security Advisories and allows stakeholders to automate the creation and consumption of security vulnerability information and remediation.
@@ -104,6 +106,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [OpenVEX Specification](https://github.com/openvex/spec)
 * [VEX Use Cases](https://www.cisa.gov/sites/default/files/publications/VEX_Use_Cases_April2022.pdf)
 * [VEX Status Justification](https://www.cisa.gov/sites/default/files/publications/VEX_Status_Justification_Jun22.pdf)
+* [Minimum Requirements for Vulnerability Exploitability eXchange (VEX)](https://www.cisa.gov/resources-tools/resources/minimum-requirements-vulnerability-exploitability-exchange-vex), [[PDF](https://www.cisa.gov/sites/default/files/2023-04/minimum-requirements-for-vex-508c.pdf)]
 ##### SSVC
 * [CISA Stakeholder Specific Vulnerability Categorization (SSVC)](https://www.cisa.gov/stakeholder-specific-vulnerability-categorization-ssvc), [[GitHub](https://github.com/CERTCC/SSVC)]
 ##### KEV
