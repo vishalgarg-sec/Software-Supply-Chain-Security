@@ -59,6 +59,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [in-toto](https://in-toto.io/) [[GitHub](https://github.com/in-toto/community)] - A framework to secure the integrity of software supply chains. It does so by verifying that each task in the chain is carried out as planned, by authorized personnel only, and that the product is not tampered with in transit.
 * [Blueprint for building modern, secure software development pipelines](https://github.com/Venafi/blueprint-securesoftwarepipeline)
 * [The Update Framework](https://theupdateframework.io/) - A framework for securing software update systems
+* [OASIS Common Security Advisory Framework  (CSAF)](https://oasis-open.github.io/csaf-documentation/index.html) - Common Security Advisory Framework (CSAF) is a language to exchange Security Advisories and allows stakeholders to automate the creation and consumption of security vulnerability information and remediation.
 
 ## New Initiatives
 * [Supply Chain Integrity, Transparency, and Trust (SCITT)](https://scitt.io/), [[GitHub](https://github.com/ietf-scitt)], [[SCIM GitHub](https://github.com/microsoft/scim)] - The Supply Chain Integrity, Transparency and Trust (SCITT) initiative is a set of proposed IETF industry standards for managing the compliance of goods and services across end-to-end supply chains.
@@ -198,12 +199,14 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [GSMA Open Source Software Security Research Summary](https://www.gsma.com/security/wp-content/uploads/2020/12/Open-Source-Software-Security-Research-Summary-v1.1.pdf), GSMA, December 2020
 * [Snyk State of Open Source Security Report](https://go.snyk.io/rs/677-THP-415/images/State%20Of%20Open%20Source%20Security%20Report%202020.pdf), Snyk, 2020
 * [State of Software Security - Open Source Edition](https://www.veracode.com/sites/default/files/pdf/resources/reports/state-of-software-security-open-source-edition-veracode-report.pdf), Veracode, 2020
+* [State of the Software Supply Chain - The 6th Annual Report on Global Open Source Software Development](https://www.sonatype.com/hubfs/Corporate/Software%20Supply%20Chain/2020/SON_SSSC-Report-2020_final_aug11.pdf), Sonatype, 2020
 
 
 ## Guides / Documentation
 * [Authoritative Guide to SBOM](https://cyclonedx.org/guides/sbom/OWASP_CycloneDX-SBOM-Guide-en.pdf), OWASP CycloneDX, June 2023
 * [Open Source Supply Chain Security course](https://osssc-edu.github.io/supply-chain.github.io/https://osssc-edu.github.io/supply-chain.github.io/), Course material collected, curated, maintained and structured by PhD students and faculty from the [KTH Royal Institute of Technology](https://www.kth.se/en) in Stockholm, Sweden
 * [GitHub documentation on Software Supply Chain Security](https://docs.github.com/en/code-security/supply-chain-security)
+* [Sonatype Software Bill of Materials (SBOM) Quick Start Guide](https://help.sonatype.com/iqserver/quickstart-guides/software-bill-of-materials-%28sbom%29-quick-start)
 * [SLSA mapping to other Frameworks](https://docs.google.com/spreadsheets/d/1P_xxMlyF5iPV51CqIk8_EhI57aR6wf1Gkrg8sRHBMMQ)
 * [Venafi - The software supply chain toolkit](https://venafi.com/jetstack-consult/software-supply-chain/) - An interactive guide on how to secure your third-party software
 
@@ -216,6 +219,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [On Systematics of the Information Security of Software Supply Chains](https://link.springer.com/chapter/10.1007/978-3-030-63322-6_9), December 2020
 * [For Good Measure-Counting Broken Links: A Quant’s View of Software Supply Chain Security](https://www.usenix.org/system/files/login/articles/login_winter20_17_geer.pdf), December 2020
 * [BREAKING TRUST: Shades of Crisis Across an Insecure Software Supply Chain](https://www.atlanticcouncil.org/wp-content/uploads/2020/07/Breaking-trust-Shades-of-crisis-across-an-insecure-software-supply-chain.pdf), July 2020
+* [Surviving Software Dependencies - Software reuse is finally here but comes with risks.](https://queue.acm.org/detail.cfm?id=3344149), July 2019
 * [Supply Chain Integrity: An overview of the ICT supply chain risks and challenges, and vision for the way forward](https://www.enisa.europa.eu/publications/sci-2015), CISA, September 2015
 #### SBOM
 * [Principles and Practices for Software Bill of Materials for Medical Device Cybersecurity](https://www.imdrf.org/sites/default/files/2023-04/Principles%20and%20Practices%20for%20Software%20Bill%20of%20Materials%20for%20Medical%20Device%20Cybersecurity%20%28N73%29.pdf),  Medical Device Cybersecurity Working Group, International Medical Device Regulators Forum, April 2023
@@ -229,6 +233,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 ## Blogs
 * [Resilient Cyber](https://resilientcyber.substack.com/) by Chris Huges
 * [Tom Alrich's blog](http://tomalrichblog.blogspot.com/) by Tom Alrich
+* [Sonatype blog](https://dev.sonatype.com/)
 * [Endor Labs resources](https://www.endorlabs.com/resources-overview)
 * [Chainguard blog](https://www.chainguard.dev/unchained)
 * [snyk blog](https://snyk.io/blog/?tag=open-source-security)
@@ -247,6 +252,9 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 
 
 ## From the Web
+### SBOM Adoption
+* [Cisco Demonstrating Transparency through Software Bill of Materials (SBOM)](https://blogs.cisco.com/security/demonstrating-transparency-through-software-bill-of-materials-sbom), August 2023
+* [Introducing Software Bill of Materials for Confluent Platform](https://www.confluent.io/blog/software-bill-of-materials/), July 2023
 ### Readings
 * [The history of cybersecurity](https://blog.avast.com/history-of-cybersecurity-avast)
 * [Lessons Not Learned From Software Supply Chain Attacks](https://www.darkreading.com/attacks-breaches/lessons-not-learned-from-software-supply-chain-attacks)
@@ -274,6 +282,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [After the Advisory](https://blog.deps.dev/after-the-advisory/)
 * [The Challenges of Securing the Open Source Supply Chain](https://thenewstack.io/the-challenges-of-securing-the-open-source-supply-chain/)
 * [A Toolbox for a Secure Software Supply Chain](https://www.chainguard.dev/unchained/a-toolbox-for-a-secure-software-supply-chain)
+* [Why Do SBOM Haters Hate? Or Why Trade Associations Say the Darndest Things](https://dfrlab.org/2023/07/19/why-do-sbom-haters-hate/)
 ### Presentations
 * [Reflections on Trust in the Software Supply Chain](https://i.blackhat.com/BH-US-23/Presentations/US-23-Long-Reflections-On-Trust.pdf) by [Jeremy Long](https://www.blackhat.com/us-23/briefings/schedule/speakers.html#jeremy-long-31926), BlackHat, August 2023
 * [Flaming Hot SLSA!](https://speakerdeck.com/abhaybhargav/flaming-hot-slsa) by [Abhay Bhargav](https://www.linkedin.com/in/abhaybhargav/), 2022
@@ -295,5 +304,5 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * 
 
 ## Miscellaneous / Unsorted
-
+* [SRE Books from Google](https://sre.google/books/)
 
