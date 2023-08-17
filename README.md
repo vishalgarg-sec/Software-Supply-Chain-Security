@@ -249,10 +249,12 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 
 ## Podcasts
 * [daBOM](https://dabom.captivate.fm/)
-* * [Open Source Security Podcast](https://opensourcesecurity.io/category/podcast/)
+* [Open Source Security Podcast](https://opensourcesecurity.io/category/podcast/)
+* [Tromzo Podcast EP 40 — Steve Springett on Solving Software Supply Chain Security and SBOM Challenges](https://tromzo.com/podcasts/solving-software-supply-chain-security-and-sbom-challenges), July 2023
+* [Tromzo Podcast EP 25 — Navigating the Complex World of Software Supply Chain Security with Schneider Electric’s Cassie Crossley](https://tromzo.com/podcasts/navigating-the-complex-world-of-software-supply-chain-security), March 2023
+
 ## Events
 * [OpenSSF Day Europe, Bilbao, Spain – 18 September 2023](https://openssf.org/event/openssf-day-europe-september-18-in-bilbao-spain/)
-
 
 ## From the Web
 ### SBOM Adoption
