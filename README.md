@@ -88,10 +88,14 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Software Supply Chain Compromises](https://github.com/IQTLabs/software-supply-chain-compromises)
 * [A (Partial) History of Software Supply Chain Attacks](https://www.reversinglabs.com/blog/a-partial-history-of-software-supply-chain-attacks)
 * [A History of Software Supply Chain Attacks - July 2017–Present](https://www.sonatype.com/resources/vulnerability-timeline)
+#### Research / Reports
+* [PowerHell: Active Flaws in PowerShell Gallery Expose Users to Attacks](https://blog.aquasec.com/powerhell-active-flaws-in-powershell-gallery-expose-users-to-attacks), August 2023
+
 ## Vulnerability Management
 #### Vulnerability Databases
 * [CVE (New)](https://www.cve.org/), [CVE (Old)](https://cve.mitre.org/)
 * [National Vulnerability Database (NVD)](https://nvd.nist.gov/)
+* [VulnDB](https://vulndb.cyberriskanalytics.com/)
 * [The Exploit Database](https://www.exploit-db.com/)
 * [Open Source Vulnerability Database (OSV)](https://osv.dev/)
 * [Global Security Database (GSD)](https://gsd.id/)
@@ -234,15 +238,17 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Malicious Dependencies](https://github.com/jeremylong/malicious-dependencies)
 
 ## Blogs
+#### Experts
 * [Resilient Cyber](https://resilientcyber.substack.com/) by Chris Huges
 * [Tom Alrich's blog](http://tomalrichblog.blogspot.com/) by Tom Alrich
-* [Sonatype blog](https://dev.sonatype.com/)
-* [Endor Labs resources](https://www.endorlabs.com/resources-overview)
-* [Chainguard blog](https://www.chainguard.dev/unchained)
-* [snyk blog](https://snyk.io/blog/?tag=open-source-security)
-* [TestifySec blog](https://www.testifysec.com/blog/)
+#### Community
 * [Open Source Security blog](https://opensourcesecurity.io/category/securityblog/)
-
+#### Vendors
+* [Chainguard](https://www.chainguard.dev/unchained)
+* [Endor Labs](https://www.endorlabs.com/resources-overview)
+* [snyk](https://snyk.io/blog/?tag=open-source-security)
+* [Sonatype](https://dev.sonatype.com/)
+* [TestifySec](https://www.testifysec.com/blog/)
 
 ## Webinars
 * [Endor Labs webinars](https://www.endorlabs.com/resources-overview)
