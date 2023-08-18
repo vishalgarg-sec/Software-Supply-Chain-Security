@@ -35,6 +35,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [OpenSSF sigstore](https://www.sigstore.dev/)
 * [Securing Your Software Supply Chain with Sigstore Course](https://openssf.org/training/securing-your-software-supply-chain-with-sigstore-course/)
 * [OpenSSF Scorecard](https://securityscorecards.dev/), [[GitHub](https://github.com/ossf/scorecard)]
+* 
 ### Cloud Native Computing Foundation ([CNCF](https://www.cncf.io/))
 * [Software Supply Chain Security](https://github.com/cncf/tag-security/tree/main/supply-chain-security)
 * [CNCF Software Supply Chain Best Practices](https://project.linuxfoundation.org/hubfs/CNCF_SSCP_v1.pdf), [[GitHub](https://github.com/cncf/tag-security/blob/main/supply-chain-security/supply-chain-security-paper/CNCF_SSCP_v1.pdf)]
@@ -77,19 +78,18 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [CAPEC Supply-Chain Attack Vectors](https://capec.mitre.org/data/definitions/437.html)
 * [ENISA Threat Landscape for Supply Chain Attacks](https://www.enisa.europa.eu/publications/threat-landscape-for-supply-chain-attacks)
 * [Atlantic Council's BREAKING TRUST: Shades of Crisis Across an Insecure Software Supply Chain](https://atlanticcouncil.org/wp-content/uploads/2020/07/Breaking-trust-Shades-of-crisis-across-an-insecure-software-supply-chain.pdf)
-* [Risk Explorer for Software Supply Chains](https://sap.github.io/risk-explorer-for-software-supply-chains/)
-* [Open-Source Software Supply Chain Attack Vectors](https://sap.github.io/risk-explorer-for-software-supply-chains/#/attackvectors)
-* [Taxonomy of Attacks on Open-Source Software Supply Chains](https://arxiv.org/abs/2204.04008)
 * [Microsoft Open Source Software Supply Chain Threats catalogue](https://www.microsoft.com/en-us/securityengineering/opensource/ossthreats)
+* [Risk Explorer for Software Supply Chains](https://sap.github.io/risk-explorer-for-software-supply-chains/), [[Attack Vectors](https://sap.github.io/risk-explorer-for-software-supply-chains/#/attackvectors)], [[Safeguards](https://sap.github.io/risk-explorer-for-software-supply-chains/#/safeguards)], [[Research Paper](https://arxiv.org/abs/2204.04008)], [[GitHub](https://github.com/SAP/risk-explorer-for-software-supply-chains)]
 * [Backstabber’s Knife Collection: A Review of Open Source Software Supply Chain Attacks](https://link.springer.com/chapter/10.1007/978-3-030-52683-2_2)
 #### Attacks / Compromises
 * [Worldwide software supply chain attacks tracker (updated daily)](https://www.comparitech.com/software-supply-chain-attacks/)
-* [Catalog of Supply Chain Compromises](https://github.com/cncf/tag-security/tree/main/supply-chain-security/compromises)
-* [Software Supply Chain Compromises](https://github.com/IQTLabs/software-supply-chain-compromises)
-* [A (Partial) History of Software Supply Chain Attacks](https://www.reversinglabs.com/blog/a-partial-history-of-software-supply-chain-attacks)
-* [A History of Software Supply Chain Attacks - July 2017–Present](https://www.sonatype.com/resources/vulnerability-timeline)
+* [CNCF Tag Security - Catalog of Supply Chain Compromises](https://github.com/cncf/tag-security/tree/main/supply-chain-security/compromises)
+* [IQT Labs - Software Supply Chain Compromises](https://github.com/IQTLabs/software-supply-chain-compromises)
+* [ReversingLabs - A (Partial) History of Software Supply Chain Attacks](https://www.reversinglabs.com/blog/a-partial-history-of-software-supply-chain-attacks)
+* [Sonatype - A History of Software Supply Chain Attacks - July 2017–Present](https://www.sonatype.com/resources/vulnerability-timeline)
 #### Research / Reports
 * [PowerHell: Active Flaws in PowerShell Gallery Expose Users to Attacks](https://blog.aquasec.com/powerhell-active-flaws-in-powershell-gallery-expose-users-to-attacks), August 2023
+* [Software Supply Chain Attacks An Illustrated Typological Review](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/584947/2/Cyber-Reports-2023-01-Software-Supply-Chain-Attacks.pdf), January 2023
 
 ## Vulnerability Management
 #### Vulnerability Databases
@@ -105,14 +105,21 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 
 ##### EPSS
 * [Exploit Prediction Scoring System (EPSS)](https://www.first.org/epss/)
+
+#### VDR
+
 ##### VEX
 * [Vulnerability Exploitability eXchange (VEX)](https://www.ntia.gov/files/ntia/publications/vex_one-page_summary.pdf)
-* [OpenVEX Specification](https://github.com/openvex/spec)
 * [VEX Use Cases](https://www.cisa.gov/sites/default/files/publications/VEX_Use_Cases_April2022.pdf)
 * [VEX Status Justification](https://www.cisa.gov/sites/default/files/publications/VEX_Status_Justification_Jun22.pdf)
 * [Minimum Requirements for Vulnerability Exploitability eXchange (VEX)](https://www.cisa.gov/resources-tools/resources/minimum-requirements-vulnerability-exploitability-exchange-vex), [[PDF](https://www.cisa.gov/sites/default/files/2023-04/minimum-requirements-for-vex-508c.pdf)]
+* [VDR vs VEX](https://owasp.org/blog/2023/02/07/vdr-vex-comparison)
+* [What is the Vulnerability Exploitability eXchange (VEX)?](https://community.cisco.com/t5/security-knowledge-base/what-is-the-vulnerability-exploitability-exchange-vex/ta-p/4819021)
+* [OpenVEX Specification](https://github.com/openvex/spec)
+
 ##### SSVC
 * [CISA Stakeholder Specific Vulnerability Categorization (SSVC)](https://www.cisa.gov/stakeholder-specific-vulnerability-categorization-ssvc), [[GitHub](https://github.com/CERTCC/SSVC)]
+
 ##### KEV
 * [CISA Known Exploited Vulnerabilities Catalog (KEV)](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 
@@ -135,7 +142,14 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [CycloneDX](https://cyclonedx.org/)
 * [Software Package Data Exchange (SPDX)](https://spdx.dev/)
 * [Software Identification (SWID)](https://csrc.nist.gov/projects/Software-Identification-SWID)
-### SBOM Lifecycle / Implementation Practices
+
+### SBOM Lifecycle
+#### SBOM Generation
+
+#### SBOM Distribution
+* [IETF Draft - Discovering and Retrieving Software Transparency and Vulnerability Information](https://datatracker.ietf.org/doc/draft-ietf-opsawg-sbom-access/)
+
+### SBOM Implementation Practices
 * [GitLab Software Supply Chain Security Direction](https://about.gitlab.com/direction/supply-chain/)
 
 ## Tooling
@@ -221,8 +235,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 #### Supply Chain Security
 * [Fostering Open Source Software Security - Blueprint for a Government Cybersecurity Open Source Program Office](https://www.stiftung-nv.de/sites/default/files/snv_fostering_open_source_software_security.pdf), Stiftung Neue Verantwortung (SNV), May 2023* [Tragedy of the Digital Commons](https://ssrn.com/abstract=4245266), Sharma, Chinmayi, Written: August 2022, Last Revised: May 2023
 * [“Always Contribute Back”: A Qualitative Study on Security Challenges of the Open Source Supply Chain](https://saschafahl.de/static/paper/ossc2023.pdf), April 2023
-* [Software Supply Chain Attacks An Illustrated Typological Review](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/584947/2/Cyber-Reports-2023-01-Software-Supply-Chain-Attacks.pdf), January 2023
-* [Taxonomy of Attacks on Open-Source Software Supply Chains](https://arxiv.org/pdf/2204.04008.pdf), April 2022
+* [MITRE Whitepaper - Deliver Uuncompromised: Securing Critical Software Supply Chains](https://www.mitre.org/sites/default/files/2021-11/prs-21-0278-deliver-uncompromised-securing-critical-software-supply-chain.pdf), September 2021
 * [On Systematics of the Information Security of Software Supply Chains](https://link.springer.com/chapter/10.1007/978-3-030-63322-6_9), December 2020
 * [For Good Measure-Counting Broken Links: A Quant’s View of Software Supply Chain Security](https://www.usenix.org/system/files/login/articles/login_winter20_17_geer.pdf), December 2020
 * [BREAKING TRUST: Shades of Crisis Across an Insecure Software Supply Chain](https://www.atlanticcouncil.org/wp-content/uploads/2020/07/Breaking-trust-Shades-of-crisis-across-an-insecure-software-supply-chain.pdf), July 2020
@@ -267,6 +280,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Cisco Demonstrating Transparency through Software Bill of Materials (SBOM)](https://blogs.cisco.com/security/demonstrating-transparency-through-software-bill-of-materials-sbom), August 2023
 * [Introducing Software Bill of Materials for Confluent Platform](https://www.confluent.io/blog/software-bill-of-materials/), July 2023
 ### Readings
+* [The Rising Threat of Software Supply Chain Attacks: Managing Dependencies of Open Source projects](https://linuxfoundation.eu/newsroom/the-rising-threat-of-software-supply-chain-attacks-managing-dependencies-of-open-source-projects)
 * [The history of cybersecurity](https://blog.avast.com/history-of-cybersecurity-avast)
 * [Lessons Not Learned From Software Supply Chain Attacks](https://www.darkreading.com/attacks-breaches/lessons-not-learned-from-software-supply-chain-attacks)
 * [SBOM 101 - Answering the questions I was afraid to ask](https://sysdig.com/blog/sbom-101-software-bill-of-materials/)
@@ -294,6 +308,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [The Challenges of Securing the Open Source Supply Chain](https://thenewstack.io/the-challenges-of-securing-the-open-source-supply-chain/)
 * [A Toolbox for a Secure Software Supply Chain](https://www.chainguard.dev/unchained/a-toolbox-for-a-secure-software-supply-chain)
 * [Why Do SBOM Haters Hate? Or Why Trade Associations Say the Darndest Things](https://dfrlab.org/2023/07/19/why-do-sbom-haters-hate/)
+* [Unleashing in-toto: The API of DevSecOps](https://www.cncf.io/blog/2023/08/17/unleashing-in-toto-the-api-of-devsecops/)
 ### Presentations
 * [Reflections on Trust in the Software Supply Chain](https://i.blackhat.com/BH-US-23/Presentations/US-23-Long-Reflections-On-Trust.pdf) by [Jeremy Long](https://www.blackhat.com/us-23/briefings/schedule/speakers.html#jeremy-long-31926), BlackHat, August 2023
 * [Flaming Hot SLSA!](https://speakerdeck.com/abhaybhargav/flaming-hot-slsa) by [Abhay Bhargav](https://www.linkedin.com/in/abhaybhargav/), 2022
@@ -303,6 +318,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Why you need an XBOM – the eXtended Software Bill of Materials](https://www.youtube.com/watch?v=KPa-v5KndIY)
 * [Securing Shopify's Software Supply Chain by Shane Lawrence, Shopify](https://www.youtube.com/watch?v=yuDMsB0jsdE), 2022
 * [How to start learning about Supply Chain Security | Cloud Native Podcast, Episode 48](https://www.youtube.com/watch?v=vFLmm8NnHFg)
+* [Using CSAF to Respond to Supply Chain Vulnerabilities at Large Scale](https://www.youtube.com/watch?v=z6Psfopy55E)
 
 ## Related GitHub Repos
 * [bureado / awesome-software-supply-chain-security](https://github.com/bureado/awesome-software-supply-chain-security)
