@@ -8,6 +8,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [NTIA SBOM Resources](https://www.ntia.gov/page/software-bill-materials)
 * [SBOM FAQ](https://www.ntia.doc.gov/files/ntia/publications/sbom_faq_-_fork_for_october_22_meeting.pdf)
 * [How-To Guide for SBOM Generation](https://www.ntia.gov/files/ntia/publications/howto_guide_for_sbom_generation_v1.pdf)
+
 ### Cybersecurity and Infrastructure Security Agency ([CISA](https://www.cisa.gov/))
 * [CISA SBOM Resources](https://www.cisa.gov/sbom)
 * [Software Bill of Materials (SBOM) Sharing Lifecycle Report](https://www.cisa.gov/sites/default/files/2023-04/sbom-sharing-lifecycle-report_508.pdf), April 2023
@@ -16,31 +17,36 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [CISA Security-by-Design and -Default guidance](https://www.cisa.gov/resources-tools/resources/secure-by-design-and-default)
 * [2022 Top Routinely Exploited Vulnerabilities](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-215a), [[PDF](https://www.cisa.gov/sites/default/files/2023-08/aa23-215a_joint_csa_2022_top_routinely_exploited_vulnerabilities.pdf)]
 * [Transforming the Vulnerability Management Landscape](https://www.cisa.gov/news-events/news/transforming-vulnerability-management-landscape) - CISA blog on outlining three critical steps to advance the vulnerability management ecosystem.
+
 ### The White House - Office of the National Cyber Director ([ONCD](https://www.whitehouse.gov/oncd/))
 * [Request for Information: Open-Source Software Security: Areas of Long-Term Focus and Prioritization](https://www.regulations.gov/document/ONCD-2023-0002-0001), **RFI comments submission deadline: October 9, 2023**
 * [National Cybersecurity Strategy 2023](https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf)
+
 ### National Institute of Standards and Technology ([NIST](https://www.nist.gov/))
 * [Improving the Nation's Cybersecurity: NIST’s Responsibilities Under the May 2021 Executive Order](https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity)
 * [NIST SP 800-161 Rev.1: Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/161/r1/final), May 2022
 * [NIST SP 800-218: Secure Software Development Framework (SSDF)](https://csrc.nist.gov/Projects/ssdf)
+
 ### Open Worldwide Application Security Project ([OWASP](https://owasp.org/))
 * [OWASP Software Component Verification Standard](https://owasp.org/www-project-software-component-verification-standard/)
 * [OWASP CycloneDX](https://owasp.org/www-project-cyclonedx/)
 * [OWASP Top 10 CI/CD Security Risks](https://owasp.org/www-project-top-10-ci-cd-security-risks/)
 * [Article on Component Analysis](https://owasp.org/www-community/Component_Analysis) by [Steve Springett](https://www.linkedin.com/in/stevespringett/)
 * [OWASP BOM Maturity Model](https://scvs.owasp.org/bom-maturity-model/)
+
 ### Open Source Security Foundation ([OpenSSF](https://openssf.org/))
 * [The Open Source Software Security Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/)
 * [OpenSSF Working Groups](https://openssf.org/community/openssf-working-groups/)
 * [OpenSSF sigstore](https://www.sigstore.dev/)
 * [Securing Your Software Supply Chain with Sigstore Course](https://openssf.org/training/securing-your-software-supply-chain-with-sigstore-course/)
 * [OpenSSF Scorecard](https://securityscorecards.dev/), [[GitHub](https://github.com/ossf/scorecard)]
-* 
+
 ### Cloud Native Computing Foundation ([CNCF](https://www.cncf.io/))
 * [Software Supply Chain Security](https://github.com/cncf/tag-security/tree/main/supply-chain-security)
 * [CNCF Software Supply Chain Best Practices](https://project.linuxfoundation.org/hubfs/CNCF_SSCP_v1.pdf), [[GitHub](https://github.com/cncf/tag-security/blob/main/supply-chain-security/supply-chain-security-paper/CNCF_SSCP_v1.pdf)]
 * [Secure Software Factory Reference Architecture](https://github.com/cncf/tag-security/blob/main/supply-chain-security/secure-software-factory/Secure_Software_Factory_Whitepaper.pdf)
 * [Factory for Repeatable Secure Creation of Artifacts (FRSCA)](https://github.com/buildsec/frsca)
+
 ### [Software Transparency Foundation](https://st.foundation/)
 * [OSSKB.org](https://osskb.org/)
 
@@ -66,6 +72,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 
 ## New Initiatives
 * [Supply Chain Integrity, Transparency, and Trust (SCITT)](https://scitt.io/), [[GitHub](https://github.com/ietf-scitt)], [[SCIM GitHub](https://github.com/microsoft/scim)] - The Supply Chain Integrity, Transparency and Trust (SCITT) initiative is a set of proposed IETF industry standards for managing the compliance of goods and services across end-to-end supply chains.
+
 ## Software Supply Chain Threats
 #### Threats
 * [SLSA Threats & Mitigations](https://slsa.dev/spec/v1.0/threats)
@@ -80,16 +87,18 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Atlantic Council's BREAKING TRUST: Shades of Crisis Across an Insecure Software Supply Chain](https://atlanticcouncil.org/wp-content/uploads/2020/07/Breaking-trust-Shades-of-crisis-across-an-insecure-software-supply-chain.pdf)
 * [Microsoft Open Source Software Supply Chain Threats catalogue](https://www.microsoft.com/en-us/securityengineering/opensource/ossthreats)
 * [Risk Explorer for Software Supply Chains](https://sap.github.io/risk-explorer-for-software-supply-chains/), [[Attack Vectors](https://sap.github.io/risk-explorer-for-software-supply-chains/#/attackvectors)], [[Safeguards](https://sap.github.io/risk-explorer-for-software-supply-chains/#/safeguards)], [[Research Paper](https://arxiv.org/abs/2204.04008)], [[GitHub](https://github.com/SAP/risk-explorer-for-software-supply-chains)]
+* [Software Supply Chain Attacks - An Illustrated Typological Review](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/584947/2/Cyber-Reports-2023-01-Software-Supply-Chain-Attacks.pdf), January 2023
 * [Backstabber’s Knife Collection: A Review of Open Source Software Supply Chain Attacks](https://link.springer.com/chapter/10.1007/978-3-030-52683-2_2)
+
 #### Attacks / Compromises
 * [Worldwide software supply chain attacks tracker (updated daily)](https://www.comparitech.com/software-supply-chain-attacks/)
 * [CNCF Tag Security - Catalog of Supply Chain Compromises](https://github.com/cncf/tag-security/tree/main/supply-chain-security/compromises)
 * [IQT Labs - Software Supply Chain Compromises](https://github.com/IQTLabs/software-supply-chain-compromises)
 * [ReversingLabs - A (Partial) History of Software Supply Chain Attacks](https://www.reversinglabs.com/blog/a-partial-history-of-software-supply-chain-attacks)
 * [Sonatype - A History of Software Supply Chain Attacks - July 2017–Present](https://www.sonatype.com/resources/vulnerability-timeline)
+
 #### Research / Reports
 * [PowerHell: Active Flaws in PowerShell Gallery Expose Users to Attacks](https://blog.aquasec.com/powerhell-active-flaws-in-powershell-gallery-expose-users-to-attacks), August 2023
-* [Software Supply Chain Attacks An Illustrated Typological Review](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/584947/2/Cyber-Reports-2023-01-Software-Supply-Chain-Attacks.pdf), January 2023
 
 ## Vulnerability Management
 #### Vulnerability Databases
@@ -149,7 +158,9 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 #### SBOM Distribution
 * [IETF Draft - Discovering and Retrieving Software Transparency and Vulnerability Information](https://datatracker.ietf.org/doc/draft-ietf-opsawg-sbom-access/)
 
-### SBOM Implementation Practices
+#### SBOM Consumption and Analysis
+
+### SBOM Implementation
 * [GitLab Software Supply Chain Security Direction](https://about.gitlab.com/direction/supply-chain/)
 
 ## Tooling
@@ -190,6 +201,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 ### GCP
 * [Google's Software Supply Chain Security documentation](https://cloud.google.com/software-supply-chain-security/docs)
 
+## 
 ## Vendors
 * [Anchore](https://anchore.com/)
 * [Binarly](https://www.binarly.io/) - Binarly is the world’s most advanced automated firmware supply chain security platform. Using cutting-edge machine-learning techniques, Binary identifies both known and unknown vulnerabilities, misconfigurations, and malicious code in firmware and hardware components.* [Chainguard](https://www.chainguard.dev/)
@@ -269,6 +281,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 ## Podcasts
 * [daBOM](https://dabom.captivate.fm/)
 * [Open Source Security Podcast](https://opensourcesecurity.io/category/podcast/)
+* [Code Patrol by Contrast Security - CycloneDX 1.5: The missing link in SBOMs and software transparency?](https://www.contrastsecurity.com/codepatrolpodcast/cyclonedx-15-the-missing-link-in-sboms-and-software-transparency), August 2023
 * [Tromzo Podcast EP 40 — Steve Springett on Solving Software Supply Chain Security and SBOM Challenges](https://tromzo.com/podcasts/solving-software-supply-chain-security-and-sbom-challenges), July 2023
 * [Tromzo Podcast EP 25 — Navigating the Complex World of Software Supply Chain Security with Schneider Electric’s Cassie Crossley](https://tromzo.com/podcasts/navigating-the-complex-world-of-software-supply-chain-security), March 2023
 
@@ -328,7 +341,6 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [IQTLabs / software-supply-chain-compromises](https://github.com/IQTLabs/software-supply-chain-compromises)
 * [chainguard-dev / ssc-reading-list](https://github.com/chainguard-dev/ssc-reading-list)
 * [chughes757 / SecureSoftwareSupplyChain](https://github.com/chughes757/SecureSoftwareSupplyChain)
-* 
 
 ## Miscellaneous / Unsorted
 * [SRE Books from Google](https://sre.google/books/)
