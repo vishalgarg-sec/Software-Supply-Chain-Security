@@ -213,6 +213,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Endor Labs](https://www.endorlabs.com/) - At Endor Labs, we've created the first open source dependency lifecycle management platform to help OSS consumers select, secure and maintain dependencies effectively.
 * [FOSSA](https://fossa.com/)
 * [NetRise](https://www.netrise.io/) - The NetRise Platform is a next-generation product security solution for XIoT devices. Through ML-driven binary analysis, our platform generates industry-best Software Bills of Material (SBOMs), identifies and prioritizes vulnerabilities, and uncovers non-CVE risk that would otherwise go undetected.
+* [Ox Security](https://www.ox.security/)
 * [Rezilion](https://www.rezilion.com/)
 * [TestifySec](https://www.testifysec.com/)
 * [Venafi](https://venafi.com/)
