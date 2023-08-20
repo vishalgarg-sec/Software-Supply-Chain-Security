@@ -80,7 +80,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [ODNI Software Supply Chain Attacks - 2021 Edition](https://www.dni.gov/files/NCSC/documents/supplychain/Software_Supply_Chain_Attacks.pdf)
 * [ODNI Software Supply Chain Attacks - 2017 Edition](https://www.dni.gov/files/NCSC/documents/supplychain/20190327-Software-Supply-Chain-Attacks02.pdf)
 * [CNCF Catalog of Types of Supply Chain Compromises](https://github.com/cncf/tag-security/blob/main/supply-chain-security/compromises/compromise-definitions.md)
-* [Open Software Supply Chain Attack Reference (OSC&R)](https://pbom.dev/)
+* [Open Software Supply Chain Attack Reference (OSC&R)](https://pbom.dev/)[[GitHub](https://github.com/pbom-dev/OSCAR)]
 * [MITRE Supply Chain Compromise Techniques](https://attack.mitre.org/techniques/T1195/)
 * [CAPEC Supply-Chain Attack Vectors](https://capec.mitre.org/data/definitions/437.html)
 * [ENISA Threat Landscape for Supply Chain Attacks](https://www.enisa.europa.eu/publications/threat-landscape-for-supply-chain-attacks)
