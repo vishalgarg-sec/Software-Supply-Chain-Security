@@ -229,6 +229,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Sonatype 8th Annual State of the Software Supply Chain report](https://www.sonatype.com/state-of-the-software-supply-chain/introduction), Sonatype
 * [Synopsis Open Source Security and Risk Analysis Report](https://www.synopsys.com/software-integrity/resources/analyst-reports/open-source-security-risk-analysis.html), Synopsis, 2023
 * [The State of Dependency Management](https://www.endorlabs.com/state-of-dependency-management), Endor Labs, 2023
+* [The State of Software Supply Chain Security 2023](https://www.reversinglabs.com/reports/state-of-supply-chain-security-22), ReversingLabs, 2023
 * [OpenSSF Annual Report](https://openssf.org/wp-content/uploads/sites/132/2022/12/OpenSSF-Annual-Report-2022.pdf), OpenSSF, 2022
 * [Software Bill of Materials (SBOM) and Cybersecurity Readiness](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/LF%20Research/State%20of%20Software%20Bill%20of%20Materials%20-%20Report.pdf), The Linux Foundation, January 2022
 * [The State of Enterprise Open Source](https://www.redhat.com/en/enterprise-open-source-report/2022), RedHat, 2022
@@ -294,7 +295,8 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 
 ## Blogs
 #### Industry / Community
-* [Open Source Security blog](https://opensourcesecurity.io/category/securityblog/)
+* [OpenSSF](https://openssf.org/blog/)
+* [Open Source Security](https://opensourcesecurity.io/category/securityblog/)
 
 #### Experts
 * [Resilient Cyber](https://resilientcyber.substack.com/) by Chris Huges
@@ -308,11 +310,11 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [TestifySec](https://www.testifysec.com/blog/)
 
 ## From the Web
-### SBOM Adoption
+#### SBOM Adoption
 * [Cisco Demonstrating Transparency through Software Bill of Materials (SBOM)](https://blogs.cisco.com/security/demonstrating-transparency-through-software-bill-of-materials-sbom), August 2023
 * [Introducing Software Bill of Materials for Confluent Platform](https://www.confluent.io/blog/software-bill-of-materials/), July 2023
 
-### Readings
+#### Readings
 * [The Rising Threat of Software Supply Chain Attacks: Managing Dependencies of Open Source projects](https://linuxfoundation.eu/newsroom/the-rising-threat-of-software-supply-chain-attacks-managing-dependencies-of-open-source-projects)
 * [The history of cybersecurity](https://blog.avast.com/history-of-cybersecurity-avast)
 * [Lessons Not Learned From Software Supply Chain Attacks](https://www.darkreading.com/attacks-breaches/lessons-not-learned-from-software-supply-chain-attacks)
@@ -342,13 +344,14 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [A Toolbox for a Secure Software Supply Chain](https://www.chainguard.dev/unchained/a-toolbox-for-a-secure-software-supply-chain)
 * [Why Do SBOM Haters Hate? Or Why Trade Associations Say the Darndest Things](https://dfrlab.org/2023/07/19/why-do-sbom-haters-hate/)
 * [Unleashing in-toto: The API of DevSecOps](https://www.cncf.io/blog/2023/08/17/unleashing-in-toto-the-api-of-devsecops/)
+* [All about OSC&R, a Software Supply Chain Security Framework](https://thenewstack.io/all-about-oscr-a-software-supply-chain-security-framework/)
 
-### Presentations
+#### Presentations
 * [Reflections on Trust in the Software Supply Chain](https://i.blackhat.com/BH-US-23/Presentations/US-23-Long-Reflections-On-Trust.pdf) by [Jeremy Long](https://www.blackhat.com/us-23/briefings/schedule/speakers.html#jeremy-long-31926), BlackHat, August 2023
 * [Flaming Hot SLSA!](https://speakerdeck.com/abhaybhargav/flaming-hot-slsa) by [Abhay Bhargav](https://www.linkedin.com/in/abhaybhargav/), 2022
 * [MITRE Software Bill of Materials (SBOM) Presentation](https://csrc.nist.gov/CSRC/media/Projects/cyber-supply-chain-risk-management/documents/SSCA/Spring_2019/8MayAM2.3_Software_Bill_of_Materials_Robert_Martin_05_08_19_clean.pdf), 2019
 
-### Videos
+#### Videos
 * [Why you need an XBOM – the eXtended Software Bill of Materials](https://www.youtube.com/watch?v=KPa-v5KndIY)
 * [Securing Shopify's Software Supply Chain by Shane Lawrence, Shopify](https://www.youtube.com/watch?v=yuDMsB0jsdE), 2022
 * [How to start learning about Supply Chain Security | Cloud Native Podcast, Episode 48](https://www.youtube.com/watch?v=vFLmm8NnHFg)
