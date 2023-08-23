@@ -11,6 +11,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 
 ### Cybersecurity and Infrastructure Security Agency ([CISA](https://www.cisa.gov/))
 * [CISA SBOM Resources](https://www.cisa.gov/sbom)
+* [Types of Software Bill of Material (SBOM) Documents](https://www.cisa.gov/sites/default/files/2023-04/sbom-types-document-508c.pdf)
 * [Software Bill of Materials (SBOM) Sharing Lifecycle Report](https://www.cisa.gov/sites/default/files/2023-04/sbom-sharing-lifecycle-report_508.pdf), April 2023
 * [SBOM-a-rama 2023 Recordings](https://www.cisa.gov/news-events/events/sbom-rama)
 * [SBOM-a-rama 2021 Recordings](https://www.cisa.gov/resources-tools/resources/cisa-sbom-rama)
@@ -290,6 +291,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [daBOM](https://dabom.captivate.fm/)
 * [Open Source Security Podcast](https://opensourcesecurity.io/category/podcast/)
 * [Code Patrol by Contrast Security - CycloneDX 1.5: The missing link in SBOMs and software transparency?](https://www.contrastsecurity.com/codepatrolpodcast/cyclonedx-15-the-missing-link-in-sboms-and-software-transparency), August 2023
+* [Proof of Concept: Managing Software Supply Chain Woes](https://www.bankinfosecurity.com/proof-concept-managing-software-supply-chain-woes-a-22787), August 2023
 * [Tromzo Podcast EP 40 — Steve Springett on Solving Software Supply Chain Security and SBOM Challenges](https://tromzo.com/podcasts/solving-software-supply-chain-security-and-sbom-challenges), July 2023
 * [Tromzo Podcast EP 25 — Navigating the Complex World of Software Supply Chain Security with Schneider Electric’s Cassie Crossley](https://tromzo.com/podcasts/navigating-the-complex-world-of-software-supply-chain-security), March 2023
 
