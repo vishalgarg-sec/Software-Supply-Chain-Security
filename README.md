@@ -354,10 +354,12 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [MITRE Software Bill of Materials (SBOM) Presentation](https://csrc.nist.gov/CSRC/media/Projects/cyber-supply-chain-risk-management/documents/SSCA/Spring_2019/8MayAM2.3_Software_Bill_of_Materials_Robert_Martin_05_08_19_clean.pdf), 2019
 
 #### Videos
+* [SBOM & CycloneDX with Steve Springett](https://www.youtube.com/watch?v=WDl1w9HXJUA), August 2023
 * [Why you need an XBOM – the eXtended Software Bill of Materials](https://www.youtube.com/watch?v=KPa-v5KndIY)
 * [Securing Shopify's Software Supply Chain by Shane Lawrence, Shopify](https://www.youtube.com/watch?v=yuDMsB0jsdE), 2022
 * [How to start learning about Supply Chain Security | Cloud Native Podcast, Episode 48](https://www.youtube.com/watch?v=vFLmm8NnHFg)
 * [Using CSAF to Respond to Supply Chain Vulnerabilities at Large Scale](https://www.youtube.com/watch?v=z6Psfopy55E)
+* 
 
 ## Miscellaneous / Unsorted
 * [SRE Books from Google](https://sre.google/books/)
