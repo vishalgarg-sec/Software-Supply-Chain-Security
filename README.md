@@ -292,9 +292,11 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 
 ## Podcasts
 * [daBOM](https://dabom.captivate.fm/)
+* [Tromzo Podcasts](https://tromzo.com/podcasts)
 * [Open Source Security Podcast](https://opensourcesecurity.io/category/podcast/)
 * [Code Patrol by Contrast Security - CycloneDX 1.5: The missing link in SBOMs and software transparency?](https://www.contrastsecurity.com/codepatrolpodcast/cyclonedx-15-the-missing-link-in-sboms-and-software-transparency), August 2023
 * [Proof of Concept: Managing Software Supply Chain Woes](https://www.bankinfosecurity.com/proof-concept-managing-software-supply-chain-woes-a-22787), August 2023
+* [Tromzo Podcast EP 41 — SAP’s Helen Oakley on Protecting Human Well-Being by Securing Software Supply Chains](https://tromzo.com/podcasts/protecting-human-well-being-by-securing-software-supply-chains), July 2023
 * [Tromzo Podcast EP 40 — Steve Springett on Solving Software Supply Chain Security and SBOM Challenges](https://tromzo.com/podcasts/solving-software-supply-chain-security-and-sbom-challenges), July 2023
 * [Tromzo Podcast EP 25 — Navigating the Complex World of Software Supply Chain Security with Schneider Electric’s Cassie Crossley](https://tromzo.com/podcasts/navigating-the-complex-world-of-software-supply-chain-security), March 2023
 
@@ -363,6 +365,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Securing Shopify's Software Supply Chain by Shane Lawrence, Shopify](https://www.youtube.com/watch?v=yuDMsB0jsdE), 2022
 * [How to start learning about Supply Chain Security | Cloud Native Podcast, Episode 48](https://www.youtube.com/watch?v=vFLmm8NnHFg)
 * [Using CSAF to Respond to Supply Chain Vulnerabilities at Large Scale](https://www.youtube.com/watch?v=z6Psfopy55E)
+* [The Three Disciplines of CI/CD Security // DANIEL KRIVELEVICH](https://www.youtube.com/watch?v=9wREQrOqvkY)
 * 
 
 ## Miscellaneous / Unsorted
