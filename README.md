@@ -285,6 +285,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 
 ## GitHub Projects
 * [Malicious Dependencies](https://github.com/jeremylong/malicious-dependencies)
+* [neo4cyclone](https://github.com/javixeneize/neo4cyclone) - Neo4Cyclone is a project that ingests CycloneDX SBOMs in a Neo4J database for visualisation purposes.
 
 ## Events / Conferences
 * [OpenSSF Day Europe, Bilbao, Spain – 18 September 2023](https://openssf.org/event/openssf-day-europe-september-18-in-bilbao-spain/)
