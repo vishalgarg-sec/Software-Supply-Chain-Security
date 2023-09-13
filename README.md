@@ -168,9 +168,6 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 
 #### SBOM Consumption and Analysis
 
-### SBOM Implementation
-* [GitLab Software Supply Chain Security Direction](https://about.gitlab.com/direction/supply-chain/)
-
 ## Tooling
 ### SBOM Generation
 #### Native
@@ -321,9 +318,11 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [TestifySec](https://www.testifysec.com/blog/)
 
 ## From the Web
-#### SBOM Adoption
+#### SBOM Adoption / Implementation
 * [Cisco Demonstrating Transparency through Software Bill of Materials (SBOM)](https://blogs.cisco.com/security/demonstrating-transparency-through-software-bill-of-materials-sbom), August 2023
 * [Introducing Software Bill of Materials for Confluent Platform](https://www.confluent.io/blog/software-bill-of-materials/), July 2023
+* [GitLab Software Supply Chain Security Direction](https://about.gitlab.com/direction/supply-chain/)
+
 
 #### Readings
 * [The Rising Threat of Software Supply Chain Attacks: Managing Dependencies of Open Source projects](https://linuxfoundation.eu/newsroom/the-rising-threat-of-software-supply-chain-attacks-managing-dependencies-of-open-source-projects)
