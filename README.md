@@ -18,6 +18,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [CISA Security-by-Design and -Default guidance](https://www.cisa.gov/resources-tools/resources/secure-by-design-and-default)
 * [2022 Top Routinely Exploited Vulnerabilities](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-215a), [[PDF](https://www.cisa.gov/sites/default/files/2023-08/aa23-215a_joint_csa_2022_top_routinely_exploited_vulnerabilities.pdf)]
 * [Transforming the Vulnerability Management Landscape](https://www.cisa.gov/news-events/news/transforming-vulnerability-management-landscape) - CISA blog on outlining three critical steps to advance the vulnerability management ecosystem.
+* [CISA Open Source Software Security Roadmap](https://www.cisa.gov/resources-tools/resources/cisa-open-source-software-security-roadmap), [[PDF](https://www.cisa.gov/sites/default/files/2023-09/CISA-Open-Source-Software-Security-Roadmap-508c%20%281%29.pdf)]
 
 ### The White House - Office of the National Cyber Director ([ONCD](https://www.whitehouse.gov/oncd/))
 * [Request for Information: Open-Source Software Security: Areas of Long-Term Focus and Prioritization](https://www.regulations.gov/document/ONCD-2023-0002-0001), **RFI comments submission deadline: October 9, 2023**
@@ -43,6 +44,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [OpenSSF sigstore](https://www.sigstore.dev/)
 * [Securing Your Software Supply Chain with Sigstore Course](https://openssf.org/training/securing-your-software-supply-chain-with-sigstore-course/)
 * [OpenSSF Scorecard](https://securityscorecards.dev/), [[GitHub](https://github.com/ossf/scorecard)]
+* [OpenSSF Source Code Management Best Practices Guide](https://best.openssf.org/SCM-BestPractices/)
 
 ### Cloud Native Computing Foundation ([CNCF](https://www.cncf.io/))
 * [Software Supply Chain Security](https://github.com/cncf/tag-security/tree/main/supply-chain-security)
