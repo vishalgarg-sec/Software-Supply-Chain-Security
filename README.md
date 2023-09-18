@@ -189,6 +189,8 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Graph for Understanding Artifact Composition (GUAC)](https://guac.sh/), [[GitHub](https://github.com/guacsec/guac)], [[Google Article](https://security.googleblog.com/2022/10/announcing-guac-great-pairing-with-slsa.html)], [[YouTube](https://www.youtube.com/watch?v=U7jRTZUDHYM)]
 * [Grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems. Grype Works with Syft, the SBOM generation tool for container images and filesystems.
 * [NTIA Conformance Checker](https://github.com/spdx/ntia-conformance-checker)
+* [protobom](https://github.com/bom-squad/protobom) - Protobom offers a format-neutral representation of SBOM package and file data and the ability to translate this data between popular SBOM formats.
+* [bomshell](https://github.com/chainguard-dev/bomshell) - Bomshell is an SBOM programming interface and workbench that lets users query and remix data from SBOMs to extract and model software to generate new SBOMs that are structured and contain the data that SBOM ingestion tools expect.
 #### Commercial
 
 ### SBOM Governance
