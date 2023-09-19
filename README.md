@@ -15,6 +15,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Software Bill of Materials (SBOM) Sharing Lifecycle Report](https://www.cisa.gov/sites/default/files/2023-04/sbom-sharing-lifecycle-report_508.pdf), April 2023
 * [SBOM-a-rama 2023 Recordings](https://www.cisa.gov/news-events/events/sbom-rama)
 * [SBOM-a-rama 2021 Recordings](https://www.cisa.gov/resources-tools/resources/cisa-sbom-rama)
+* [CISA recommendations on Defending Against Software Supply Chain Attacks](https://www.cisa.gov/sites/default/files/publications/defending_against_software_supply_chain_attacks_508_1.pdf), CISA, April 2021
 * [CISA Security-by-Design and -Default guidance](https://www.cisa.gov/resources-tools/resources/secure-by-design-and-default)
 * [2022 Top Routinely Exploited Vulnerabilities](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-215a), [[PDF](https://www.cisa.gov/sites/default/files/2023-08/aa23-215a_joint_csa_2022_top_routinely_exploited_vulnerabilities.pdf)]
 * [Transforming the Vulnerability Management Landscape](https://www.cisa.gov/news-events/news/transforming-vulnerability-management-landscape) - CISA blog on outlining three critical steps to advance the vulnerability management ecosystem.
@@ -26,17 +27,16 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 
 ### National Institute of Standards and Technology ([NIST](https://www.nist.gov/))
 * [Improving the Nation's Cybersecurity: NIST’s Responsibilities Under the May 2021 Executive Order](https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity)
+* [NIST SP 800-218: Secure Software Development Framework (SSDF)](https://csrc.nist.gov/Projects/ssdf)
 * [NIST SP 800-204D - Strategies for the Integration of Software Supply Chain Security in DevSecOps CI/CD pipelines](https://csrc.nist.gov/pubs/sp/800/204/d/ipd), [[PDF](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204D.ipd.pdf)], **(Initial Public Draft) - August 2023, Comments Due Date: October 13, 2023**
 * [NIST SP 800-161 Rev.1: Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/161/r1/final), May 2022
-* [NIST SP 800-218: Secure Software Development Framework (SSDF)](https://csrc.nist.gov/Projects/ssdf)
-* [NIST recommendations on Defending Against Software Supply Chain Attacks](https://www.cisa.gov/sites/default/files/publications/defending_against_software_supply_chain_attacks_508_1.pdf), NIST, April 2021
 
 ### Open Worldwide Application Security Project ([OWASP](https://owasp.org/))
 * [OWASP Software Component Verification Standard](https://owasp.org/www-project-software-component-verification-standard/)
-* [OWASP CycloneDX](https://owasp.org/www-project-cyclonedx/)
 * [OWASP Top 10 CI/CD Security Risks](https://owasp.org/www-project-top-10-ci-cd-security-risks/)
-* [Article on Component Analysis](https://owasp.org/www-community/Component_Analysis) by [Steve Springett](https://www.linkedin.com/in/stevespringett/)
+* [OWASP CycloneDX](https://owasp.org/www-project-cyclonedx/)
 * [OWASP BOM Maturity Model](https://scvs.owasp.org/bom-maturity-model/)
+* [Article on Component Analysis](https://owasp.org/www-community/Component_Analysis) by [Steve Springett](https://www.linkedin.com/in/stevespringett/)
 
 ### Open Source Security Foundation ([OpenSSF](https://openssf.org/))
 * [The Open Source Software Security Mobilization Plan](https://openssf.org/oss-security-mobilization-plan/)
@@ -62,10 +62,10 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 ## Standards, Frameworks, Best Practices
 * [Supply-chain Levels for Software Artifacts (SLSA)](https://slsa.dev/), [[GitHub](https://github.com/slsa-framework/slsa)], [[Google](https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html)]
 * [OWASP Software Component Verification Standard (SCVS)](https://owasp.org/www-project-software-component-verification-standard/)
-* [NIST Secure Software Development Framework (SSDF)](https://csrc.nist.gov/Projects/ssdf)
+* [NIST SP 800-218: Secure Software Development Framework (SSDF)](https://csrc.nist.gov/Projects/ssdf)
 * [NIST recommendations on Defending Against Software Supply Chain Attacks](https://www.cisa.gov/sites/default/files/publications/defending_against_software_supply_chain_attacks_508_1.pdf), NIST, April 2021
 * [OASIS Common Security Advisory Framework (CSAF)](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=csaf), [[GitHub](https://oasis-open.github.io/csaf-documentation/index.html)] - Common Security Advisory Framework (CSAF) is a language to exchange Security Advisories and allows stakeholders to automate the creation and consumption of security vulnerability information and remediation.
-* [Cybersecurity Information Sheet (CSI) on Defending Continuous Integration/Continuous Delivery (CI/CD) Environments](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3441780/nsa-and-cisa-best-practices-to-secure-cloud-continuous-integrationcontinuous-de/), National Security Agency (NSA) and Cybersecurity and Infrastructure Security Agency (CISA) joint report, June 2023
+* [Defending Continuous Integration/Continuous Delivery (CI/CD) Environments](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3441780/nsa-and-cisa-best-practices-to-secure-cloud-continuous-integrationcontinuous-de/), NSA and CISA joint Cybersecurity Information Sheet (CSI), June 2023
 * [Securing the Software Supply Chain: Recommended Practices Guide for Customers](https://media.defense.gov/2022/Nov/17/2003116445/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_CUSTOMER.PDF), ESF Partners, NSA, and CISA Release Software Supply Chain Guidance for Customers [[Press Release](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3221208/esf-partners-nsa-and-cisa-release-software-supply-chain-guidance-for-customers/)], November 2022
 * [Securing the Software Supply Chain: Recommended Practices Guide for Suppliers](https://media.defense.gov/2022/Oct/31/2003105368/-1/-1/0/SECURING_THE_SOFTWARE_SUPPLY_CHAIN_SUPPLIERS.PDF), ESF Partners, NSA, and CISA Release Software Supply Chain Guidance for Suppliers [[Press Release](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3204427/esf-partners-nsa-and-cisa-release-software-supply-chain-guidance-for-suppliers/)], October 2022
 * [Securing the Software Supply Chain - Recommended Practices Guide for Developers](https://media.defense.gov/2022/Sep/01/2003068942/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_DEVELOPERS.PDF), NSA, CISA, ODNI Release Software Supply Chain Guidance for Developers [[Press Release](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3146465/nsa-cisa-odni-release-software-supply-chain-guidance-for-developers/)], August 2022
@@ -287,6 +287,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 ## GitHub Projects
 * [Malicious Dependencies](https://github.com/jeremylong/malicious-dependencies)
 * [neo4cyclone](https://github.com/javixeneize/neo4cyclone) - Neo4Cyclone is a project that ingests CycloneDX SBOMs in a Neo4J database for visualisation purposes.
+* [Common Threat Matrix for CI/CD Pipeline](https://github.com/rung/threat-matrix-cicd) - This is an ATT&CK-like matrix focused on CI/CD Pipeline risks.
 
 ## Events / Conferences
 * [OpenSSF Day Europe, Bilbao, Spain – 18 September 2023](https://openssf.org/event/openssf-day-europe-september-18-in-bilbao-spain/)
@@ -359,10 +360,12 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Why Do SBOM Haters Hate? Or Why Trade Associations Say the Darndest Things](https://dfrlab.org/2023/07/19/why-do-sbom-haters-hate/)
 * [Unleashing in-toto: The API of DevSecOps](https://www.cncf.io/blog/2023/08/17/unleashing-in-toto-the-api-of-devsecops/)
 * [All about OSC&R, a Software Supply Chain Security Framework](https://thenewstack.io/all-about-oscr-a-software-supply-chain-security-framework/)
+* [Defense Against Novel Threats: Redesigning CI at Mercari](https://engineering.mercari.com/en/blog/entry/20220203-defense-against-novel-threats-redesigning-ci-at-mercari/)
 
 #### Presentations
 * [Reflections on Trust in the Software Supply Chain](https://i.blackhat.com/BH-US-23/Presentations/US-23-Long-Reflections-On-Trust.pdf) by [Jeremy Long](https://www.blackhat.com/us-23/briefings/schedule/speakers.html#jeremy-long-31926), BlackHat, August 2023
 * [Flaming Hot SLSA!](https://speakerdeck.com/abhaybhargav/flaming-hot-slsa) by [Abhay Bhargav](https://www.linkedin.com/in/abhaybhargav/), 2022
+* [Attacking and Securing CI/CD Pipeline](https://speakerdeck.com/rung/cd-pipeline), 2021
 * [MITRE Software Bill of Materials (SBOM) Presentation](https://csrc.nist.gov/CSRC/media/Projects/cyber-supply-chain-risk-management/documents/SSCA/Spring_2019/8MayAM2.3_Software_Bill_of_Materials_Robert_Martin_05_08_19_clean.pdf), 2019
 
 #### Videos
