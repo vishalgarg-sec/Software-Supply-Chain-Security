@@ -86,17 +86,14 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [ODNI Software Supply Chain Attacks - 2023 Edition](https://www.dni.gov/files/NCSC/documents/supplychain/Software-Supply-Chain-Attacks.pdf)
 * [ODNI Software Supply Chain Attacks - 2021 Edition](https://www.dni.gov/files/NCSC/documents/supplychain/Software_Supply_Chain_Attacks.pdf)
 * [ODNI Software Supply Chain Attacks - 2017 Edition](https://www.dni.gov/files/NCSC/documents/supplychain/20190327-Software-Supply-Chain-Attacks02.pdf)
-* [CNCF Catalog of Types of Supply Chain Compromises](https://github.com/cncf/tag-security/blob/main/supply-chain-security/compromises/compromise-definitions.md)
-* [Open Software Supply Chain Attack Reference (OSC&R)](https://pbom.dev/)[[GitHub](https://github.com/pbom-dev/OSCAR)]
 * [MITRE ATT&CK Supply Chain Compromise Techniques](https://attack.mitre.org/techniques/T1195/)
 * [CAPEC Supply-Chain Attack Vectors](https://capec.mitre.org/data/definitions/437.html)
+* [CNCF Catalog of Types of Supply Chain Compromises](https://github.com/cncf/tag-security/blob/main/supply-chain-security/compromises/compromise-definitions.md)
 * [ENISA Threat Landscape for Supply Chain Attacks](https://www.enisa.europa.eu/publications/threat-landscape-for-supply-chain-attacks)
-* [Atlantic Council's BREAKING TRUST: Shades of Crisis Across an Insecure Software Supply Chain](https://atlanticcouncil.org/wp-content/uploads/2020/07/Breaking-trust-Shades-of-crisis-across-an-insecure-software-supply-chain.pdf)
-* [Microsoft Open Source Software Supply Chain Threats catalogue](https://www.microsoft.com/en-us/securityengineering/opensource/ossthreats)
+* [Open Software Supply Chain Attack Reference (OSC&R)](https://pbom.dev/)[[GitHub](https://github.com/pbom-dev/OSCAR)]
 * [OWASP Top 10 CI/CD Security Risks](https://owasp.org/www-project-top-10-ci-cd-security-risks/)
+* [Microsoft Open Source Software Supply Chain Threats catalogue](https://www.microsoft.com/en-us/securityengineering/opensource/ossthreats)
 * [Risk Explorer for Software Supply Chains](https://sap.github.io/risk-explorer-for-software-supply-chains/), [[Attack Vectors](https://sap.github.io/risk-explorer-for-software-supply-chains/#/attackvectors)], [[Safeguards](https://sap.github.io/risk-explorer-for-software-supply-chains/#/safeguards)], [[Research Paper](https://arxiv.org/abs/2204.04008)], [[GitHub](https://github.com/SAP/risk-explorer-for-software-supply-chains)]
-* [Software Supply Chain Attacks - An Illustrated Typological Review](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/584947/2/Cyber-Reports-2023-01-Software-Supply-Chain-Attacks.pdf), January 2023
-* [Backstabber’s Knife Collection: A Review of Open Source Software Supply Chain Attacks](https://link.springer.com/chapter/10.1007/978-3-030-52683-2_2)
 
 #### Attacks / Compromises
 * [Worldwide software supply chain attacks tracker (updated daily)](https://www.comparitech.com/software-supply-chain-attacks/)
@@ -107,6 +104,9 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 
 #### Attack Research / Reports
 * [PowerHell: Active Flaws in PowerShell Gallery Expose Users to Attacks](https://blog.aquasec.com/powerhell-active-flaws-in-powershell-gallery-expose-users-to-attacks), August 2023
+* [Software Supply Chain Attacks - An Illustrated Typological Review](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/584947/2/Cyber-Reports-2023-01-Software-Supply-Chain-Attacks.pdf), January 2023
+* [Atlantic Council's BREAKING TRUST: Shades of Crisis Across an Insecure Software Supply Chain](https://atlanticcouncil.org/wp-content/uploads/2020/07/Breaking-trust-Shades-of-crisis-across-an-insecure-software-supply-chain.pdf), July 2020
+* [Backstabber’s Knife Collection: A Review of Open Source Software Supply Chain Attacks](https://link.springer.com/chapter/10.1007/978-3-030-52683-2_2), July 2020
 
 ## Vulnerability Management
 #### Vulnerability Databases
@@ -198,6 +198,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 #### Open-Source
 * [Aqua Chain-bench](https://github.com/aquasecurity/chain-bench/tree/main)
 * [SBOM Benchmark](https://sbombenchmark.dev/)
+* [sbomqs: Quality metrics for SBOMs](https://github.com/interlynk-io/sbomqs)
 #### Commercial
 
 ### Other / Unsorted
