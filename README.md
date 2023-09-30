@@ -76,6 +76,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [in-toto](https://in-toto.io/) [[GitHub](https://github.com/in-toto/community)] - A framework to secure the integrity of software supply chains. It does so by verifying that each task in the chain is carried out as planned, by authorized personnel only, and that the product is not tampered with in transit.
 * [Trusted Attestation and Compliance for Open Source (TACOS) Framework](https://github.com/tacosframework) - TACOS is a framework for attesting to the secure software development practices of open source packages.
 * [The Update Framework](https://theupdateframework.io/) - A framework for securing software update systems
+* [ODNI Supply Chain Risk Management Documentation](https://www.odni.gov/index.php/ncsc-what-we-do/ncsc-supply-chain-threats)
 
 ## New Initiatives
 * [Supply Chain Integrity, Transparency, and Trust (SCITT)](https://scitt.io/), [[GitHub](https://github.com/ietf-scitt)], [[SCIM GitHub](https://github.com/microsoft/scim)] - The Supply Chain Integrity, Transparency and Trust (SCITT) initiative is a set of proposed IETF industry standards for managing the compliance of goods and services across end-to-end supply chains.
@@ -84,17 +85,13 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 #### Threats
 * [SLSA Threats & Mitigations](https://slsa.dev/spec/v1.0/threats)
 * [Google article on Software Supply Chain Threats](https://cloud.google.com/software-supply-chain-security/docs/attack-vectors)
-* [ODNI Software Supply Chain Attacks - 2023 Edition](https://www.dni.gov/files/NCSC/documents/supplychain/Software-Supply-Chain-Attacks.pdf)
-* [ODNI Software Supply Chain Attacks - 2021 Edition](https://www.dni.gov/files/NCSC/documents/supplychain/Software_Supply_Chain_Attacks.pdf)
-* [ODNI Software Supply Chain Attacks - 2017 Edition](https://www.dni.gov/files/NCSC/documents/supplychain/20190327-Software-Supply-Chain-Attacks02.pdf)
 * [MITRE ATT&CK Supply Chain Compromise Techniques](https://attack.mitre.org/techniques/T1195/)
 * [CAPEC Supply-Chain Attack Vectors](https://capec.mitre.org/data/definitions/437.html)
 * [CNCF Catalog of Types of Supply Chain Compromises](https://github.com/cncf/tag-security/blob/main/supply-chain-security/compromises/compromise-definitions.md)
-* [ENISA Threat Landscape for Supply Chain Attacks](https://www.enisa.europa.eu/publications/threat-landscape-for-supply-chain-attacks)
 * [Open Software Supply Chain Attack Reference (OSC&R)](https://pbom.dev/)[[GitHub](https://github.com/pbom-dev/OSCAR)]
 * [OWASP Top 10 CI/CD Security Risks](https://owasp.org/www-project-top-10-ci-cd-security-risks/)
 * [Microsoft Open Source Software Supply Chain Threats catalogue](https://www.microsoft.com/en-us/securityengineering/opensource/ossthreats)
-* [Risk Explorer for Software Supply Chains](https://sap.github.io/risk-explorer-for-software-supply-chains/), [[Attack Vectors](https://sap.github.io/risk-explorer-for-software-supply-chains/#/attackvectors)], [[Safeguards](https://sap.github.io/risk-explorer-for-software-supply-chains/#/safeguards)], [[Research Paper](https://arxiv.org/abs/2204.04008)], [[GitHub](https://github.com/SAP/risk-explorer-for-software-supply-chains)]
+
 
 #### Attacks / Compromises
 * [Worldwide software supply chain attacks tracker (updated daily)](https://www.comparitech.com/software-supply-chain-attacks/)
@@ -106,8 +103,14 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 #### Attack Research / Reports
 * [PowerHell: Active Flaws in PowerShell Gallery Expose Users to Attacks](https://blog.aquasec.com/powerhell-active-flaws-in-powershell-gallery-expose-users-to-attacks), August 2023
 * [Software Supply Chain Attacks - An Illustrated Typological Review](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/584947/2/Cyber-Reports-2023-01-Software-Supply-Chain-Attacks.pdf), January 2023
+* [ENISA Threat Landscape for Supply Chain Attacks](https://www.enisa.europa.eu/publications/threat-landscape-for-supply-chain-attacks), July 2021
 * [Atlantic Council's BREAKING TRUST: Shades of Crisis Across an Insecure Software Supply Chain](https://atlanticcouncil.org/wp-content/uploads/2020/07/Breaking-trust-Shades-of-crisis-across-an-insecure-software-supply-chain.pdf), July 2020
 * [Backstabber’s Knife Collection: A Review of Open Source Software Supply Chain Attacks](https://link.springer.com/chapter/10.1007/978-3-030-52683-2_2), July 2020
+* [Risk Explorer for Software Supply Chains](https://sap.github.io/risk-explorer-for-software-supply-chains/), [[Attack Vectors](https://sap.github.io/risk-explorer-for-software-supply-chains/#/attackvectors)], [[Safeguards](https://sap.github.io/risk-explorer-for-software-supply-chains/#/safeguards)], [[Research Paper](https://arxiv.org/abs/2204.04008)], [[GitHub](https://github.com/SAP/risk-explorer-for-software-supply-chains)]
+* [ODNI Software Supply Chain Attacks - 2023 Edition](https://www.dni.gov/files/NCSC/documents/supplychain/Software-Supply-Chain-Attacks.pdf)
+* [ODNI Software Supply Chain Attacks - 2021 Edition](https://www.dni.gov/files/NCSC/documents/supplychain/Software_Supply_Chain_Attacks.pdf)
+* [ODNI Software Supply Chain Attacks - 2017 Edition](https://www.dni.gov/files/NCSC/documents/supplychain/20190327-Software-Supply-Chain-Attacks02.pdf)
+
 
 ## Vulnerability Management
 #### Vulnerability Databases
