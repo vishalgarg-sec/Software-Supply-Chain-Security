@@ -9,7 +9,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [SBOM FAQ](https://www.ntia.doc.gov/files/ntia/publications/sbom_faq_-_fork_for_october_22_meeting.pdf)
 * [How-To Guide for SBOM Generation](https://www.ntia.gov/files/ntia/publications/howto_guide_for_sbom_generation_v1.pdf)
 
-### Cybersecurity and Infrastructure Security Agency ([CISA](https://www.cisa.gov/))
+### Cybersecurity and Infrastructure Security Agency ([CISA](https://www.cisa.gov/)) 
 * [CISA SBOM Resources](https://www.cisa.gov/sbom)
 * [Types of Software Bill of Material (SBOM) Documents](https://www.cisa.gov/sites/default/files/2023-04/sbom-types-document-508c.pdf)
 * [Software Bill of Materials (SBOM) Sharing Lifecycle Report](https://www.cisa.gov/sites/default/files/2023-04/sbom-sharing-lifecycle-report_508.pdf), April 2023
