@@ -8,6 +8,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [NTIA SBOM Resources](https://www.ntia.gov/page/software-bill-materials)
 * [SBOM FAQ](https://www.ntia.doc.gov/files/ntia/publications/sbom_faq_-_fork_for_october_22_meeting.pdf)
 * [How-To Guide for SBOM Generation](https://www.ntia.gov/files/ntia/publications/howto_guide_for_sbom_generation_v1.pdf)
+* [The Minimum Elements For a Software Bill of Materials (SBOM)](https://www.ntia.gov/report/2021/minimum-elements-software-bill-materials-sbom), [[PDF](https://www.ntia.gov/sites/default/files/publications/sbom_minimum_elements_report_0.pdf)]
 
 ### Cybersecurity and Infrastructure Security Agency ([CISA](https://www.cisa.gov/)) 
 * [CISA SBOM Resources](https://www.cisa.gov/sbom)
@@ -21,6 +22,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Transforming the Vulnerability Management Landscape](https://www.cisa.gov/news-events/news/transforming-vulnerability-management-landscape) - CISA blog on outlining three critical steps to advance the vulnerability management ecosystem.
 * [CISA Open Source Software Security Roadmap](https://www.cisa.gov/resources-tools/resources/cisa-open-source-software-security-roadmap), [[PDF](https://www.cisa.gov/sites/default/files/2023-09/CISA-Open-Source-Software-Security-Roadmap-508c%20%281%29.pdf)]
 * [CISA Hardware Bill of Materials (HBOM) Framework for Supply Chain Risk Management](https://www.cisa.gov/resources-tools/resources/hardware-bill-materials-hbom-framework-supply-chain-risk-management), [[PDF](https://www.cisa.gov/sites/default/files/2023-09/A%20Hardware%20Bill%20of%20Materials%20Framework%20for%20Supply%20Chain%20Risk%20Management%20%28508%29.pdf)]
+* [Improving Security of Open Source Software (OSS) in Operational Technology (OT) and Industrial Control Systems (ICS)](https://www.cisa.gov/sites/default/files/2023-10/Fact_Sheet_Improving_OSS_in_OT_ICS_508c.pdf)
 
 ### The White House - Office of the National Cyber Director ([ONCD](https://www.whitehouse.gov/oncd/))
 * [Request for Information: Open-Source Software Security: Areas of Long-Term Focus and Prioritization](https://www.regulations.gov/document/ONCD-2023-0002-0001), **RFI comments submission deadline: October 9, 2023**
@@ -75,7 +77,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Blueprint for building modern, secure software development pipelines](https://github.com/Venafi/blueprint-securesoftwarepipeline)
 * [in-toto](https://in-toto.io/) [[GitHub](https://github.com/in-toto/community)] - A framework to secure the integrity of software supply chains. It does so by verifying that each task in the chain is carried out as planned, by authorized personnel only, and that the product is not tampered with in transit.
 * [Trusted Attestation and Compliance for Open Source (TACOS) Framework](https://github.com/tacosframework) - TACOS is a framework for attesting to the secure software development practices of open source packages.
-* [The Update Framework](https://theupdateframework.io/) - A framework for securing software update systems
+* [The Update Framework (TUF)](https://theupdateframework.io/), [Repository Service for TUF (RSTUF)](https://github.com/repository-service-tuf/repository-service-tuf) - A framework for securing software update systems
 * [ODNI Supply Chain Risk Management Documentation](https://www.odni.gov/index.php/ncsc-what-we-do/ncsc-supply-chain-threats)
 
 ## New Initiatives
@@ -335,6 +337,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 
 
 #### Readings
+* [Securing the Software Supply Chain, VMWare blog](https://octo.vmware.com/part-0-securing-the-software-supply-chain/)
 * [The Rising Threat of Software Supply Chain Attacks: Managing Dependencies of Open Source projects](https://linuxfoundation.eu/newsroom/the-rising-threat-of-software-supply-chain-attacks-managing-dependencies-of-open-source-projects)
 * [The history of cybersecurity](https://blog.avast.com/history-of-cybersecurity-avast)
 * [Lessons Not Learned From Software Supply Chain Attacks](https://www.darkreading.com/attacks-breaches/lessons-not-learned-from-software-supply-chain-attacks)
