@@ -1,7 +1,9 @@
 # Software Supply Chain Security
 
 ## Introduction
-A knowledge base comprising **Software Supply Chain Security** initiatives, standards, regulations, organizations, vendors, tooling, books, articles and a plethora of other learning resources from the web. The list was initially compiled to help me with my research for my upcoming book on Software Supply Chain Security. However, I have decided to make the list public for the benefit of everyone else working in this domain. I will endeavour to keep the list up to date as best as I can.
+A knowledge base comprising **Software Supply Chain Security** initiatives, standards, regulations, organizations, vendors, tooling, books, articles and a plethora of other learning resources from the web. The list was initially compiled to help me with my research on the topic of Software Supply Chain Security. I've now decided to make the list public for the benefit of everyone else working on this domain. I will endeavour to keep the list up to date as best as I can.
+
+You can also reach me on [Linkedin](https://www.linkedin.com/in/vishalgrg/) or read about my mumblings on the topic of **Software Supply Chain Security** and **DevSecOps** on my [blog](https://medium.com/@VishalGarg1) on Medium.
 
 ## Organizations, Foundations, Working Groups
 ### National Telecommunications and Information Administration ([NTIA](https://www.ntia.gov/))
@@ -79,8 +81,6 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Trusted Attestation and Compliance for Open Source (TACOS) Framework](https://github.com/tacosframework) - TACOS is a framework for attesting to the secure software development practices of open source packages.
 * [The Update Framework (TUF)](https://theupdateframework.io/), [Repository Service for TUF (RSTUF)](https://github.com/repository-service-tuf/repository-service-tuf) - A framework for securing software update systems
 * [ODNI Supply Chain Risk Management Documentation](https://www.odni.gov/index.php/ncsc-what-we-do/ncsc-supply-chain-threats)
-
-## New Initiatives
 * [Supply Chain Integrity, Transparency, and Trust (SCITT)](https://scitt.io/), [[GitHub](https://github.com/ietf-scitt)], [[SCIM GitHub](https://github.com/microsoft/scim)] - The Supply Chain Integrity, Transparency and Trust (SCITT) initiative is a set of proposed IETF industry standards for managing the compliance of goods and services across end-to-end supply chains.
 
 ## Software Supply Chain Threats
@@ -126,12 +126,10 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Snyk Vulnerability DB](https://security.snyk.io/vuln)
 * [Open Source Insights](https://deps.dev/) - Open Source Insights is a service developed and hosted by Google to help developers better understand the structure, construction, and security of open source software packages.
 
-##### EPSS
+#### EPSS
 * [Exploit Prediction Scoring System (EPSS)](https://www.first.org/epss/)
 
-##### VDR
-
-##### VEX
+#### VEX
 * [Vulnerability Exploitability eXchange (VEX)](https://www.ntia.gov/files/ntia/publications/vex_one-page_summary.pdf)
 * [VEX Use Cases](https://www.cisa.gov/sites/default/files/publications/VEX_Use_Cases_April2022.pdf)
 * [VEX Status Justification](https://www.cisa.gov/sites/default/files/publications/VEX_Status_Justification_Jun22.pdf)
@@ -140,18 +138,16 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [What is the Vulnerability Exploitability eXchange (VEX)?](https://community.cisco.com/t5/security-knowledge-base/what-is-the-vulnerability-exploitability-exchange-vex/ta-p/4819021)
 * [OpenVEX Specification](https://github.com/openvex/spec)
 
-##### SSVC
+#### SSVC
 * [CISA Stakeholder Specific Vulnerability Categorization (SSVC)](https://www.cisa.gov/stakeholder-specific-vulnerability-categorization-ssvc), [[GitHub](https://github.com/CERTCC/SSVC)]
 
-##### KEV
+#### KEV
 * [CISA Known Exploited Vulnerabilities Catalog (KEV)](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 
 ## Software Identification
 * [Common Platform Enumeration (CPE)](https://csrc.nist.gov/pubs/ir/7697/final)
 * [Software Identification (SWID)](https://csrc.nist.gov/projects/Software-Identification-SWID)
 * [Package URL (purl)](https://github.com/package-url/purl-spec)
-
-## Software Attestation
 
 ## Bill of Materials (BOM)
 * [Software Bill of Materials (SBOM)](https://cyclonedx.org/capabilities/sbom)
@@ -163,61 +159,51 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Cryptography Bill of Materials (CBOM)](https://github.com/IBM/CBOM)
 
 ## Software Bill of Materials (SBOM)
-### Formats and Specifications
+#### Formats and Specifications
 * [CycloneDX](https://cyclonedx.org/)
 * [Software Package Data Exchange (SPDX)](https://spdx.dev/)
 * [Software Identification (SWID)](https://csrc.nist.gov/projects/Software-Identification-SWID)
 
-### SBOM Lifecycle
-#### SBOM Generation
-
-#### SBOM Distribution
+#### SBOM Lifecycle
 * [IETF Draft - Discovering and Retrieving Software Transparency and Vulnerability Information](https://datatracker.ietf.org/doc/draft-ietf-opsawg-sbom-access/)
 
-#### SBOM Consumption and Analysis
-
 ## Tooling
-### SBOM Generation
-#### Native
-#### Open-Source
+#### SBOM Generation
 * [kubernetes bom tool](https://github.com/kubernetes-sigs/bom)
 * [Microsoft’s SBOM Tool](https://github.com/microsoft/sbom-tool)
 * [spdx-sbom-generator](https://github.com/opensbom-generator/spdx-sbom-generator)
 * [syft](https://github.com/anchore/syft)
 * [Tern](https://github.com/tern-tools/tern) - A software package inspection tool to generate Software Bill of Materials (SBOM) for containers.
 * [Trivy](https://github.com/aquasecurity/trivy)
-#### Commercial
 
-### SBOM Scanning & Analysis
-#### Native
-#### Open-Source
+#### SBOM Scanning & Analysis
 * [OWASP Dependency-Track](https://dependencytrack.org/)
 * [Graph for Understanding Artifact Composition (GUAC)](https://guac.sh/), [[GitHub](https://github.com/guacsec/guac)], [[Google Article](https://security.googleblog.com/2022/10/announcing-guac-great-pairing-with-slsa.html)], [[YouTube](https://www.youtube.com/watch?v=U7jRTZUDHYM)]
 * [Grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems. Grype Works with Syft, the SBOM generation tool for container images and filesystems.
 * [NTIA Conformance Checker](https://github.com/spdx/ntia-conformance-checker)
 * [protobom](https://github.com/bom-squad/protobom) - Protobom offers a format-neutral representation of SBOM package and file data and the ability to translate this data between popular SBOM formats.
 * [bomshell](https://github.com/chainguard-dev/bomshell) - Bomshell is an SBOM programming interface and workbench that lets users query and remix data from SBOMs to extract and model software to generate new SBOMs that are structured and contain the data that SBOM ingestion tools expect.
-#### Commercial
 
-### SBOM Governance
-#### Native
-#### Open-Source
+#### SBOM Governance
 * [Aqua Chain-bench](https://github.com/aquasecurity/chain-bench/tree/main)
 * [SBOM Benchmark](https://sbombenchmark.dev/)
 * [sbomqs: Quality metrics for SBOMs](https://github.com/interlynk-io/sbomqs)
-#### Commercial
 
-### Other / Unsorted
+#### Other / Unsorted
 
 ## Software Supply Chain Security in the Cloud
-### AWS
+#### AWS
+* [Exporting SBOMs with Amazon Inspector](https://docs.aws.amazon.com/inspector/latest/user/sbom-export.html)
+* [Using SBOM to find vulnerable container images running on Amazon EKS clusters](https://aws.amazon.com/blogs/containers/using-sbom-to-find-vulnerable-container-images-running-on-amazon-eks-clusters/)
 
-### Azure
+#### Azure
+* [SBOM - Engineering@Microsoft](https://devblogs.microsoft.com/engineering-at-microsoft/tag/sbom/)
 
-### GCP
+#### GCP
 * [Google's Software Supply Chain Security documentation](https://cloud.google.com/software-supply-chain-security/docs)
 
 ## Software Supply Chain Security & Artificial Intelligence (AI)
+
 
 ## Vendors
 * [Anchore](https://anchore.com/)
@@ -383,7 +369,6 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [How to start learning about Supply Chain Security | Cloud Native Podcast, Episode 48](https://www.youtube.com/watch?v=vFLmm8NnHFg)
 * [Using CSAF to Respond to Supply Chain Vulnerabilities at Large Scale](https://www.youtube.com/watch?v=z6Psfopy55E)
 * [The Three Disciplines of CI/CD Security // DANIEL KRIVELEVICH](https://www.youtube.com/watch?v=9wREQrOqvkY)
-* 
 
 ## Miscellaneous / Unsorted
 * [SRE Books from Google](https://sre.google/books/)
