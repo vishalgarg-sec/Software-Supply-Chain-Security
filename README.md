@@ -220,8 +220,9 @@ You can also reach me on [Linkedin](https://www.linkedin.com/in/vishalgrg/) or r
 
 
 ## Books
-* [Software Supply Chain Security: Securing the End-to-End Supply Chain for Software, Firmware, and Hardware](https://www.amazon.com/Software-Supply-Chain-Security-End/dp/1098133706/) by [Cassie Crossley](https://www.linkedin.com/in/cassiecrossley/), Release date: January 2024
-* [Software Transparency - Supply Chain Security in an Era of Software-Driven Society](https://www.amazon.com/Software-Transparency-Security-Software-Driven-Society/dp/1394158483) by [Chris Huges](https://www.linkedin.com/in/resilientcyber/) & [Tony Turner](https://www.linkedin.com/in/tonyturnercissp/), Release date: June 2023
+* [Securing the Software Supply Chain - Protect your application development lifecycle](https://www.manning.com/books/securing-the-software-supply-chain) by [Michael Lieberman](https://www.linkedin.com/in/michael-lieberman-65786ba/) and [Brandon Lum](https://www.linkedin.com/in/brandon-lum-a7b79418/), Release date: Expected Spring 2024
+* [Software Supply Chain Security: Securing the End-to-End Supply Chain for Software, Firmware, and Hardware](https://www.amazon.com/Software-Supply-Chain-Security-End/dp/1098133706/) by [Cassie Crossley](https://www.linkedin.com/in/cassiecrossley/), Release date: Expected January 2024
+* [Software Transparency - Supply Chain Security in an Era of Software-Driven Society](https://www.amazon.com/Software-Transparency-Security-Software-Driven-Society/dp/1394158483) by [Chris Huges](https://www.linkedin.com/in/resilientcyber/) and [Tony Turner](https://www.linkedin.com/in/tonyturnercissp/), Release date: June 2023
 
 
 ## Industry Reports
