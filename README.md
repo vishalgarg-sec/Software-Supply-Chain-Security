@@ -1,9 +1,7 @@
 # Software Supply Chain Security
 
 ## Introduction
-A knowledge base comprising **Software Supply Chain Security** initiatives, standards, regulations, organizations, vendors, tooling, books, articles and a plethora of other learning resources from the web. The list was initially compiled to help me with my research on the topic of Software Supply Chain Security. I've now decided to make the list public for the benefit of everyone else working on this domain. I will endeavour to keep the list up to date as best as I can.
-
-You can also reach me on [Linkedin](https://www.linkedin.com/in/vishalgrg/) or read about my mumblings on the topic of **Software Supply Chain Security** and **DevSecOps** on my [blog](https://medium.com/@VishalGarg1) on Medium.
+A knowledge base comprising **Software Supply Chain Security** initiatives, standards, regulations, organizations, vendors, tooling, books, articles and a plethora of other learning resources from the web. The list was initially compiled to help me with my research on the topic of Software Supply Chain Security. I've now made the list public for the benefit of everyone else working in this domain. I will endeavour to keep the list up to date as best as I can.
 
 ## Organizations, Foundations, Working Groups
 ### National Telecommunications and Information Administration ([NTIA](https://www.ntia.gov/))
@@ -82,6 +80,8 @@ You can also reach me on [Linkedin](https://www.linkedin.com/in/vishalgrg/) or r
 * [The Update Framework (TUF)](https://theupdateframework.io/), [Repository Service for TUF (RSTUF)](https://github.com/repository-service-tuf/repository-service-tuf) - A framework for securing software update systems
 * [ODNI Supply Chain Risk Management Documentation](https://www.odni.gov/index.php/ncsc-what-we-do/ncsc-supply-chain-threats)
 * [Supply Chain Integrity, Transparency, and Trust (SCITT)](https://scitt.io/), [[GitHub](https://github.com/ietf-scitt)], [[SCIM GitHub](https://github.com/microsoft/scim)] - The Supply Chain Integrity, Transparency and Trust (SCITT) initiative is a set of proposed IETF industry standards for managing the compliance of goods and services across end-to-end supply chains.
+* [OpenPubkey Project](https://www.bastionzero.com/openpubkey), [[GitHub](https://github.com/openpubkey/openpubkey)], [[Signing Docker Official Images Using OpenPubkey](https://www.docker.com/blog/signing-docker-official-images-using-openpubkey/)]
+* [Tekton Chains](https://tekton.dev/) - Artifact signatures and attestations for Tekton CI/CD systems
 
 ## Software Supply Chain Threats
 #### Threats
@@ -137,6 +137,7 @@ You can also reach me on [Linkedin](https://www.linkedin.com/in/vishalgrg/) or r
 * [VDR vs VEX](https://owasp.org/blog/2023/02/07/vdr-vex-comparison)
 * [What is the Vulnerability Exploitability eXchange (VEX)?](https://community.cisco.com/t5/security-knowledge-base/what-is-the-vulnerability-exploitability-exchange-vex/ta-p/4819021)
 * [OpenVEX Specification](https://github.com/openvex/spec)
+* [OASIS CSAF Specification](https://docs.oasis-open.org/csaf/csaf/v2.0/os/csaf-v2.0-os.html#45-profile-5-vex)
 
 #### SSVC
 * [CISA Stakeholder Specific Vulnerability Categorization (SSVC)](https://www.cisa.gov/stakeholder-specific-vulnerability-categorization-ssvc), [[GitHub](https://github.com/CERTCC/SSVC)]
@@ -226,11 +227,12 @@ You can also reach me on [Linkedin](https://www.linkedin.com/in/vishalgrg/) or r
 
 
 ## Industry Reports
+* [Sonatype 9th Annual State of the Software Supply Chain](https://www.sonatype.com/state-of-the-software-supply-chain/introduction), Sonatype, 2023
 * [Snyk State of Open Source Security 2023 Report](https://snyk.io/reports/open-source-security/), Snyk, 2023
-* [Sonatype 8th Annual State of the Software Supply Chain report](https://www.sonatype.com/state-of-the-software-supply-chain/introduction), Sonatype
 * [Synopsis Open Source Security and Risk Analysis Report](https://www.synopsys.com/software-integrity/resources/analyst-reports/open-source-security-risk-analysis.html), Synopsis, 2023
 * [The State of Dependency Management](https://www.endorlabs.com/state-of-dependency-management), Endor Labs, 2023
 * [The State of Software Supply Chain Security 2023](https://www.reversinglabs.com/reports/state-of-supply-chain-security-22), ReversingLabs, 2023
+* [Sonatype 8th Annual State of the Software Supply Chain report](https://www.sonatype.com/state-of-the-software-supply-chain/introduction), Sonatype, 2022
 * [OpenSSF Annual Report](https://openssf.org/wp-content/uploads/sites/132/2022/12/OpenSSF-Annual-Report-2022.pdf), OpenSSF, 2022
 * [Software Bill of Materials (SBOM) and Cybersecurity Readiness](https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/LF%20Research/State%20of%20Software%20Bill%20of%20Materials%20-%20Report.pdf), The Linux Foundation, January 2022
 * [The State of Enterprise Open Source](https://www.redhat.com/en/enterprise-open-source-report/2022), RedHat, 2022
@@ -356,6 +358,8 @@ You can also reach me on [Linkedin](https://www.linkedin.com/in/vishalgrg/) or r
 * [Unleashing in-toto: The API of DevSecOps](https://www.cncf.io/blog/2023/08/17/unleashing-in-toto-the-api-of-devsecops/)
 * [All about OSC&R, a Software Supply Chain Security Framework](https://thenewstack.io/all-about-oscr-a-software-supply-chain-security-framework/)
 * [Defense Against Novel Threats: Redesigning CI at Mercari](https://engineering.mercari.com/en/blog/entry/20220203-defense-against-novel-threats-redesigning-ci-at-mercari/)
+* [OpenPubkey and Sigstore](https://blog.sigstore.dev/openpubkey-and-sigstore/)
+* [Open-Source Security: How Digital Infrastructure Is Built on a House of Cards](https://www.lawfaremedia.org/article/open-source-security-how-digital-infrastructure-built-house-cards) by Chinmayi Sharma
 
 #### Presentations
 * [Reflections on Trust in the Software Supply Chain](https://i.blackhat.com/BH-US-23/Presentations/US-23-Long-Reflections-On-Trust.pdf) by [Jeremy Long](https://www.blackhat.com/us-23/briefings/schedule/speakers.html#jeremy-long-31926), BlackHat, August 2023
@@ -370,6 +374,7 @@ You can also reach me on [Linkedin](https://www.linkedin.com/in/vishalgrg/) or r
 * [How to start learning about Supply Chain Security | Cloud Native Podcast, Episode 48](https://www.youtube.com/watch?v=vFLmm8NnHFg)
 * [Using CSAF to Respond to Supply Chain Vulnerabilities at Large Scale](https://www.youtube.com/watch?v=z6Psfopy55E)
 * [The Three Disciplines of CI/CD Security // DANIEL KRIVELEVICH](https://www.youtube.com/watch?v=9wREQrOqvkY)
+* [Securing the Digital Commons: Open-Source Software Cybersecurity](https://www.congress.gov/event/117th-congress/house-event/114727)
 
 ## Miscellaneous / Unsorted
 * [SRE Books from Google](https://sre.google/books/)
