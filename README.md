@@ -360,6 +360,8 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Defense Against Novel Threats: Redesigning CI at Mercari](https://engineering.mercari.com/en/blog/entry/20220203-defense-against-novel-threats-redesigning-ci-at-mercari/)
 * [OpenPubkey and Sigstore](https://blog.sigstore.dev/openpubkey-and-sigstore/)
 * [Open-Source Security: How Digital Infrastructure Is Built on a House of Cards](https://www.lawfaremedia.org/article/open-source-security-how-digital-infrastructure-built-house-cards) by Chinmayi Sharma
+* [Third-Party GitHub Actions: Effects of an Opt-Out Permission Model](https://www.paloaltonetworks.com/blog/prisma-cloud/github-actions-opt-out-permissions-model/)
+* [Unpinnable Actions: How Malicious Code Can Sneak into Your GitHub Actions Workflows](https://www.paloaltonetworks.com/blog/prisma-cloud/unpinnable-actions-github-security/)
 
 #### Presentations
 * [Reflections on Trust in the Software Supply Chain](https://i.blackhat.com/BH-US-23/Presentations/US-23-Long-Reflections-On-Trust.pdf) by [Jeremy Long](https://www.blackhat.com/us-23/briefings/schedule/speakers.html#jeremy-long-31926), BlackHat, August 2023
@@ -375,6 +377,9 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Using CSAF to Respond to Supply Chain Vulnerabilities at Large Scale](https://www.youtube.com/watch?v=z6Psfopy55E)
 * [The Three Disciplines of CI/CD Security // DANIEL KRIVELEVICH](https://www.youtube.com/watch?v=9wREQrOqvkY)
 * [Securing the Digital Commons: Open-Source Software Cybersecurity](https://www.congress.gov/event/117th-congress/house-event/114727)
+
+#### Trainings
+* [A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.](https://github.com/cider-security-research/cicd-goat)
 
 ## Miscellaneous / Unsorted
 * [SRE Books from Google](https://sre.google/books/)
