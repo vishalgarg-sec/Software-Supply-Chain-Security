@@ -25,13 +25,13 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Improving Security of Open Source Software (OSS) in Operational Technology (OT) and Industrial Control Systems (ICS)](https://www.cisa.gov/sites/default/files/2023-10/Fact_Sheet_Improving_OSS_in_OT_ICS_508c.pdf)
 
 ### The White House - Office of the National Cyber Director ([ONCD](https://www.whitehouse.gov/oncd/))
-* [Request for Information: Open-Source Software Security: Areas of Long-Term Focus and Prioritization](https://www.regulations.gov/document/ONCD-2023-0002-0001), **RFI comments submission deadline: October 9, 2023**
+* [Request for Information: Open-Source Software Security: Areas of Long-Term Focus and Prioritization](https://www.regulations.gov/document/ONCD-2023-0002-0001), RFI comments submission deadline: October 9, 2023
 * [National Cybersecurity Strategy 2023](https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf)
 
 ### National Institute of Standards and Technology ([NIST](https://www.nist.gov/))
 * [Improving the Nation's Cybersecurity: NIST’s Responsibilities Under the May 2021 Executive Order](https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity)
 * [NIST SP 800-218: Secure Software Development Framework (SSDF)](https://csrc.nist.gov/Projects/ssdf)
-* [NIST SP 800-204D - Strategies for the Integration of Software Supply Chain Security in DevSecOps CI/CD pipelines](https://csrc.nist.gov/pubs/sp/800/204/d/ipd), [[PDF](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204D.ipd.pdf)], **(Initial Public Draft) - August 2023, Comments Due Date: October 13, 2023**
+* [NIST SP 800-204D - Strategies for the Integration of Software Supply Chain Security in DevSecOps CI/CD pipelines](https://csrc.nist.gov/pubs/sp/800/204/d/ipd), [[PDF](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-204D.ipd.pdf)], (Initial Public Draft) - August 2023, Comments Due Date: October 13, 2023
 * [NIST SP 800-161 Rev.1: Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/161/r1/final), May 2022
 
 ### Open Worldwide Application Security Project ([OWASP](https://owasp.org/))
@@ -48,6 +48,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Securing Your Software Supply Chain with Sigstore Course](https://openssf.org/training/securing-your-software-supply-chain-with-sigstore-course/)
 * [OpenSSF Scorecard](https://securityscorecards.dev/), [[GitHub](https://github.com/ossf/scorecard)]
 * [OpenSSF Source Code Management Best Practices Guide](https://best.openssf.org/SCM-BestPractices/)
+* [OpenSSF Threat Model of Enterprise Open Source Supply Chains](https://docs.google.com/document/d/1lLCsT0a5vp6FcvquWPzx8AzhFMORyw-4rd9WSyUO9zI)
 
 ### Cloud Native Computing Foundation ([CNCF](https://www.cncf.io/))
 * [Software Supply Chain Security](https://github.com/cncf/tag-security/tree/main/supply-chain-security)
