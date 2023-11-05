@@ -23,6 +23,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [CISA Open Source Software Security Roadmap](https://www.cisa.gov/resources-tools/resources/cisa-open-source-software-security-roadmap), [[PDF](https://www.cisa.gov/sites/default/files/2023-09/CISA-Open-Source-Software-Security-Roadmap-508c%20%281%29.pdf)]
 * [CISA Hardware Bill of Materials (HBOM) Framework for Supply Chain Risk Management](https://www.cisa.gov/resources-tools/resources/hardware-bill-materials-hbom-framework-supply-chain-risk-management), [[PDF](https://www.cisa.gov/sites/default/files/2023-09/A%20Hardware%20Bill%20of%20Materials%20Framework%20for%20Supply%20Chain%20Risk%20Management%20%28508%29.pdf)]
 * [Improving Security of Open Source Software (OSS) in Operational Technology (OT) and Industrial Control Systems (ICS)](https://www.cisa.gov/sites/default/files/2023-10/Fact_Sheet_Improving_OSS_in_OT_ICS_508c.pdf)
+* [CISA Software Identification Ecosystem Option Analysis white paper](https://www.cisa.gov/news-events/news/cisa-issues-request-comment-software-identification-ecosystem-analysis-white-paper), [[PDF](https://www.cisa.gov/sites/default/files/2023-10/Software-Identification-Ecosystem-Option-Analysis-508c.pdf)]
 
 ### The White House - Office of the National Cyber Director ([ONCD](https://www.whitehouse.gov/oncd/))
 * [Request for Information: Open-Source Software Security: Areas of Long-Term Focus and Prioritization](https://www.regulations.gov/document/ONCD-2023-0002-0001), RFI comments submission deadline: October 9, 2023
@@ -219,6 +220,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Rezilion](https://www.rezilion.com/)
 * [TestifySec](https://www.testifysec.com/)
 * [Venafi](https://venafi.com/)
+* [Xygeni](https://xygeni.io/)
 
 
 ## Books
