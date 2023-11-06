@@ -136,6 +136,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [VEX Use Cases](https://www.cisa.gov/sites/default/files/publications/VEX_Use_Cases_April2022.pdf)
 * [VEX Status Justification](https://www.cisa.gov/sites/default/files/publications/VEX_Status_Justification_Jun22.pdf)
 * [Minimum Requirements for Vulnerability Exploitability eXchange (VEX)](https://www.cisa.gov/resources-tools/resources/minimum-requirements-vulnerability-exploitability-exchange-vex), [[PDF](https://www.cisa.gov/sites/default/files/2023-04/minimum-requirements-for-vex-508c.pdf)]
+* [When to Issue VEX Information](https://www.cisa.gov/sites/default/files/2023-11/When-to-Issue-a-VEX-508c.pdf)
 * [VDR vs VEX](https://owasp.org/blog/2023/02/07/vdr-vex-comparison)
 * [What is the Vulnerability Exploitability eXchange (VEX)?](https://community.cisco.com/t5/security-knowledge-base/what-is-the-vulnerability-exploitability-exchange-vex/ta-p/4819021)
 * [OpenVEX Specification](https://github.com/openvex/spec)
