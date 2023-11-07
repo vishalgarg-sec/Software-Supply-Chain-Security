@@ -96,7 +96,6 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [OWASP Top 10 CI/CD Security Risks](https://owasp.org/www-project-top-10-ci-cd-security-risks/)
 * [Microsoft Open Source Software Supply Chain Threats catalogue](https://www.microsoft.com/en-us/securityengineering/opensource/ossthreats)
 
-
 #### Attacks / Compromises
 * [Worldwide software supply chain attacks tracker (updated daily)](https://www.comparitech.com/software-supply-chain-attacks/)
 * [CNCF Tag Security - Catalog of Supply Chain Compromises](https://github.com/cncf/tag-security/tree/main/supply-chain-security/compromises)
@@ -114,7 +113,6 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [ODNI Software Supply Chain Attacks - 2023 Edition](https://www.dni.gov/files/NCSC/documents/supplychain/Software-Supply-Chain-Attacks.pdf)
 * [ODNI Software Supply Chain Attacks - 2021 Edition](https://www.dni.gov/files/NCSC/documents/supplychain/Software_Supply_Chain_Attacks.pdf)
 * [ODNI Software Supply Chain Attacks - 2017 Edition](https://www.dni.gov/files/NCSC/documents/supplychain/20190327-Software-Supply-Chain-Attacks02.pdf)
-
 
 ## Vulnerability Management
 #### Vulnerability Databases
@@ -193,8 +191,6 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [SBOM Benchmark](https://sbombenchmark.dev/)
 * [sbomqs: Quality metrics for SBOMs](https://github.com/interlynk-io/sbomqs)
 
-#### Other / Unsorted
-
 ## Software Supply Chain Security in the Cloud
 #### AWS
 * [Exporting SBOMs with Amazon Inspector](https://docs.aws.amazon.com/inspector/latest/user/sbom-export.html)
@@ -206,29 +202,10 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 #### GCP
 * [Google's Software Supply Chain Security documentation](https://cloud.google.com/software-supply-chain-security/docs)
 
-## Software Supply Chain Security & Artificial Intelligence (AI)
-
-
-## Vendors
-* [Anchore](https://anchore.com/)
-* [Binarly](https://www.binarly.io/) - Binarly is the world’s most advanced automated firmware supply chain security platform. Using cutting-edge machine-learning techniques, Binary identifies both known and unknown vulnerabilities, misconfigurations, and malicious code in firmware and hardware components.* [Chainguard](https://www.chainguard.dev/)
-* [Codenotary](https://codenotary.com/)
-* [Cybeats](https://www.cybeats.com/)
-* [Endor Labs](https://www.endorlabs.com/) - At Endor Labs, we've created the first open source dependency lifecycle management platform to help OSS consumers select, secure and maintain dependencies effectively.
-* [FOSSA](https://fossa.com/)
-* [NetRise](https://www.netrise.io/) - The NetRise Platform is a next-generation product security solution for XIoT devices. Through ML-driven binary analysis, our platform generates industry-best Software Bills of Material (SBOMs), identifies and prioritizes vulnerabilities, and uncovers non-CVE risk that would otherwise go undetected.
-* [Ox Security](https://www.ox.security/)
-* [Rezilion](https://www.rezilion.com/)
-* [TestifySec](https://www.testifysec.com/)
-* [Venafi](https://venafi.com/)
-* [Xygeni](https://xygeni.io/)
-
-
 ## Books
 * [Securing the Software Supply Chain - Protect your application development lifecycle](https://www.manning.com/books/securing-the-software-supply-chain) by [Michael Lieberman](https://www.linkedin.com/in/michael-lieberman-65786ba/) and [Brandon Lum](https://www.linkedin.com/in/brandon-lum-a7b79418/), Release date: Expected Spring 2024
 * [Software Supply Chain Security: Securing the End-to-End Supply Chain for Software, Firmware, and Hardware](https://www.amazon.com/Software-Supply-Chain-Security-End/dp/1098133706/) by [Cassie Crossley](https://www.linkedin.com/in/cassiecrossley/), Release date: Expected January 2024
 * [Software Transparency - Supply Chain Security in an Era of Software-Driven Society](https://www.amazon.com/Software-Transparency-Security-Software-Driven-Society/dp/1394158483) by [Chris Huges](https://www.linkedin.com/in/resilientcyber/) and [Tony Turner](https://www.linkedin.com/in/tonyturnercissp/), Release date: June 2023
-
 
 ## Industry Reports
 * [Sonatype 9th Annual State of the Software Supply Chain](https://www.sonatype.com/state-of-the-software-supply-chain/introduction), Sonatype, 2023
@@ -245,7 +222,6 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Snyk State of Open Source Security Report](https://go.snyk.io/rs/677-THP-415/images/State%20Of%20Open%20Source%20Security%20Report%202020.pdf), Snyk, 2020
 * [State of Software Security - Open Source Edition](https://www.veracode.com/sites/default/files/pdf/resources/reports/state-of-software-security-open-source-edition-veracode-report.pdf), Veracode, 2020
 * [State of the Software Supply Chain - The 6th Annual Report on Global Open Source Software Development](https://www.sonatype.com/hubfs/Corporate/Software%20Supply%20Chain/2020/SON_SSSC-Report-2020_final_aug11.pdf), Sonatype, 2020
-
 
 ## Guides / Documentation
 * [Authoritative Guide to SBOM](https://cyclonedx.org/guides/sbom/OWASP_CycloneDX-SBOM-Guide-en.pdf), OWASP CycloneDX, June 2023
@@ -273,8 +249,6 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [An Empirical Study on Software Bill of Materials: Where We Stand and the Road Ahead](https://arxiv.org/pdf/2301.05362.pdf), February 2023
 * [Using the Software Bill of Materials for Enhancing Cybersecurity](https://english.ncsc.nl/binaries/ncsc-en/documenten/publications/2021/february/4/using-the-software-bill-of-materials-for-enhancing-cybersecurity/Final+Report+SBoM+for+Cybersecurity+v1.0.pdf), Capgemini, January 2021
 
-#### Unsorted
-
 ## GitHub Repos
 * [bureado / awesome-software-supply-chain-security](https://github.com/bureado/awesome-software-supply-chain-security)
 * [meta-fun / awesome-software-supply-chain-security](https://github.com/meta-fun/awesome-software-supply-chain-security)
@@ -290,7 +264,10 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Common Threat Matrix for CI/CD Pipeline](https://github.com/rung/threat-matrix-cicd) - This is an ATT&CK-like matrix focused on CI/CD Pipeline risks.
 
 ## Events / Conferences
-* [OpenSSF Day Europe, Bilbao, Spain – 18 September 2023](https://openssf.org/event/openssf-day-europe-september-18-in-bilbao-spain/)
+None
+
+## Trainings
+* [cicd-goat](https://github.com/cider-security-research/cicd-goat) - Deliberately vulnerable CI/CD environment. Hack CI/CD pipelines, capture the flags.
 
 ## Webinars
 * [Endor Labs webinars](https://www.endorlabs.com/resources-overview)
@@ -318,6 +295,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 #### Vendors
 * [Chainguard](https://www.chainguard.dev/unchained)
 * [Endor Labs](https://www.endorlabs.com/resources-overview)
+* [Kusari](https://www.kusari.dev/resources)
 * [snyk](https://snyk.io/blog/?tag=open-source-security)
 * [Sonatype](https://dev.sonatype.com/)
 * [TestifySec](https://www.testifysec.com/blog/)
@@ -328,8 +306,8 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Introducing Software Bill of Materials for Confluent Platform](https://www.confluent.io/blog/software-bill-of-materials/), July 2023
 * [GitLab Software Supply Chain Security Direction](https://about.gitlab.com/direction/supply-chain/)
 
-
 #### Readings
+* [The SEI SBOM Framework: Informing Third-Party Software Management in Your Supply Chain](https://insights.sei.cmu.edu/blog/the-sei-sbom-framework-informing-third-party-software-management-in-your-supply-chain/)
 * [Securing the Software Supply Chain, VMWare blog](https://octo.vmware.com/part-0-securing-the-software-supply-chain/)
 * [The Rising Threat of Software Supply Chain Attacks: Managing Dependencies of Open Source projects](https://linuxfoundation.eu/newsroom/the-rising-threat-of-software-supply-chain-attacks-managing-dependencies-of-open-source-projects)
 * [The history of cybersecurity](https://blog.avast.com/history-of-cybersecurity-avast)
@@ -381,6 +359,26 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Using CSAF to Respond to Supply Chain Vulnerabilities at Large Scale](https://www.youtube.com/watch?v=z6Psfopy55E)
 * [The Three Disciplines of CI/CD Security // DANIEL KRIVELEVICH](https://www.youtube.com/watch?v=9wREQrOqvkY)
 * [Securing the Digital Commons: Open-Source Software Cybersecurity](https://www.congress.gov/event/117th-congress/house-event/114727)
+
+## Software Supply Chain Security & Artificial Intelligence (AI)
+None
+
+## Vendors
+* [Anchore](https://anchore.com/)
+* [Binarly](https://www.binarly.io/)
+* [Chainguard](https://www.chainguard.dev/)
+* [Codenotary](https://codenotary.com/)
+* [Cybeats](https://www.cybeats.com/)
+* [Endor Labs](https://www.endorlabs.com/)
+* [FOSSA](https://fossa.com/)
+* [Kusari](https://www.kusari.dev/)
+* [NetRise](https://www.netrise.io/)
+* [Ox Security](https://www.ox.security/)
+* [Rezilion](https://www.rezilion.com/)
+* [Semgrep](https://semgrep.dev/)
+* [TestifySec](https://www.testifysec.com/)
+* [Venafi](https://venafi.com/)
+* [Xygeni](https://xygeni.io/)
 
 ## Miscellaneous / Unsorted
 * [SRE Books from Google](https://sre.google/books/)
