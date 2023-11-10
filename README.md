@@ -24,9 +24,10 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [CISA Hardware Bill of Materials (HBOM) Framework for Supply Chain Risk Management](https://www.cisa.gov/resources-tools/resources/hardware-bill-materials-hbom-framework-supply-chain-risk-management), [[PDF](https://www.cisa.gov/sites/default/files/2023-09/A%20Hardware%20Bill%20of%20Materials%20Framework%20for%20Supply%20Chain%20Risk%20Management%20%28508%29.pdf)]
 * [Improving Security of Open Source Software (OSS) in Operational Technology (OT) and Industrial Control Systems (ICS)](https://www.cisa.gov/sites/default/files/2023-10/Fact_Sheet_Improving_OSS_in_OT_ICS_508c.pdf)
 * [CISA Software Identification Ecosystem Option Analysis white paper](https://www.cisa.gov/news-events/news/cisa-issues-request-comment-software-identification-ecosystem-analysis-white-paper), [[PDF](https://www.cisa.gov/sites/default/files/2023-10/Software-Identification-Ecosystem-Option-Analysis-508c.pdf)]
+* [Securing the Software Supply Chain: Recommended Practices for Software Bill of Materials Consumption](https://www.cisa.gov/news-events/alerts/2023/11/09/cisa-nsa-and-partners-release-new-guidance-securing-software-supply-chain), [[PDF](https://media.defense.gov/2023/Nov/09/2003338086/-1/-1/0/SECURING%20THE%20SOFTWARE%20SUPPLY%20CHAIN%20RECOMMENDED%20PRACTICES%20FOR%20SOFTWARE%20BILL%20OF%20MATERIALS%20CONSUMPTION.PDF)], November 2023
 
 ### The White House - Office of the National Cyber Director ([ONCD](https://www.whitehouse.gov/oncd/))
-* [Request for Information: Open-Source Software Security: Areas of Long-Term Focus and Prioritization](https://www.regulations.gov/document/ONCD-2023-0002-0001), RFI comments submission deadline: October 9, 2023
+* [Request for Information: Open-Source Software Security: Areas of Long-Term Focus and Prioritization](https://www.regulations.gov/document/ONCD-2023-0002-0001), [[Public comments to RFI](https://www.regulations.gov/document/ONCD-2023-0002-0001/comment)]
 * [National Cybersecurity Strategy 2023](https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf)
 
 ### National Institute of Standards and Technology ([NIST](https://www.nist.gov/))
@@ -282,6 +283,10 @@ None
 * [Tromzo Podcast EP 40 — Steve Springett on Solving Software Supply Chain Security and SBOM Challenges](https://tromzo.com/podcasts/solving-software-supply-chain-security-and-sbom-challenges), July 2023
 * [Tromzo Podcast EP 25 — Navigating the Complex World of Software Supply Chain Security with Schneider Electric’s Cassie Crossley](https://tromzo.com/podcasts/navigating-the-complex-world-of-software-supply-chain-security), March 2023
 
+## Newsletters
+* [tl;dr sec](https://tldrsec.com/)
+* [CramHacks](https://www.cramhacks.com/)
+
 ## Blogs
 #### Industry / Community
 * [OpenSSF](https://openssf.org/blog/)
@@ -372,6 +377,7 @@ None
 * [Endor Labs](https://www.endorlabs.com/)
 * [FOSSA](https://fossa.com/)
 * [Kusari](https://www.kusari.dev/)
+* [Myrror](https://www.myrror.security/)
 * [NetRise](https://www.netrise.io/)
 * [Ox Security](https://www.ox.security/)
 * [Rezilion](https://www.rezilion.com/)
