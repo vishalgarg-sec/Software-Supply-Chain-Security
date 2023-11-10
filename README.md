@@ -226,7 +226,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 
 ## Guides / Documentation
 * [Authoritative Guide to SBOM](https://cyclonedx.org/guides/sbom/OWASP_CycloneDX-SBOM-Guide-en.pdf), OWASP CycloneDX, June 2023
-* [Open Source Supply Chain Security course](https://osssc-edu.github.io/supply-chain.github.io/https://osssc-edu.github.io/supply-chain.github.io/), Course material collected, curated, maintained and structured by PhD students and faculty from the [KTH Royal Institute of Technology](https://www.kth.se/en) in Stockholm, Sweden
+* [Open Source Supply Chain Security course](https://osssc-edu.github.io/supply-chain.github.io/), Course material collected, curated, maintained and structured by PhD students and faculty from the [KTH Royal Institute of Technology](https://www.kth.se/en) in Stockholm, Sweden
 * [GitHub documentation on Software Supply Chain Security](https://docs.github.com/en/code-security/supply-chain-security)
 * [Sonatype Software Bill of Materials (SBOM) Quick Start Guide](https://help.sonatype.com/iqserver/quickstart-guides/software-bill-of-materials-%28sbom%29-quick-start)
 * [SLSA mapping to other Frameworks](https://docs.google.com/spreadsheets/d/1P_xxMlyF5iPV51CqIk8_EhI57aR6wf1Gkrg8sRHBMMQ)
