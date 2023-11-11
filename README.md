@@ -93,9 +93,11 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [MITRE ATT&CK Supply Chain Compromise Techniques](https://attack.mitre.org/techniques/T1195/)
 * [CAPEC Supply-Chain Attack Vectors](https://capec.mitre.org/data/definitions/437.html)
 * [CNCF Catalog of Types of Supply Chain Compromises](https://github.com/cncf/tag-security/blob/main/supply-chain-security/compromises/compromise-definitions.md)
-* [Open Software Supply Chain Attack Reference (OSC&R)](https://pbom.dev/)[[GitHub](https://github.com/pbom-dev/OSCAR)]
+* [Open Software Supply Chain Attack Reference (OSC&R)](https://pbom.dev/), [[GitHub](https://github.com/pbom-dev/OSCAR)]
 * [OWASP Top 10 CI/CD Security Risks](https://owasp.org/www-project-top-10-ci-cd-security-risks/)
 * [Microsoft Open Source Software Supply Chain Threats catalogue](https://www.microsoft.com/en-us/securityengineering/opensource/ossthreats)
+* [Top 10 Open Source Software (OSS) Risks](https://www.endorlabs.com/top-10-open-source-risks), [[PDF](https://22601473.fs1.hubspotusercontent-na1.net/hubfs/22601473/EndorLabs_Top10_OSS_Risks.pdf)]
+
 
 #### Attacks / Compromises
 * [Worldwide software supply chain attacks tracker (updated daily)](https://www.comparitech.com/software-supply-chain-attacks/)
@@ -186,6 +188,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [NTIA Conformance Checker](https://github.com/spdx/ntia-conformance-checker)
 * [protobom](https://github.com/bom-squad/protobom) - Protobom offers a format-neutral representation of SBOM package and file data and the ability to translate this data between popular SBOM formats.
 * [bomshell](https://github.com/chainguard-dev/bomshell) - Bomshell is an SBOM programming interface and workbench that lets users query and remix data from SBOMs to extract and model software to generate new SBOMs that are structured and contain the data that SBOM ingestion tools expect.
+* [bobber](https://github.com/devops-kung-fu/bomber) - bomber scans the closed source SBOMs that are provided when you receive them from vendors. It can scan open source SBOMs too, and technically you could use bomber as an open source SCA tool if you wanted to.
 
 #### SBOM Governance
 * [Aqua Chain-bench](https://github.com/aquasecurity/chain-bench/tree/main)
@@ -323,7 +326,6 @@ None
 * [Are SBOMs any good? Preliminary measurement of the quality of open source project SBOMs](https://www.chainguard.dev/unchained/are-sboms-any-good-preliminary-measurement-of-the-quality-of-open-source-project-sboms)
 * [I am not a supplier](https://www.softwaremaxims.com/blog/not-a-supplier)
 * [Making the Cyber Resilience Act work for open source software developers](https://github.blog/wp-content/uploads/2023/03/GitHub_Position_Paper-Cyber_Resilience_Act.pdf)
-* [Introducing The Top 10 Open Source Software (OSS) Risks](https://www.endorlabs.com/blog/introducing-the-top-10-open-source-software-oss-risks)
 * [Software supply chain attacks – everything you need to know](https://portswigger.net/daily-swig/software-supply-chain-attacks-everything-you-need-to-know)
 * [What is an SBOM, and why should you Care??](https://boxboat.com/2021/05/12/what-is-sbom-and-why-should-you-care/)
 * [Software Bill Of Materials (SBOM) Formats, Use Cases, and Specifications](https://fossa.com/blog/software-bill-of-materials-formats-use-cases-tools/)
