@@ -74,7 +74,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Defending Continuous Integration/Continuous Delivery (CI/CD) Environments](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3441780/nsa-and-cisa-best-practices-to-secure-cloud-continuous-integrationcontinuous-de/), NSA and CISA joint Cybersecurity Information Sheet (CSI), June 2023
 * [Securing the Software Supply Chain: Recommended Practices Guide for Customers](https://media.defense.gov/2022/Nov/17/2003116445/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_CUSTOMER.PDF), ESF Partners, NSA, and CISA Release Software Supply Chain Guidance for Customers [[Press Release](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3221208/esf-partners-nsa-and-cisa-release-software-supply-chain-guidance-for-customers/)], November 2022
 * [Securing the Software Supply Chain: Recommended Practices Guide for Suppliers](https://media.defense.gov/2022/Oct/31/2003105368/-1/-1/0/SECURING_THE_SOFTWARE_SUPPLY_CHAIN_SUPPLIERS.PDF), ESF Partners, NSA, and CISA Release Software Supply Chain Guidance for Suppliers [[Press Release](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3204427/esf-partners-nsa-and-cisa-release-software-supply-chain-guidance-for-suppliers/)], October 2022
-* [Securing the Software Supply Chain - Recommended Practices Guide for Developers](https://media.defense.gov/2022/Sep/01/2003068942/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_DEVELOPERS.PDF), NSA, CISA, ODNI Release Software Supply Chain Guidance for Developers [[Press Release](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3146465/nsa-cisa-odni-release-software-supply-chain-guidance-for-developers/)], August 2022
+* [Securing the Software Supply Chain: Recommended Practices Guide for Developers](https://media.defense.gov/2022/Sep/01/2003068942/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_DEVELOPERS.PDF), NSA, CISA, ODNI Release Software Supply Chain Guidance for Developers [[Press Release](https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3146465/nsa-cisa-odni-release-software-supply-chain-guidance-for-developers/)], August 2022
 * [CIS Software Supply Chain Security Guide v1.0](https://www.cisecurity.org/insights/white-papers/cis-software-supply-chain-security-guide), June 2022
 * [Microsoft Secure Supply Chain Consumption Framework (S2C2F)](https://www.microsoft.com/en-us/security/blog/2022/11/16/microsoft-contributes-s2c2f-to-openssf-to-improve-supply-chain-security/)[[GitHub]](https://github.com/ossf/s2c2f)
 * [Blueprint for building modern, secure software development pipelines](https://github.com/Venafi/blueprint-securesoftwarepipeline)
@@ -379,6 +379,7 @@ None
 * [Endor Labs](https://www.endorlabs.com/)
 * [FOSSA](https://fossa.com/)
 * [Kusari](https://www.kusari.dev/)
+* [Lineaje](https://www.lineaje.dev/)
 * [Myrror](https://www.myrror.security/)
 * [NetRise](https://www.netrise.io/)
 * [Ox Security](https://www.ox.security/)
