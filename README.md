@@ -173,7 +173,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [IETF Draft - Discovering and Retrieving Software Transparency and Vulnerability Information](https://datatracker.ietf.org/doc/draft-ietf-opsawg-sbom-access/)
 
 #### SBOM Adoption / Implementation
-* [SBOM Hall of Fame](https://github.com/communitysec/sbom-hall-of-fame)
+* [SBOM Hall of Fame](https://github.com/communitysec/sbom-hall-of-fame) - A place for the InfoSec community to share and celebrate real stories of organizations successfully using SBOMs (and other bills of material) to actually manage and reduce security risk in meaningful ways.
 * [Cisco Demonstrating Transparency through Software Bill of Materials (SBOM)](https://blogs.cisco.com/security/demonstrating-transparency-through-software-bill-of-materials-sbom), August 2023
 * [Introducing Software Bill of Materials for Confluent Platform](https://www.confluent.io/blog/software-bill-of-materials/), July 2023
 * [GitLab Software Supply Chain Security Direction](https://about.gitlab.com/direction/supply-chain/)
