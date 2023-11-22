@@ -163,7 +163,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Operations Bill of Materials (OBOM)](https://cyclonedx.org/capabilities/obom)
 * [Cryptography Bill of Materials (CBOM)](https://github.com/IBM/CBOM)
 
-## Software Bill of Materials (SBOM)
+### Software Bill of Materials (SBOM)
 #### Formats and Specifications
 * [CycloneDX](https://cyclonedx.org/)
 * [Software Package Data Exchange (SPDX)](https://spdx.dev/)
@@ -172,7 +172,13 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 #### SBOM Lifecycle
 * [IETF Draft - Discovering and Retrieving Software Transparency and Vulnerability Information](https://datatracker.ietf.org/doc/draft-ietf-opsawg-sbom-access/)
 
-## Tooling
+#### SBOM Adoption / Implementation
+* [SBOM Hall of Fame](https://github.com/communitysec/sbom-hall-of-fame)
+* [Cisco Demonstrating Transparency through Software Bill of Materials (SBOM)](https://blogs.cisco.com/security/demonstrating-transparency-through-software-bill-of-materials-sbom), August 2023
+* [Introducing Software Bill of Materials for Confluent Platform](https://www.confluent.io/blog/software-bill-of-materials/), July 2023
+* [GitLab Software Supply Chain Security Direction](https://about.gitlab.com/direction/supply-chain/)
+
+### Tooling
 #### SBOM Generation
 * [kubernetes bom tool](https://github.com/kubernetes-sigs/bom)
 * [Microsoft’s SBOM Tool](https://github.com/microsoft/sbom-tool)
@@ -309,11 +315,6 @@ None
 * [TestifySec](https://www.testifysec.com/blog/)
 
 ## From the Web
-#### SBOM Adoption / Implementation
-* [Cisco Demonstrating Transparency through Software Bill of Materials (SBOM)](https://blogs.cisco.com/security/demonstrating-transparency-through-software-bill-of-materials-sbom), August 2023
-* [Introducing Software Bill of Materials for Confluent Platform](https://www.confluent.io/blog/software-bill-of-materials/), July 2023
-* [GitLab Software Supply Chain Security Direction](https://about.gitlab.com/direction/supply-chain/)
-
 #### Readings
 * [The SEI SBOM Framework: Informing Third-Party Software Management in Your Supply Chain](https://insights.sei.cmu.edu/blog/the-sei-sbom-framework-informing-third-party-software-management-in-your-supply-chain/)
 * [Securing the Software Supply Chain, VMWare blog](https://octo.vmware.com/part-0-securing-the-software-supply-chain/)
