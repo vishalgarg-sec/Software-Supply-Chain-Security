@@ -355,6 +355,7 @@ None
 * [Open-Source Security: How Digital Infrastructure Is Built on a House of Cards](https://www.lawfaremedia.org/article/open-source-security-how-digital-infrastructure-built-house-cards) by Chinmayi Sharma
 
 #### Presentations
+* [Building Trust Brick by Brick: Exploring the Landscape of Modern Secure Supply Chain Tools](https://speakerdeck.com/dasiths/building-trust-brick-by-brick-exploring-the-landscape-of-modern-secure-supply-chain-tools), October 2023
 * [Reflections on Trust in the Software Supply Chain](https://i.blackhat.com/BH-US-23/Presentations/US-23-Long-Reflections-On-Trust.pdf) by [Jeremy Long](https://www.blackhat.com/us-23/briefings/schedule/speakers.html#jeremy-long-31926), BlackHat, August 2023
 * [Flaming Hot SLSA!](https://speakerdeck.com/abhaybhargav/flaming-hot-slsa) by [Abhay Bhargav](https://www.linkedin.com/in/abhaybhargav/), 2022
 * [Attacking and Securing CI/CD Pipeline](https://speakerdeck.com/rung/cd-pipeline), 2021
