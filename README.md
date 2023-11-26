@@ -83,8 +83,10 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [The Update Framework (TUF)](https://theupdateframework.io/), [Repository Service for TUF (RSTUF)](https://github.com/repository-service-tuf/repository-service-tuf) - A framework for securing software update systems
 * [ODNI Supply Chain Risk Management Documentation](https://www.odni.gov/index.php/ncsc-what-we-do/ncsc-supply-chain-threats)
 * [Supply Chain Integrity, Transparency, and Trust (SCITT)](https://scitt.io/), [[GitHub](https://github.com/ietf-scitt)], [[SCIM GitHub](https://github.com/microsoft/scim)] - The Supply Chain Integrity, Transparency and Trust (SCITT) initiative is a set of proposed IETF industry standards for managing the compliance of goods and services across end-to-end supply chains.
+* [MITRE Supply Chain Security System of Trust (SoT) initiative](https://sot.mitre.org/)
 * [OpenPubkey Project](https://www.bastionzero.com/openpubkey), [[GitHub](https://github.com/openpubkey/openpubkey)], [[Signing Docker Official Images Using OpenPubkey](https://www.docker.com/blog/signing-docker-official-images-using-openpubkey/)]
 * [Tekton Chains](https://tekton.dev/) - Artifact signatures and attestations for Tekton CI/CD systems
+* [Notary](https://notaryproject.dev/) - A CNCF incubating project aiming to provide enterprise-grade solutions and cross-industry standards for Signing and validating software artifacts.
 
 ## Software Supply Chain Threats
 #### Threats
@@ -285,6 +287,7 @@ None
 ## Podcasts
 * [daBOM](https://dabom.captivate.fm/)
 * [Tromzo Podcasts](https://tromzo.com/podcasts)
+* [ConversingLabs](https://www.reversinglabs.com/conversinglabs)
 * [Open Source Security Podcast](https://opensourcesecurity.io/category/podcast/)
 * [Code Patrol by Contrast Security - CycloneDX 1.5: The missing link in SBOMs and software transparency?](https://www.contrastsecurity.com/codepatrolpodcast/cyclonedx-15-the-missing-link-in-sboms-and-software-transparency), August 2023
 * [Proof of Concept: Managing Software Supply Chain Woes](https://www.bankinfosecurity.com/proof-concept-managing-software-supply-chain-woes-a-22787), August 2023
@@ -377,6 +380,7 @@ None
 * [Chainguard](https://www.chainguard.dev/)
 * [Codenotary](https://codenotary.com/)
 * [Cybeats](https://www.cybeats.com/)
+* [EdgeBit](https://edgebit.io/)
 * [Endor Labs](https://www.endorlabs.com/)
 * [FOSSA](https://fossa.com/)
 * [Kusari](https://www.kusari.dev/)
