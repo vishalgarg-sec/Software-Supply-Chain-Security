@@ -130,6 +130,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [Sonatype OSS Index](https://ossindex.sonatype.org/)
 * [Snyk Vulnerability DB](https://security.snyk.io/vuln)
 * [Open Source Insights](https://deps.dev/) - Open Source Insights is a service developed and hosted by Google to help developers better understand the structure, construction, and security of open source software packages.
+* [VulnerableCode](https://public.vulnerablecode.io/) - VulnerableCode provides an open database of software packages that are affected by known security vulnerabilities.
 
 #### EPSS
 * [Exploit Prediction Scoring System (EPSS)](https://www.first.org/epss/)
@@ -176,6 +177,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 
 #### SBOM Adoption / Implementation
 * [SBOM Hall of Fame](https://github.com/communitysec/sbom-hall-of-fame) - A place for the InfoSec community to share and celebrate real stories of organizations successfully using SBOMs (and other bills of material) to actually manage and reduce security risk in meaningful ways.
+* [FOSS SBOM Management @ Mercedes-Benz: This is how we do it!](https://opensource.mercedes-benz.com/news/foss_sbom_management/), November 2023
 * [Cisco Demonstrating Transparency through Software Bill of Materials (SBOM)](https://blogs.cisco.com/security/demonstrating-transparency-through-software-bill-of-materials-sbom), August 2023
 * [Introducing Software Bill of Materials for Confluent Platform](https://www.confluent.io/blog/software-bill-of-materials/), July 2023
 * [GitLab Software Supply Chain Security Direction](https://about.gitlab.com/direction/supply-chain/)
@@ -353,6 +355,7 @@ None
 * [Defense Against Novel Threats: Redesigning CI at Mercari](https://engineering.mercari.com/en/blog/entry/20220203-defense-against-novel-threats-redesigning-ci-at-mercari/)
 * [OpenPubkey and Sigstore](https://blog.sigstore.dev/openpubkey-and-sigstore/)
 * [Open-Source Security: How Digital Infrastructure Is Built on a House of Cards](https://www.lawfaremedia.org/article/open-source-security-how-digital-infrastructure-built-house-cards) by Chinmayi Sharma
+* [How one programmer broke the internet by deleting a tiny piece of code](https://qz.com/646467/how-one-programmer-broke-the-internet-by-deleting-a-tiny-piece-of-code)
 
 #### Presentations
 * [Building Trust Brick by Brick: Exploring the Landscape of Modern Secure Supply Chain Tools](https://speakerdeck.com/dasiths/building-trust-brick-by-brick-exploring-the-landscape-of-modern-secure-supply-chain-tools), October 2023
