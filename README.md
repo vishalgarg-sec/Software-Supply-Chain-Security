@@ -52,6 +52,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [OpenSSF Scorecard](https://securityscorecards.dev/), [[GitHub](https://github.com/ossf/scorecard)]
 * [OpenSSF Source Code Management Best Practices Guide](https://best.openssf.org/SCM-BestPractices/)
 * [OpenSSF Threat Model of Enterprise Open Source Supply Chains](https://docs.google.com/document/d/1lLCsT0a5vp6FcvquWPzx8AzhFMORyw-4rd9WSyUO9zI)
+* [SBOMit: Adding Verification to SBOMs](https://openssf.org/blog/2023/12/13/introducing-sbomit-adding-verification-to-sboms/), [[GitHub](https://github.com/SBOMit/specification/)]
 
 ### Cloud Native Computing Foundation ([CNCF](https://www.cncf.io/))
 * [Software Supply Chain Security](https://github.com/cncf/tag-security/tree/main/supply-chain-security)
