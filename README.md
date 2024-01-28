@@ -89,7 +89,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [MITRE Supply Chain Security System of Trust (SoT) initiative](https://sot.mitre.org/)
 * [OpenPubkey Project](https://www.bastionzero.com/openpubkey), [[GitHub](https://github.com/openpubkey/openpubkey)], [[Signing Docker Official Images Using OpenPubkey](https://www.docker.com/blog/signing-docker-official-images-using-openpubkey/)]
 * [Tekton Chains](https://tekton.dev/) - Artifact signatures and attestations for Tekton CI/CD systems
-* [Notary](https://notaryproject.dev/) - A CNCF incubating project aiming to provide enterprise-grade solutions and cross-industry standards for Signing and validating software artifacts.
+* [Notary](https://notaryproject.dev/), [[GitHub](https://github.com/notaryproject/.github/blob/main/README.md)] - A CNCF incubating project aiming to provide enterprise-grade solutions and cross-industry standards for Signing and validating software artifacts.
 
 ## Software Supply Chain Threats
 #### Threats
@@ -212,6 +212,7 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 #### AWS
 * [Exporting SBOMs with Amazon Inspector](https://docs.aws.amazon.com/inspector/latest/user/sbom-export.html)
 * [Using SBOM to find vulnerable container images running on Amazon EKS clusters](https://aws.amazon.com/blogs/containers/using-sbom-to-find-vulnerable-container-images-running-on-amazon-eks-clusters/)
+* [Best Practices to help secure your container image build pipeline by using AWS Signer](https://aws.amazon.com/blogs/security/best-practices-to-help-secure-your-container-image-build-pipeline-by-using-aws-signer/)
 
 #### Azure
 * [SBOM - Engineering@Microsoft](https://devblogs.microsoft.com/engineering-at-microsoft/tag/sbom/)
@@ -275,6 +276,9 @@ A knowledge base comprising **Software Supply Chain Security** initiatives, stan
 * [chainguard-dev / ssc-reading-list](https://github.com/chainguard-dev/ssc-reading-list)
 * [chughes757 / SecureSoftwareSupplyChain](https://github.com/chughes757/SecureSoftwareSupplyChain)
 
+## Other Repos
+* [CloudSecDocs / Supply Chain Security](https://cloudsecdocs.com/devops/pipelines/supply_chain/supply_chain_security/)
+
 ## GitHub Projects
 * [Malicious Dependencies](https://github.com/jeremylong/malicious-dependencies)
 * [neo4cyclone](https://github.com/javixeneize/neo4cyclone) - Neo4Cyclone is a project that ingests CycloneDX SBOMs in a Neo4J database for visualisation purposes.
@@ -324,6 +328,8 @@ None
 
 ## From the Web
 #### Readings
+* [An Overview of Software Supply Chain Security](https://tldrsec.com/p/supply-chain-security-overview)
+* [Software Supply Chain Vendor Landscape](https://tldrsec.com/p/software-supply-chain-vendor-landscape)
 * [The SEI SBOM Framework: Informing Third-Party Software Management in Your Supply Chain](https://insights.sei.cmu.edu/blog/the-sei-sbom-framework-informing-third-party-software-management-in-your-supply-chain/)
 * [Securing the Software Supply Chain, VMWare blog](https://octo.vmware.com/part-0-securing-the-software-supply-chain/)
 * [The Rising Threat of Software Supply Chain Attacks: Managing Dependencies of Open Source projects](https://linuxfoundation.eu/newsroom/the-rising-threat-of-software-supply-chain-attacks-managing-dependencies-of-open-source-projects)
